@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name 000_bids_footprint)(type KiCad)(uri ${KIPRJMOD}/submodules/bids-kicad-library/footprint/bids_footprint.pretty)(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri ${KIPRJMOD}/submodules/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
+  (lib (name 001_download)(type KiCad)(uri ${KIPRJMOD}/downloads/KiCADv6/footprints.pretty/)(options "")(descr ""))
+)
