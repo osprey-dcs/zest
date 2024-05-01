@@ -4290,6 +4290,7 @@
 	)
 	(label "ADC1_CSB"
 		(at 156.21 78.74 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
