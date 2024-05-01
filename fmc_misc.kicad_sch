@@ -5,7 +5,7 @@
 	(uuid "8343a5b1-aaa2-4696-b4b0-629d32b90770")
 	(paper "A4")
 	(lib_symbols
-		(symbol "001_symbol:10029449-111RLF"
+		(symbol "001_symbol:10029449-111RLF_GH"
 			(pin_names
 				(offset 0.254)
 			)
@@ -83,7 +83,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "10029449-111RLF_1_1"
+			(symbol "10029449-111RLF_GH_1_1"
 				(polyline
 					(pts
 						(xy 5.08 -48.26) (xy 12.7 -48.26)
@@ -1032,6 +1032,78 @@
 						)
 					)
 				)
+				(pin input line
+					(at 15.24 -38.1 180)
+					(length 2.54)
+					(name "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 -40.64 180)
+					(length 2.54)
+					(name "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 -43.18 180)
+					(length 2.54)
+					(name "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 -45.72 180)
+					(length 2.54)
+					(name "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin unspecified line
 					(at 0 -5.08 0)
 					(length 5.08)
@@ -1159,7 +1231,7 @@
 					)
 				)
 			)
-			(symbol "10029449-111RLF_1_2"
+			(symbol "10029449-111RLF_GH_1_2"
 				(polyline
 					(pts
 						(xy 5.08 -48.26) (xy 12.7 -48.26)
@@ -3602,6 +3674,22 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f7d82457-0159-4505-976f-d5163ca773ef")
+	)
+	(no_connect
+		(at 165.1 87.63)
+		(uuid "3c033280-d752-483f-ab84-563121ef7550")
+	)
+	(no_connect
+		(at 165.1 85.09)
+		(uuid "3c6bb796-f6a8-46f5-82ec-1a5e7ece3adc")
+	)
+	(no_connect
+		(at 165.1 82.55)
+		(uuid "5a60db3a-dcb2-4db7-bf46-b92c16c71ba1")
+	)
+	(no_connect
+		(at 165.1 80.01)
+		(uuid "8d084f93-ff37-4edd-971f-8a9638a7cd1e")
 	)
 	(no_connect
 		(at 149.86 74.93)
@@ -6049,7 +6137,7 @@
 		)
 	)
 	(symbol
-		(lib_id "001_symbol:10029449-111RLF")
+		(lib_id "001_symbol:10029449-111RLF_GH")
 		(at 149.86 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6075,7 +6163,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "001_download:CONN_10029449111_AMP"
+		(property "Footprint" "CONN_10029449111_AMP"
 			(at 149.86 41.91 0)
 			(effects
 				(font
@@ -6169,6 +6257,18 @@
 		)
 		(pin "15"
 			(uuid "69148c58-38f8-4dac-8b15-ab3162340d9b")
+		)
+		(pin "21"
+			(uuid "aabb8dbd-989c-4710-9baa-cd0ee6342f89")
+		)
+		(pin "20"
+			(uuid "db7e78cd-6145-4a8a-9a5c-a55411b06906")
+		)
+		(pin "23"
+			(uuid "0e84d697-45ce-45f2-bf3c-12bb576601dc")
+		)
+		(pin "22"
+			(uuid "e4c3c86b-61c4-405e-a0ec-6c265cf11917")
 		)
 		(instances
 			(project "kdigitizer"
@@ -6829,7 +6929,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "DNP"
 			(at 121.92 80.01 90)
 			(effects
 				(font

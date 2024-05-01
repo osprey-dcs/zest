@@ -1494,7 +1494,7 @@
 		(at 201.93 86.36 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -1661,7 +1661,7 @@
 				)
 			)
 		)
-		(property "Footprint" "001_download:8S1_ATM"
+		(property "Footprint" "001_download:8S1_ATM_GH"
 			(at 129.54 78.74 0)
 			(effects
 				(font
@@ -2196,7 +2196,7 @@
 		(at 210.82 83.82 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)

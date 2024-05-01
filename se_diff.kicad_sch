@@ -1203,7 +1203,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "DNP"
 			(at 218.44 81.2799 0)
 			(effects
 				(font

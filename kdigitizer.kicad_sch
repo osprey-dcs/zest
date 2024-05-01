@@ -5,7 +5,7 @@
 	(uuid "00000000-0000-0000-0000-000000000003")
 	(paper "A4")
 	(lib_symbols
-		(symbol "Mechanical:MountingHole"
+		(symbol "001_symbol:MountingHole_GH"
 			(pin_names
 				(offset 1.016)
 			)
@@ -20,7 +20,7 @@
 					)
 				)
 			)
-			(property "Value" "MountingHole"
+			(property "Value" "MountingHole_GH"
 				(at 0 3.175 0)
 				(effects
 					(font
@@ -73,7 +73,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "MountingHole_0_1"
+			(symbol "MountingHole_GH_0_1"
 				(circle
 					(center 0 0)
 					(radius 1.27)
@@ -83,6 +83,26 @@
 					)
 					(fill
 						(type none)
+					)
+				)
+			)
+			(symbol "MountingHole_GH_1_1"
+				(pin input line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
 					)
 				)
 			)
@@ -149,6 +169,34 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ed3b9ae4-2426-44e7-837c-826fa3611a58")
+	)
+	(no_connect
+		(at 69.85 144.78)
+		(uuid "24c385a8-162f-44d6-9886-b8e247e71971")
+	)
+	(no_connect
+		(at 62.23 144.78)
+		(uuid "8c685839-623a-4ab0-b6bc-05488ac32ed6")
+	)
+	(no_connect
+		(at 85.09 144.78)
+		(uuid "9b5a97e4-01ad-4a5b-a245-03ad0bd7ca61")
+	)
+	(no_connect
+		(at 54.61 144.78)
+		(uuid "affdbcd6-1434-41e8-a079-2ee37abf0d09")
+	)
+	(no_connect
+		(at 38.1 144.78)
+		(uuid "ce7cb8a7-073c-4e83-b1ef-498862f3505f")
+	)
+	(no_connect
+		(at 77.47 144.78)
+		(uuid "ddb0ba35-11c1-4854-ad67-f2e253d49192")
+	)
+	(no_connect
+		(at 45.72 144.78)
+		(uuid "f163b9da-93ac-4a08-aa98-2be61e588045")
 	)
 	(bus_entry
 		(at 135.89 90.17)
@@ -1546,7 +1594,7 @@
 		(uuid "9a89ee2f-7135-440f-a830-98b8ef3e3374")
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
+		(lib_id "001_symbol:MountingHole_GH")
 		(at 45.72 142.24 0)
 		(unit 1)
 		(exclude_from_sim yes)
@@ -1600,6 +1648,9 @@
 				(hide yes)
 			)
 		)
+		(pin "1"
+			(uuid "fabb09a6-0586-4465-805f-fae36bd576b8")
+		)
 		(instances
 			(project "kdigitizer"
 				(path "/00000000-0000-0000-0000-000000000003"
@@ -1610,7 +1661,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
+		(lib_id "001_symbol:MountingHole_GH")
 		(at 38.1 142.24 0)
 		(unit 1)
 		(exclude_from_sim yes)
@@ -1664,6 +1715,9 @@
 				(hide yes)
 			)
 		)
+		(pin "1"
+			(uuid "0017adfe-0fd8-462d-930b-bfc8739651dc")
+		)
 		(instances
 			(project "kdigitizer"
 				(path "/00000000-0000-0000-0000-000000000003"
@@ -1674,7 +1728,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
+		(lib_id "001_symbol:MountingHole_GH")
 		(at 85.09 142.24 0)
 		(unit 1)
 		(exclude_from_sim yes)
@@ -1728,6 +1782,9 @@
 				(hide yes)
 			)
 		)
+		(pin "1"
+			(uuid "bccbd109-2eea-4df7-bed5-45849b78fdf0")
+		)
 		(instances
 			(project "kdigitizer"
 				(path "/00000000-0000-0000-0000-000000000003"
@@ -1738,7 +1795,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
+		(lib_id "001_symbol:MountingHole_GH")
 		(at 69.85 142.24 0)
 		(unit 1)
 		(exclude_from_sim yes)
@@ -1792,6 +1849,9 @@
 				(hide yes)
 			)
 		)
+		(pin "1"
+			(uuid "4790cead-6a16-4793-ae09-101d21d1a72f")
+		)
 		(instances
 			(project "kdigitizer"
 				(path "/00000000-0000-0000-0000-000000000003"
@@ -1802,7 +1862,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
+		(lib_id "001_symbol:MountingHole_GH")
 		(at 77.47 142.24 0)
 		(unit 1)
 		(exclude_from_sim yes)
@@ -1856,6 +1916,9 @@
 				(hide yes)
 			)
 		)
+		(pin "1"
+			(uuid "aad8ff82-3119-4566-896e-32438415f2a1")
+		)
 		(instances
 			(project "kdigitizer"
 				(path "/00000000-0000-0000-0000-000000000003"
@@ -1866,7 +1929,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
+		(lib_id "001_symbol:MountingHole_GH")
 		(at 54.61 142.24 0)
 		(unit 1)
 		(exclude_from_sim yes)
@@ -1920,6 +1983,9 @@
 				(hide yes)
 			)
 		)
+		(pin "1"
+			(uuid "d4ba10f3-2073-49eb-8b37-c683d0d60188")
+		)
 		(instances
 			(project "kdigitizer"
 				(path "/00000000-0000-0000-0000-000000000003"
@@ -1930,7 +1996,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
+		(lib_id "001_symbol:MountingHole_GH")
 		(at 62.23 142.24 0)
 		(unit 1)
 		(exclude_from_sim yes)
@@ -1983,6 +2049,9 @@
 				)
 				(hide yes)
 			)
+		)
+		(pin "1"
+			(uuid "dd016b56-9e11-417d-9001-4bfd28b51f96")
 		)
 		(instances
 			(project "kdigitizer"

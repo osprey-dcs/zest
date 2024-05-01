@@ -2007,6 +2007,7 @@
 	(symbol
 		(lib_id "Device:C")
 		(at 143.51 119.38 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2014,7 +2015,7 @@
 		(dnp no)
 		(uuid "729d2b23-a521-4b1d-94ec-389c426845b8")
 		(property "Reference" "C3005"
-			(at 147.32 118.1099 0)
+			(at 139.7 118.1099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2023,7 +2024,7 @@
 			)
 		)
 		(property "Value" "22UF"
-			(at 147.32 120.6499 0)
+			(at 139.7 120.6499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2032,7 +2033,7 @@
 			)
 		)
 		(property "Footprint" "001_download:CAP_EEF_CD_PAN_GH"
-			(at 144.4752 123.19 0)
+			(at 142.5448 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2059,7 +2060,7 @@
 			)
 		)
 		(property "Vendor" "digikey:PCE3168CT-ND"
-			(at 0 238.76 0)
+			(at 287.02 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3128,7 +3129,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "fad6b81a-b6df-4661-b410-6ec220e95a18")
 		(property "Reference" "#PWR03008"
 			(at 60.96 101.6 0)
@@ -3140,7 +3140,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 63.5 101.5999 90)
+			(at 67.31 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)

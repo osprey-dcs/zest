@@ -5,7 +5,7 @@
 	(uuid "db134012-fd4e-4254-867b-0cc933ab07f1")
 	(paper "A4")
 	(lib_symbols
-		(symbol "001_symbol:142-0701-201"
+		(symbol "001_symbol:142-0701-201_GH"
 			(pin_names
 				(offset 0.254)
 			)
@@ -83,7 +83,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "142-0701-201_1_1"
+			(symbol "142-0701-201_GH_1_1"
 				(polyline
 					(pts
 						(xy 5.08 -2.54) (xy 12.7 -2.54)
@@ -186,8 +186,80 @@
 						)
 					)
 				)
+				(pin input line
+					(at 15.24 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 0 180)
+					(length 2.54) hide
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 0 180)
+					(length 2.54) hide
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 0 180)
+					(length 2.54) hide
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 			)
-			(symbol "142-0701-201_1_2"
+			(symbol "142-0701-201_GH_1_2"
 				(polyline
 					(pts
 						(xy 5.08 -2.54) (xy 12.7 -2.54)
@@ -5048,6 +5120,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 20.32 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0e5646af-40ba-4844-8695-f0fd4db0e9c4")
+		(property "Reference" "#PWR01027"
+			(at 20.32 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 20.32 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 20.32 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 20.32 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 20.32 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e4e543e4-263c-4a77-9be7-5b1460d8ef9e")
+		)
+		(instances
+			(project "kdigitizer"
+				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000015"
+					(reference "#PWR01027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "001_symbol:U.FL-R-SMT10_1")
 		(at 142.24 71.12 0)
 		(mirror y)
@@ -6669,7 +6807,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 274.32 32.0548 0)
 			(effects
 				(font
@@ -7144,7 +7282,7 @@
 		)
 	)
 	(symbol
-		(lib_id "001_symbol:142-0701-201")
+		(lib_id "001_symbol:142-0701-201_GH")
 		(at 213.36 149.86 0)
 		(mirror x)
 		(unit 1)
@@ -7169,7 +7307,7 @@
 				)
 			)
 		)
-		(property "Footprint" "001_download:CONN_142-0701-201_CIN"
+		(property "Footprint" "CONN_142-0701-201_CIN"
 			(at 213.36 149.86 0)
 			(effects
 				(font
@@ -7209,6 +7347,18 @@
 		)
 		(pin "1"
 			(uuid "397241d8-99c5-45fa-8970-01b8dd82e24c")
+		)
+		(pin "2"
+			(uuid "8edeb263-224b-4a2c-8bc7-18de38abb6bf")
+		)
+		(pin "3"
+			(uuid "79f1cb20-516d-4ea9-97cb-1b0204112022")
+		)
+		(pin "4"
+			(uuid "f54800ee-3806-4925-8f4e-f8c83fd7c0a0")
+		)
+		(pin "5"
+			(uuid "06cb75f4-545e-4ee3-9c6e-78662eff96b5")
 		)
 		(instances
 			(project "kdigitizer"
@@ -7686,6 +7836,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 228.6 149.86 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8fdd7413-ad66-4e04-aba8-aac71cf44cdb")
+		(property "Reference" "#PWR01028"
+			(at 228.6 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 228.6001 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 228.6 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 228.6 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 228.6 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "efdc4884-f1e1-4371-a528-21bdbd9b79f7")
+		)
+		(instances
+			(project "kdigitizer"
+				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000015"
+					(reference "#PWR01028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:FerriteBead")
 		(at 55.88 33.02 90)
 		(unit 1)
@@ -8033,7 +8250,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 269.24 126.0348 0)
 			(effects
 				(font
@@ -8802,7 +9019,7 @@
 		)
 	)
 	(symbol
-		(lib_id "001_symbol:142-0701-201")
+		(lib_id "001_symbol:142-0701-201_GH")
 		(at 35.56 110.49 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8827,7 +9044,7 @@
 				)
 			)
 		)
-		(property "Footprint" "001_download:CONN_142-0701-201_CIN"
+		(property "Footprint" "CONN_142-0701-201_CIN"
 			(at 35.56 110.49 0)
 			(effects
 				(font
@@ -8867,6 +9084,18 @@
 		)
 		(pin "1"
 			(uuid "336b14de-5a0a-4412-afd1-66297e5ccec3")
+		)
+		(pin "5"
+			(uuid "9d33cfd7-35e6-4893-b05c-08cbf7afe32d")
+		)
+		(pin "2"
+			(uuid "b6273c6d-84d2-4b7d-aa3b-72b20ba5654c")
+		)
+		(pin "4"
+			(uuid "0eee9aac-c712-469b-ac37-e3e07c98d18c")
+		)
+		(pin "3"
+			(uuid "dd1c0908-a5dd-40c6-aa73-f1273c6de16e")
 		)
 		(instances
 			(project "kdigitizer"

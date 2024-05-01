@@ -1810,7 +1810,7 @@
 				)
 			)
 		)
-		(property "Footprint" "001_download:RU_24_ADI"
+		(property "Footprint" "001_download:RU_24_ADI_GH"
 			(at 147.32 77.47 0)
 			(effects
 				(font

@@ -5,7 +5,7 @@
 	(uuid "6fb393ff-695c-410e-b65e-1a9e908a0224")
 	(paper "A4")
 	(lib_symbols
-		(symbol "001_symbol:142-0701-201"
+		(symbol "001_symbol:142-0701-201_GH"
 			(pin_names
 				(offset 0.254)
 			)
@@ -83,7 +83,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "142-0701-201_1_1"
+			(symbol "142-0701-201_GH_1_1"
 				(polyline
 					(pts
 						(xy 5.08 -2.54) (xy 12.7 -2.54)
@@ -186,8 +186,80 @@
 						)
 					)
 				)
+				(pin input line
+					(at 15.24 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 0 180)
+					(length 2.54) hide
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 0 180)
+					(length 2.54) hide
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 0 180)
+					(length 2.54) hide
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 			)
-			(symbol "142-0701-201_1_2"
+			(symbol "142-0701-201_GH_1_2"
 				(polyline
 					(pts
 						(xy 5.08 -2.54) (xy 12.7 -2.54)
@@ -2204,6 +2276,12 @@
 		(uuid "a860f54c-fe8c-4008-aac5-c1c41c28985c")
 	)
 	(junction
+		(at 260.35 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ad18ec71-90e2-457a-9383-83a9e8dcb852")
+	)
+	(junction
 		(at 50.8 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2232,6 +2310,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d56b1c3c-1c3f-4e50-8b67-cff61dbebe48")
+	)
+	(junction
+		(at 260.35 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d7038143-9477-47f9-baa6-e97407226722")
 	)
 	(junction
 		(at 80.01 31.75)
@@ -2864,7 +2948,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 96.52) (xy 248.92 95.25)
+			(xy 265.43 96.52) (xy 265.43 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2944,7 +3028,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 76.2) (xy 248.92 76.2)
+			(xy 245.11 76.2) (xy 260.35 76.2)
 		)
 		(stroke
 			(width 0)
@@ -3051,6 +3135,16 @@
 			(type default)
 		)
 		(uuid "38b35cbf-20a5-4841-be60-46484318a40b")
+	)
+	(wire
+		(pts
+			(xy 260.35 76.2) (xy 265.43 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cef9f28-663e-49b8-a0e1-1202a3bfcd9a")
 	)
 	(wire
 		(pts
@@ -3171,6 +3265,16 @@
 			(type default)
 		)
 		(uuid "48f16842-ccc5-4606-a8d1-279d121a507b")
+	)
+	(wire
+		(pts
+			(xy 260.35 73.66) (xy 260.35 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a21ecbc-bf54-48f7-a727-ddeda4a66309")
 	)
 	(bus
 		(pts
@@ -3321,6 +3425,16 @@
 			(type default)
 		)
 		(uuid "5b9530ef-c223-46d2-9e03-a34481c8ec2b")
+	)
+	(wire
+		(pts
+			(xy 260.35 96.52) (xy 265.43 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bd257ae-a4e5-49d7-919b-5017434f59f7")
 	)
 	(wire
 		(pts
@@ -3794,16 +3908,6 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 76.2) (xy 248.92 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a051b6fa-5f1f-45d2-a5ac-795374fe4b7b")
-	)
-	(wire
-		(pts
 			(xy 69.85 90.17) (xy 69.85 91.44)
 		)
 		(stroke
@@ -4184,6 +4288,16 @@
 	)
 	(wire
 		(pts
+			(xy 260.35 96.52) (xy 260.35 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e45479ac-6ef0-4b75-8b68-52e519567dd0")
+	)
+	(wire
+		(pts
 			(xy 201.93 127) (xy 208.28 127)
 		)
 		(stroke
@@ -4354,7 +4468,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 96.52) (xy 248.92 96.52)
+			(xy 245.11 96.52) (xy 260.35 96.52)
 		)
 		(stroke
 			(width 0)
@@ -5629,7 +5743,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 248.92 95.25 0)
+		(at 265.43 93.98 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5639,7 +5753,7 @@
 		(fields_autoplaced yes)
 		(uuid "419b5ffd-f3c9-4796-81b3-6cae780e7182")
 		(property "Reference" "#PWR01214"
-			(at 248.92 88.9 0)
+			(at 265.43 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5648,7 +5762,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 248.92 90.17 0)
+			(at 265.43 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5656,7 +5770,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 248.92 95.25 0)
+			(at 265.43 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5665,7 +5779,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 248.92 95.25 0)
+			(at 265.43 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5674,7 +5788,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 248.92 95.25 0)
+			(at 265.43 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6000,7 +6114,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 248.92 77.47 0)
+		(at 265.43 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6009,7 +6123,7 @@
 		(fields_autoplaced yes)
 		(uuid "4f3fcb16-1bca-48a5-8b26-a1a8d8d64f0e")
 		(property "Reference" "#PWR01213"
-			(at 248.92 83.82 0)
+			(at 265.43 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6018,7 +6132,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 248.92 82.55 0)
+			(at 265.43 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6026,7 +6140,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 248.92 77.47 0)
+			(at 265.43 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6035,7 +6149,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 248.92 77.47 0)
+			(at 265.43 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6044,7 +6158,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 248.92 77.47 0)
+			(at 265.43 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6368,7 +6482,7 @@
 		)
 	)
 	(symbol
-		(lib_id "001_symbol:142-0701-201")
+		(lib_id "001_symbol:142-0701-201_GH")
 		(at 245.11 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6378,24 +6492,22 @@
 		(fields_autoplaced yes)
 		(uuid "6a5cdf6f-e596-4f73-8d8b-64016cfda39e")
 		(property "Reference" "J1201"
-			(at 259.08 72.3899 0)
+			(at 254 66.04 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "142-0701-201"
-			(at 259.08 74.9299 0)
+			(at 254 68.58 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "001_download:CONN_142-0701-201_CIN"
+		(property "Footprint" "CONN_142-0701-201_CIN"
 			(at 245.11 73.66 0)
 			(effects
 				(font
@@ -6435,6 +6547,18 @@
 		)
 		(pin "1"
 			(uuid "ee72ed4d-7fbb-48e2-aa57-085f0822a22b")
+		)
+		(pin "2"
+			(uuid "b0bc8cf1-42ff-4ea1-8f10-5f8e4ba80b26")
+		)
+		(pin "3"
+			(uuid "dad7ccfe-c0f8-4e44-b73a-1e54140f1416")
+		)
+		(pin "4"
+			(uuid "b60e90af-cc3e-4a97-a556-dfa97f43c08f")
+		)
+		(pin "5"
+			(uuid "30e7792b-b4aa-4653-8b9a-b595addb5f8c")
 		)
 		(instances
 			(project "kdigitizer"
@@ -7186,7 +7310,7 @@
 		)
 	)
 	(symbol
-		(lib_id "001_symbol:142-0701-201")
+		(lib_id "001_symbol:142-0701-201_GH")
 		(at 245.11 99.06 0)
 		(mirror x)
 		(unit 1)
@@ -7197,24 +7321,22 @@
 		(fields_autoplaced yes)
 		(uuid "ce9b4f50-424a-4fe3-89a8-b9705cd0f836")
 		(property "Reference" "J1202"
-			(at 259.08 100.3301 0)
+			(at 254 91.44 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "142-0701-201"
-			(at 259.08 97.7901 0)
+			(at 254 93.98 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "001_download:CONN_142-0701-201_CIN"
+		(property "Footprint" "CONN_142-0701-201_CIN"
 			(at 245.11 99.06 0)
 			(effects
 				(font
@@ -7254,6 +7376,18 @@
 		)
 		(pin "1"
 			(uuid "7592a7b1-818b-44c7-9233-c5cf9601733d")
+		)
+		(pin "3"
+			(uuid "4c09d29f-da99-4591-afbf-9006e801aa05")
+		)
+		(pin "2"
+			(uuid "73557c1e-d009-40a4-97ca-cb8036b1e1e6")
+		)
+		(pin "4"
+			(uuid "22342c40-6bdd-4c9e-a608-8a86c81bb32d")
+		)
+		(pin "5"
+			(uuid "57704781-c1fd-450a-8c61-d10d5871556a")
 		)
 		(instances
 			(project "kdigitizer"

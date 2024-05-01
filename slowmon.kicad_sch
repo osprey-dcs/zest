@@ -5018,7 +5018,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "DNP"
 			(at 69.85 78.74 90)
 			(effects
 				(font
