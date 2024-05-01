@@ -1839,6 +1839,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:AD7794BRUZ-ND"
+			(at 0 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "19"
 			(uuid "c38b397d-ac03-4ef3-bc48-a30406368ed9")
 		)
@@ -2035,6 +2044,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 82.55 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:P0.0GCT-ND"
+			(at 165.1 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2245,6 +2263,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:P0.0GCT-ND"
+			(at 172.72 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3c56ae79-87db-44f7-ad31-0b8e95c7d453")
 		)
@@ -2308,6 +2335,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 111.76 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:490-3897-1-ND"
+			(at 0 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -1151,7 +1151,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "001_download:CAP_EEF_CD_PAN"
+		(property "Footprint" "001_download:CAP_EEF_CD_PAN_GH"
 			(at 169.8752 96.52 0)
 			(effects
 				(font
@@ -1171,6 +1171,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 168.91 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:PCE3168CT-ND"
+			(at 0 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1312,6 +1321,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:732-1620-1-ND"
+			(at -16.51 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9bfb2823-9914-490c-930e-1209e039bb94")
 		)
@@ -1375,6 +1393,15 @@
 		)
 		(property "Description" ""
 			(at 109.22 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:LTC6655CHLS8-2.5#PBF-ND"
+			(at 0 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1536,6 +1563,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:490-3897-1-ND"
+			(at 154.94 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d9f3e7b7-4bf6-4ad4-8e1a-05b27cbb8329")
 		)
@@ -1599,6 +1635,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 90.17 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:490-5528-1-ND"
+			(at 180.34 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)

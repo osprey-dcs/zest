@@ -5666,6 +5666,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:P0.0GCT-ND"
+			(at 0 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fec0d028-ab33-4cf8-b142-4845602bf2fb")
 		)
@@ -5866,6 +5875,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:P0.0GCT-ND"
+			(at 119.38 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "632def93-8597-4542-a360-633e2be05a75")
 		)
@@ -5930,6 +5948,15 @@
 		)
 		(property "Description" ""
 			(at 83.82 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:FDN335NCT-ND"
+			(at 0 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6077,6 +6104,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:609-4614-1-ND"
+			(at 0 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "18"
 			(uuid "50a2084e-0efa-44bf-9e86-1b559000ef20")
 		)
@@ -6196,6 +6232,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:754-1116-1-ND"
+			(at 142.24 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "afcf5ed6-b5ea-4142-82f7-043bd68f0405")
 		)
@@ -6264,6 +6309,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:P0.0GCT-ND"
+			(at 129.54 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "287678eb-44ce-450c-b515-077a3132d75b")
 		)
@@ -6325,6 +6379,15 @@
 		)
 		(property "Description" "Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 158.75 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:S5560-ND"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6436,6 +6499,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:P0.0GCT-ND"
+			(at 140.97 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b22ffcf1-9e31-4d8c-85f7-b7461ead272b")
 		)
@@ -6497,6 +6569,15 @@
 		)
 		(property "Description" "Diode"
 			(at 107.95 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:754-1116-1-ND"
+			(at 166.37 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6706,6 +6787,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:RR08P200DCT-ND"
+			(at 215.9 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eaf19fb1-6a76-4898-b3b5-34f1b7b34bd1")
 		)
@@ -6908,6 +6998,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:S5560-ND"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "8076ef97-14a5-4760-ac7c-c67f1de06098")
 		)
@@ -7014,6 +7113,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:RR08P200DCT-ND"
+			(at 167.64 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "462a6e92-85f6-4305-a698-f0561b98a64d")
 		)
@@ -7078,6 +7186,15 @@
 		)
 		(property "Description" ""
 			(at 107.95 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:FDN335NCT-ND"
+			(at 215.9 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)

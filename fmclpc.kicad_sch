@@ -13392,6 +13392,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:79X1317@Newark"
+			(at 289.56 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "H14"
 			(uuid "d85528a2-0643-4e4b-a8b8-b448a12e5d3c")
 		)
@@ -14192,6 +14201,15 @@
 		)
 		(property "Description" ""
 			(at 71.12 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:79X1317@Newark"
+			(at 142.24 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)

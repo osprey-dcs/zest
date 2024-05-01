@@ -1356,6 +1356,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:P0.0GCT-ND"
+			(at 144.78 -144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d42f117e-a504-4d78-abec-dd19c40c0a2d")
 		)
@@ -1424,6 +1433,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:311-220KHRCT-ND"
+			(at 121.92 -121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b44f844e-5c7e-4d1b-b0a3-b78f52c9e687")
 		)
@@ -1485,6 +1503,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 209.55 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:490-3897-1-ND"
+			(at 307.34 -111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1692,6 +1719,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:311-4.75KHRCT-ND"
+			(at 285.75 285.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fabc42c4-5618-4f05-9f64-496890682c82")
 		)
@@ -1753,6 +1789,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 118.11 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:490-3897-1-ND"
+			(at 41.91 -41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1888,6 +1933,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 125.73 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:311-4.75KHRCT-ND"
+			(at 49.53 -49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2031,6 +2085,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:LT6233CS6#TRMPBFCT-ND"
+			(at 408.94 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0165b08a-5aa3-4acd-8088-2440ad418e3a")
 		)
@@ -2113,6 +2176,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:423-1138-1-ND"
+			(at 0 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "2b14f554-9369-49bf-b65f-62b93b2f9c1d")
 		)
@@ -2180,6 +2252,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 209.55 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:311-4.75KHRCT-ND"
+			(at 299.72 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)

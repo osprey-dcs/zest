@@ -1333,6 +1333,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:311-11.5KHRCT-ND"
+			(at 386.08 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3c49c00c-025c-43fd-aa66-598769089324")
 		)
@@ -1602,6 +1611,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:490-3897-1-ND"
+			(at 0 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6fd3219d-164b-413d-9612-952fc3a75d39")
 		)
@@ -1665,6 +1683,15 @@
 		)
 		(property "Description" ""
 			(at 129.54 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:AT24C64D-SSHM-TCT-ND"
+			(at 0 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1760,6 +1787,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:311-4.75KHRCT-ND"
+			(at 467.36 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1c0d5552-1417-44b7-b4ef-a68a3fad0ad8")
 		)
@@ -1829,6 +1865,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:3M9447-ND"
+			(at 0 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -1966,6 +2011,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:P0.0GCT-ND"
+			(at 201.93 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b517918c-becd-42ab-9357-0428cea4f765")
 		)
@@ -2036,6 +2090,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:311-4.75KHRCT-ND"
+			(at 454.66 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "39397e5a-1943-45f7-af84-5a37afce9407")
 		)
@@ -2097,6 +2160,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 123.19 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:P0.0GCT-ND"
+			(at 204.47 -41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -4036,6 +4036,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:445-2664-1-ND"
+			(at 115.57 -115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aae85dfb-2667-459b-86ec-b8f12f8c5ad6")
 		)
@@ -4098,6 +4107,15 @@
 		)
 		(property "Description" ""
 			(at 256.54 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:J500-ND"
+			(at 0 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4305,6 +4323,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:445-2664-1-ND"
+			(at 0 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3c955c37-d344-4b0b-a357-df9f1fd83cef")
 		)
@@ -4368,6 +4395,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 76.2 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:MCT0603-10K-MDCT-ND"
+			(at 0 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4513,6 +4549,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:445-6853-1-ND"
+			(at 0 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d6d0317d-8f25-4808-a306-b411a07457e5")
 		)
@@ -4649,6 +4694,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:478-8725-1-ND"
+			(at 0 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "23581a5f-a841-4d1c-b7ca-63e402c30349")
 		)
@@ -4713,6 +4767,15 @@
 		)
 		(property "Description" ""
 			(at 45.72 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:J500-ND"
+			(at 91.44 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4787,6 +4850,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:490-1318-1-ND"
+			(at 0 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c651a00d-2740-4e74-98a2-7eecfb01ab1f")
 		)
@@ -4850,6 +4922,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 74.93 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:490-1318-1-ND"
+			(at 0 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4994,6 +5075,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:J500-ND"
+			(at 91.44 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "88f42569-cfa3-4b64-9a36-a91a1d6342e0")
 		)
@@ -5054,6 +5144,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 48.26 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:445-2664-1-ND"
+			(at 0 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5132,6 +5231,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:J500-ND"
+			(at 91.44 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e94d940f-0b9d-486e-bad9-6ee2c666ef6f")
 		)
@@ -5192,6 +5300,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 46.99 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:445-6853-1-ND"
+			(at 0 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5407,6 +5524,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:490-1318-1-ND"
+			(at 0 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1fb6cf3d-ede0-42dc-9ce7-f8c049e844d9")
 		)
@@ -5538,6 +5664,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 53.34 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:490-1318-1-ND"
+			(at 0 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5681,6 +5816,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:490-1318-1-ND"
+			(at 0 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5123002b-cf5a-46ce-8116-d0c0174b4d15")
 		)
@@ -5744,6 +5888,15 @@
 		)
 		(property "Description" ""
 			(at 199.39 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:AD9653BCPZ-125-ND"
+			(at 398.78 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5960,6 +6113,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:445-2664-1-ND"
+			(at 113.03 306.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "73918e5b-c990-4eed-9897-72f8c05097bd")
 		)
@@ -6089,6 +6251,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 219.71 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:311-100HRCT-ND"
+			(at 0 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)

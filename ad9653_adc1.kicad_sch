@@ -3773,6 +3773,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:J500-ND"
+			(at 0 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9d835794-5c34-44fe-bdba-14afdba2ab88")
 		)
@@ -4107,6 +4116,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:J500-ND"
+			(at 91.44 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "52d0f39b-fd7f-4a43-b4fe-60077d8f80f8")
 		)
@@ -4167,6 +4185,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 46.99 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:445-6853-1-ND"
+			(at 0 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4314,6 +4341,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:MCT0603-10K-MDCT-ND"
+			(at 0 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cd9d40ee-c8b9-44fb-a136-25f512c79880")
 		)
@@ -4444,6 +4480,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 74.93 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:490-1318-1-ND"
+			(at 0 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4588,6 +4633,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:J500-ND"
+			(at 91.44 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bcd208b0-d34d-4a31-b692-118f091597d9")
 		)
@@ -4648,6 +4702,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 219.71 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:445-2664-1-ND"
+			(at 0 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4726,6 +4789,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:J500-ND"
+			(at 91.44 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a2092d67-061e-4be0-b729-acadbeb43e0c")
 		)
@@ -4786,6 +4858,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 54.61 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:445-6853-1-ND"
+			(at 0 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4856,6 +4937,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 53.34 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:490-1318-1-ND"
+			(at 0 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4999,6 +5089,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:311-100HRCT-ND"
+			(at 0 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "780be47e-98a0-416a-87c0-3aa1266b22eb")
 		)
@@ -5062,6 +5161,15 @@
 		)
 		(property "Description" ""
 			(at 199.39 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:AD9653BCPZ-125-ND"
+			(at 398.78 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5547,6 +5655,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:490-1318-1-ND"
+			(at 0 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "72ce664b-fca9-4c64-8e1e-58d26a6ad861")
 		)
@@ -5608,6 +5725,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 209.55 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:445-2664-1-ND"
+			(at 109.22 309.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5685,6 +5811,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:478-8725-1-ND"
+			(at 0 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9756c759-d26d-49d3-8fdf-377257837b93")
 		)
@@ -5748,6 +5883,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 67.31 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:490-1318-1-ND"
+			(at 0 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5959,6 +6103,15 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "digikey:490-1318-1-ND"
+			(at 0 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "62d5c1dd-e695-4dd6-851f-1bf352291d22")
 		)
@@ -6019,6 +6172,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 209.55 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:445-2664-1-ND"
+			(at 111.76 -111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6089,6 +6251,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 48.26 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:445-2664-1-ND"
+			(at 0 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
