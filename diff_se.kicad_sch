@@ -1046,7 +1046,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "200"
 			(at 104.14 87.6299 0)
 			(effects
 				(font
@@ -1128,7 +1128,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1000PF"
 			(at 204.47 83.82 90)
 			(effects
 				(font
@@ -1210,7 +1210,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "MLF1608D47NMTA00"
 			(at 91.44 81.2799 0)
 			(effects
 				(font
@@ -1292,7 +1292,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1000PF"
 			(at 204.47 78.74 90)
 			(effects
 				(font
@@ -1374,7 +1374,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "270PF"
 			(at 93.98 92.7099 0)
 			(effects
 				(font
@@ -1457,7 +1457,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "18PF"
 			(at 78.74 87.6299 0)
 			(effects
 				(font

@@ -297,7 +297,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K"
 			(at 90.17 97.79 90)
 			(effects
 				(font
@@ -386,7 +386,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "NCP18XH103F03RB"
 			(at 90.17 83.82 90)
 			(effects
 				(font
@@ -475,7 +475,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K"
 			(at 97.79 83.82 90)
 			(effects
 				(font
@@ -564,7 +564,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "NCP18XH103F03RB"
 			(at 97.79 97.79 90)
 			(effects
 				(font

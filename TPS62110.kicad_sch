@@ -1757,7 +1757,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "422K"
 			(at 186.69 88.9001 0)
 			(effects
 				(font
@@ -1904,7 +1904,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1UF"
 			(at 66.04 87.6301 0)
 			(effects
 				(font
@@ -2118,7 +2118,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "191K"
 			(at 186.69 81.2801 0)
 			(effects
 				(font
@@ -2196,7 +2196,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "422K"
 			(at 179.324 97.536 90)
 			(effects
 				(font
@@ -2275,7 +2275,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "47UF"
 			(at 208.28 95.2499 0)
 			(effects
 				(font
@@ -2355,7 +2355,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10PF"
 			(at 196.85 88.9001 0)
 			(effects
 				(font
@@ -2557,7 +2557,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "11.5K"
 			(at 98.044 88.138 90)
 			(effects
 				(font
@@ -2703,7 +2703,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22UF"
 			(at 71.12 92.7101 0)
 			(effects
 				(font
@@ -2914,7 +2914,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "11.5K"
 			(at 101.6 87.63 90)
 			(effects
 				(font
@@ -2992,7 +2992,7 @@
 				)
 			)
 		)
-		(property "Value" "FerriteBead"
+		(property "Value" "742792040"
 			(at 52.1208 78.74 90)
 			(effects
 				(font
@@ -3070,7 +3070,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "74477710"
 			(at 184.15 102.87 90)
 			(effects
 				(font
@@ -3149,7 +3149,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22UF"
 			(at 76.2 97.7901 0)
 			(effects
 				(font

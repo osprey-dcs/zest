@@ -3318,7 +3318,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.75K"
 			(at 223.52 199.136 90)
 			(effects
 				(font
@@ -3394,7 +3394,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "0.1"
 			(at 137.414 104.14 90)
 			(effects
 				(font
@@ -3472,7 +3472,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "U.FL-R-SMT10"
+		(property "Value" "U.FL-R-SMT(10)"
 			(at 295.91 204.4699 0)
 			(effects
 				(font
@@ -3555,7 +3555,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "APT1608CGCK"
 			(at 168.91 90.17 0)
 			(effects
 				(font
@@ -3631,7 +3631,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "150"
 			(at 289.306 170.18 90)
 			(effects
 				(font
@@ -3774,7 +3774,7 @@
 				)
 			)
 		)
-		(property "Value" "U.FL-R-SMT10"
+		(property "Value" "U.FL-R-SMT(10)"
 			(at 183.642 186.436 0)
 			(effects
 				(font
@@ -3987,7 +3987,7 @@
 				)
 			)
 		)
-		(property "Value" "U.FL-R-SMT10"
+		(property "Value" "U.FL-R-SMT(10)"
 			(at 220.98 91.948 0)
 			(effects
 				(font
@@ -4068,7 +4068,7 @@
 				)
 			)
 		)
-		(property "Value" "U.FL-R-SMT10"
+		(property "Value" "U.FL-R-SMT(10)"
 			(at 221.742 100.076 0)
 			(effects
 				(font
@@ -4282,7 +4282,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "150"
 			(at 309.626 69.85 90)
 			(effects
 				(font
@@ -4358,7 +4358,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.75K"
 			(at 282.956 119.38 90)
 			(effects
 				(font
@@ -4434,7 +4434,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1K"
 			(at 163.576 91.44 90)
 			(effects
 				(font
@@ -4512,7 +4512,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "U.FL-R-SMT10"
+		(property "Value" "U.FL-R-SMT(10)"
 			(at 293.37 152.3999 0)
 			(effects
 				(font
@@ -4594,7 +4594,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.75K"
 			(at 216.916 182.88 90)
 			(effects
 				(font
@@ -4672,7 +4672,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "EEF-CD1B220R"
 			(at 260.35 102.8699 0)
 			(effects
 				(font
@@ -5080,7 +5080,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "APT1608CGCK"
 			(at 314.96 68.58 0)
 			(effects
 				(font
@@ -5156,7 +5156,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "0"
 			(at 97.282 78.994 90)
 			(effects
 				(font
@@ -5299,7 +5299,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.75K"
 			(at 289.56 128.016 90)
 			(effects
 				(font
@@ -5375,7 +5375,7 @@
 				)
 			)
 		)
-		(property "Value" "U.FL-R-SMT10"
+		(property "Value" "U.FL-R-SMT(10)"
 			(at 221.742 107.696 0)
 			(effects
 				(font
@@ -5458,7 +5458,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "ZXCT1009FTA"
+		(property "Value" "ZXCT1009QFTA"
 			(at 132.08 133.3499 90)
 			(effects
 				(font
@@ -5673,7 +5673,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "0"
 			(at 96.774 104.14 90)
 			(effects
 				(font
@@ -5818,7 +5818,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22UF"
 			(at 158.75 106.6799 0)
 			(effects
 				(font
@@ -5962,7 +5962,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1K"
 			(at 111.76 186.436 90)
 			(effects
 				(font
@@ -6038,7 +6038,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "0"
 			(at 97.028 94.234 90)
 			(effects
 				(font
@@ -6115,7 +6115,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "APT1608CGCK"
 			(at 294.64 168.91 0)
 			(effects
 				(font
@@ -6191,7 +6191,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K"
 			(at 276.86 102.616 90)
 			(effects
 				(font
@@ -6399,7 +6399,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K"
 			(at 276.86 94.996 90)
 			(effects
 				(font
@@ -6476,7 +6476,7 @@
 				)
 			)
 		)
-		(property "Value" "LT6233CS6TRMPBF"
+		(property "Value" "LT6233CS6#TRMPBF"
 			(at 312.42 83.82 0)
 			(effects
 				(font

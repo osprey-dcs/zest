@@ -4156,7 +4156,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10UF"
 			(at 50.8 33.0199 0)
 			(effects
 				(font
@@ -4305,7 +4305,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K"
 			(at 78.74 139.6999 0)
 			(effects
 				(font
@@ -4451,7 +4451,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1UF"
 			(at 78.74 48.2599 0)
 			(effects
 				(font
@@ -4673,7 +4673,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10000PF"
 			(at 223.52 74.9299 0)
 			(effects
 				(font
@@ -4829,7 +4829,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10UF"
 			(at 58.42 48.2599 0)
 			(effects
 				(font
@@ -4908,7 +4908,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1UF"
 			(at 57.15 33.0199 0)
 			(effects
 				(font
@@ -5053,7 +5053,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100"
 			(at 222.25 100.3299 0)
 			(effects
 				(font
@@ -5619,7 +5619,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1UF"
 			(at 64.77 48.2599 0)
 			(effects
 				(font
@@ -5697,7 +5697,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10000PF"
 			(at 209.55 95.25 90)
 			(effects
 				(font
@@ -5775,7 +5775,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "F381A225MMA"
 			(at 58.42 66.0399 0)
 			(effects
 				(font
@@ -5854,7 +5854,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1UF"
 			(at 71.12 48.2599 0)
 			(effects
 				(font
@@ -6067,7 +6067,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1UF"
 			(at 50.8 48.2599 0)
 			(effects
 				(font
@@ -6144,7 +6144,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10000PF"
 			(at 209.55 102.87 90)
 			(effects
 				(font
@@ -6222,7 +6222,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10000PF"
 			(at 52.07 66.0399 0)
 			(effects
 				(font

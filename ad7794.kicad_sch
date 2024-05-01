@@ -2015,7 +2015,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "0"
 			(at 85.09 73.6599 0)
 			(effects
 				(font
@@ -2227,7 +2227,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "0"
 			(at 88.9 133.3499 0)
 			(effects
 				(font
@@ -2306,7 +2306,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1UF"
 			(at 115.57 67.3099 0)
 			(effects
 				(font

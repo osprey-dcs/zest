@@ -1489,7 +1489,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "47UF"
 			(at 228.6 87.6301 0)
 			(effects
 				(font
@@ -1567,7 +1567,7 @@
 				)
 			)
 		)
-		(property "Value" "FerriteBead"
+		(property "Value" "742792040"
 			(at 172.7708 66.04 90)
 			(effects
 				(font
@@ -1645,7 +1645,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1UF"
 			(at 124.46 96.5201 0)
 			(effects
 				(font
@@ -1723,7 +1723,7 @@
 				)
 			)
 		)
-		(property "Value" "LT6233CS6TRMPBF"
+		(property "Value" "LT6233CS6#TRMPBF"
 			(at 90.17 91.44 0)
 			(effects
 				(font
@@ -1879,7 +1879,7 @@
 				)
 			)
 		)
-		(property "Value" "FerriteBead"
+		(property "Value" "742792040"
 			(at 94.0308 63.5 90)
 			(effects
 				(font
@@ -2022,7 +2022,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "EEF-CD1B220R"
 			(at 147.32 120.6499 0)
 			(effects
 				(font
@@ -2166,7 +2166,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1UF"
 			(at 124.46 96.5201 0)
 			(effects
 				(font
@@ -2244,7 +2244,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "47UF"
 			(at 99.06 73.6601 0)
 			(effects
 				(font
@@ -2322,7 +2322,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1UF"
 			(at 215.9 87.6301 0)
 			(effects
 				(font
@@ -2665,7 +2665,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "11.5K"
 			(at 55.88 110.4899 0)
 			(effects
 				(font
@@ -2743,7 +2743,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1UF"
 			(at 152.4 118.1101 0)
 			(effects
 				(font
@@ -2821,7 +2821,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "200"
 			(at 135.89 109.22 90)
 			(effects
 				(font
@@ -2899,7 +2899,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "EEF-CD1B220R"
 			(at 40.64 110.4899 0)
 			(effects
 				(font
@@ -2978,7 +2978,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.42K"
 			(at 55.88 101.5999 0)
 			(effects
 				(font
@@ -3056,7 +3056,7 @@
 				)
 			)
 		)
-		(property "Value" "PBSS4230T"
+		(property "Value" "PBSS4230T,215"
 			(at 172.72 77.47 0)
 			(effects
 				(font

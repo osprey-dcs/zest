@@ -5631,7 +5631,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "0"
 			(at 67.31 97.79 90)
 			(effects
 				(font
@@ -5840,7 +5840,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "0"
 			(at 55.88 97.79 90)
 			(effects
 				(font
@@ -6197,7 +6197,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "APT1608CGCK"
 			(at 80.01 58.42 0)
 			(effects
 				(font
@@ -6274,7 +6274,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "0"
 			(at 35.56 97.79 90)
 			(effects
 				(font
@@ -6351,7 +6351,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x07_Odd_Even"
+		(property "Value" "PPPC072LJBN-RC"
 			(at 160.02 166.37 0)
 			(effects
 				(font
@@ -6464,7 +6464,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "0"
 			(at 46.99 97.79 90)
 			(effects
 				(font
@@ -6541,7 +6541,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "APT1608CGCK"
 			(at 104.14 58.42 0)
 			(effects
 				(font
@@ -6751,7 +6751,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "200"
 			(at 110.49 52.0699 0)
 			(effects
 				(font
@@ -6963,7 +6963,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x07_Odd_Even"
+		(property "Value" "PPPC072LJBN-RC"
 			(at 158.75 134.62 0)
 			(effects
 				(font
@@ -7077,7 +7077,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "200"
 			(at 86.36 52.0699 0)
 			(effects
 				(font

@@ -3234,7 +3234,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "APT1608CGCK"
 			(at 160.02 64.77 0)
 			(effects
 				(font
@@ -3444,7 +3444,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22K"
 			(at 186.69 55.8801 0)
 			(effects
 				(font
@@ -3523,7 +3523,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22K"
 			(at 179.07 66.0401 0)
 			(effects
 				(font
@@ -3669,7 +3669,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.75K"
 			(at 50.8 36.8299 0)
 			(effects
 				(font
@@ -3749,7 +3749,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22K"
 			(at 50.8 90.1699 0)
 			(effects
 				(font
@@ -3828,7 +3828,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22K"
 			(at 182.88 60.9601 0)
 			(effects
 				(font
@@ -3907,7 +3907,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "150PF"
 			(at 78.74 118.1099 0)
 			(effects
 				(font
@@ -3986,7 +3986,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "150PF"
 			(at 90.17 118.1099 0)
 			(effects
 				(font
@@ -4065,7 +4065,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "150PF"
 			(at 96.52 113.0299 0)
 			(effects
 				(font
@@ -4278,7 +4278,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "220PF"
 			(at 49.53 53.3399 0)
 			(effects
 				(font
@@ -4489,7 +4489,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "150PF"
 			(at 83.82 111.7599 0)
 			(effects
 				(font
@@ -4635,7 +4635,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "150"
 			(at 166.37 73.6599 0)
 			(effects
 				(font
@@ -4714,7 +4714,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22K"
 			(at 191.77 52.0701 0)
 			(effects
 				(font
@@ -4861,7 +4861,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.75K"
 			(at 50.8 97.7899 0)
 			(effects
 				(font
@@ -4940,7 +4940,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22K"
 			(at 172.72 68.5801 0)
 			(effects
 				(font
@@ -5087,7 +5087,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "150PF"
 			(at 104.14 118.1099 0)
 			(effects
 				(font
@@ -5299,7 +5299,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.75K"
 			(at 50.8 29.2099 0)
 			(effects
 				(font

@@ -1142,7 +1142,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "EEF-CD1B220R"
 			(at 172.72 93.9799 0)
 			(effects
 				(font
@@ -1286,7 +1286,7 @@
 				)
 			)
 		)
-		(property "Value" "FerriteBead"
+		(property "Value" "742792040"
 			(at 64.8208 76.2 90)
 			(effects
 				(font
@@ -1363,7 +1363,7 @@
 				)
 			)
 		)
-		(property "Value" "LTC6655CHLS8-2.5-PBF"
+		(property "Value" "LTC6655CHLS8-2.5#PBF"
 			(at 132.08 76.2 0)
 			(effects
 				(font
@@ -1527,7 +1527,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1UF"
 			(at 81.28 90.1699 0)
 			(effects
 				(font
@@ -1606,7 +1606,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "47UF"
 			(at 93.98 90.1699 0)
 			(effects
 				(font

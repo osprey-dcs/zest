@@ -1038,7 +1038,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.75K"
 			(at 127 74.9299 0)
 			(effects
 				(font
@@ -1117,7 +1117,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.75K"
 			(at 121.92 74.9299 0)
 			(effects
 				(font
@@ -1262,7 +1262,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "KX023-1025"
+		(property "Value" "KX023-1025-FR"
 			(at 144.4341 69.85 0)
 			(effects
 				(font

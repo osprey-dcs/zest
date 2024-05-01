@@ -1321,7 +1321,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "0"
 			(at 215.9 67.31 90)
 			(effects
 				(font
@@ -1398,7 +1398,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "220K"
 			(at 176.53 50.8 90)
 			(effects
 				(font
@@ -1475,7 +1475,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1UF"
 			(at 209.55 102.87 90)
 			(effects
 				(font
@@ -1684,7 +1684,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.75K"
 			(at 195.58 86.36 90)
 			(effects
 				(font
@@ -1761,7 +1761,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1UF"
 			(at 118.11 71.12 90)
 			(effects
 				(font
@@ -1905,7 +1905,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.75K"
 			(at 125.73 72.39 90)
 			(effects
 				(font
@@ -2049,7 +2049,7 @@
 				)
 			)
 		)
-		(property "Value" "LT6233CS6TRMPBF"
+		(property "Value" "LT6233CS6#TRMPBF"
 			(at 181.61 63.5 0)
 			(effects
 				(font
@@ -2224,7 +2224,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.75K"
 			(at 209.55 86.36 90)
 			(effects
 				(font

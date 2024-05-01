@@ -5349,7 +5349,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.75K"
 			(at 234.95 166.37 90)
 			(effects
 				(font
@@ -5493,7 +5493,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1UF"
 			(at 128.27 41.9099 0)
 			(effects
 				(font
@@ -5703,7 +5703,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.75K"
 			(at 60.96 128.27 90)
 			(effects
 				(font
@@ -6247,7 +6247,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1UF"
 			(at 55.88 115.5699 0)
 			(effects
 				(font
@@ -6326,7 +6326,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1UF"
 			(at 53.34 41.9099 0)
 			(effects
 				(font
@@ -6405,7 +6405,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1UF"
 			(at 130.81 115.5699 0)
 			(effects
 				(font
@@ -6551,7 +6551,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1UF"
 			(at 228.6 96.5199 0)
 			(effects
 				(font
@@ -6629,7 +6629,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.75K"
 			(at 234.95 168.91 90)
 			(effects
 				(font
@@ -6773,7 +6773,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1UF"
 			(at 304.8 153.6699 0)
 			(effects
 				(font
@@ -6917,7 +6917,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1UF"
 			(at 229.87 153.6699 0)
 			(effects
 				(font
@@ -7127,7 +7127,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.75K"
 			(at 58.42 54.61 90)
 			(effects
 				(font
@@ -7550,7 +7550,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.75K"
 			(at 233.68 111.76 90)
 			(effects
 				(font
@@ -7628,7 +7628,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1UF"
 			(at 58.42 196.8499 0)
 			(effects
 				(font
@@ -7841,7 +7841,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1UF"
 			(at 303.53 96.5199 0)
 			(effects
 				(font
@@ -7985,7 +7985,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.75K"
 			(at 63.5 209.55 90)
 			(effects
 				(font
@@ -9401,7 +9401,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1UF"
 			(at 133.35 196.8499 0)
 			(effects
 				(font
