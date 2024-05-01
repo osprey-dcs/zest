@@ -4036,15 +4036,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 115.57 -115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "aae85dfb-2667-459b-86ec-b8f12f8c5ad6")
 		)
@@ -4314,15 +4305,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 0 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "3c955c37-d344-4b0b-a357-df9f1fd83cef")
 		)
@@ -4386,15 +4368,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 76.2 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 0 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4540,15 +4513,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 0 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "d6d0317d-8f25-4808-a306-b411a07457e5")
 		)
@@ -4678,15 +4642,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 54.61 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 0 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4832,15 +4787,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0402"
-			(at 0 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "c651a00d-2740-4e74-98a2-7eecfb01ab1f")
 		)
@@ -4904,15 +4850,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 74.93 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0402"
-			(at 0 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5124,15 +5061,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 0 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "c814e3a5-af2d-4449-af5b-88e2eba6a23d")
 		)
@@ -5271,15 +5199,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 0 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "f1d714bd-e6eb-4162-a1ab-3afd46d6353c")
 		)
@@ -5343,15 +5262,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 207.01 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 0 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5497,15 +5407,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0402"
-			(at 0 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "1fb6cf3d-ede0-42dc-9ce7-f8c049e844d9")
 		)
@@ -5644,15 +5545,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0402"
-			(at 0 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "6413bc04-4cb8-4c26-b949-1e42fdce4ff0")
 		)
@@ -5782,15 +5674,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 46.99 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0402"
-			(at 0 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6077,15 +5960,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 113.03 306.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "73918e5b-c990-4eed-9897-72f8c05097bd")
 		)
@@ -6215,15 +6089,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 219.71 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 0 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)

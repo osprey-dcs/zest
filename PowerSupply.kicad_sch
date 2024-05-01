@@ -3214,15 +3214,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 130.81 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "3d1a5f24-857b-4cb7-a2ce-3257b491daea")
 		)
@@ -3353,15 +3344,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 441.96 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "a1b06b2e-10d2-411a-9cc9-5056c24bb249")
 		)
@@ -3422,15 +3404,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 139.7 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "1206"
-			(at 241.3 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3581,24 +3554,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 168.91 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 168.91 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "3dbce4fa-d0db-4941-83df-9e2a1e468b84")
 		)
@@ -3659,15 +3614,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 287.02 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 114.3 -114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4290,15 +4236,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 234.95 -234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "ec80dbc3-e542-4091-9e05-94b5d437fe4a")
 		)
@@ -4366,15 +4303,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 158.75 -158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "f4a06b7b-8913-45b5-a314-c0c2ac263780")
 		)
@@ -4435,15 +4363,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 161.29 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 67.31 -67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4593,15 +4512,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 29.21 -29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "630fab3c-5d5e-40c2-a06b-b5bf4c750218")
 		)
@@ -4665,15 +4575,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 264.16 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "2917"
-			(at 528.32 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5014,15 +4915,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 182.88 -148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "cfe0ee86-859b-455e-af7b-32889f190b2d")
 		)
@@ -5080,24 +4972,6 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 314.96 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 314.96 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
 			(at 314.96 72.39 0)
 			(effects
 				(font
@@ -5166,15 +5040,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 99.06 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 180.34 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5309,15 +5174,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 287.02 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 574.04 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5672,15 +5528,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 200.66 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "03ae8c9e-bd66-401d-be3f-c5b5080a1e41")
 		)
@@ -5751,15 +5598,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 133.35 -99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "a26b20fd-be95-492a-ad65-14e428b30c05")
 		)
@@ -5820,15 +5658,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 154.94 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "1206"
-			(at 309.88 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5906,15 +5735,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "1206"
-			(at 161.29 -127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "966b7659-3a57-46a5-9e40-24454881fb3c")
 		)
@@ -5972,15 +5792,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 109.22 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 218.44 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6048,15 +5859,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 99.06 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 195.58 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6132,24 +5934,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 294.64 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 294.64 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "1efb70ad-ef7b-4747-b390-bf56d6e441a6")
 		)
@@ -6210,15 +5994,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 274.32 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 548.64 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6425,15 +6200,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 548.64 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "bcc4e4ca-ecc8-400f-919c-fe6765039088")
 		)
@@ -6500,136 +6266,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "DIGIKEY_PART_NUMBER" "LT6233CS6#TRMPBFTRND"
-			(at 289.56 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MF" "Analog Devices"
-			(at 289.56 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "VENDOR" "Linear Technology"
-			(at 289.56 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nGeneral Purpose Amplifier 1 Circuit Rail-to-Rail TSOT-23-6\n"
-			(at 289.56 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "COPYRIGHT" "Copyright C 2016 Accelerated Designs. All rights reserved"
-			(at 289.56 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "SOT-23-6 Linear Technology"
-			(at 289.56 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 289.56 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/LT6233CS6%23TRMPBF/Analog+Devices/view-part/?ref=eda"
-			(at 289.56 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/LT6233CS6%23TRMPBF/Analog+Devices/view-part/?ref=snap"
-			(at 289.56 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "LT6233CS6#TRMPBF"
-			(at 289.56 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=491320&manufacturer=Analog Devices&part_name=LT6233CS6#TRMPBF&search_term=lt6233cs6#trmpbf"
-			(at 289.56 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 289.56 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "LT6233CS6#TRMPBF"
-			(at 289.56 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)

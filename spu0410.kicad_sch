@@ -1356,15 +1356,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 144.78 -144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "d42f117e-a504-4d78-abec-dd19c40c0a2d")
 		)
@@ -1433,15 +1424,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 121.92 -121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "b44f844e-5c7e-4d1b-b0a3-b78f52c9e687")
 		)
@@ -1503,15 +1485,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 209.55 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 307.34 -111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1719,15 +1692,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 285.75 285.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "fabc42c4-5618-4f05-9f64-496890682c82")
 		)
@@ -1789,15 +1753,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 118.11 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 41.91 -41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1875,15 +1830,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 0 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "d286399b-e89d-42ef-afd4-966890a981d2")
 		)
@@ -1942,15 +1888,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 125.73 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 49.53 -49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2091,136 +2028,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "DIGIKEY_PART_NUMBER" "LT6233CS6#TRMPBFTRND"
-			(at 204.47 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MF" "Analog Devices"
-			(at 204.47 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "VENDOR" "Linear Technology"
-			(at 204.47 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nGeneral Purpose Amplifier 1 Circuit Rail-to-Rail TSOT-23-6\n"
-			(at 204.47 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "COPYRIGHT" "Copyright C 2016 Accelerated Designs. All rights reserved"
-			(at 204.47 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "SOT-23-6 Linear Technology"
-			(at 204.47 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 204.47 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/LT6233CS6%23TRMPBF/Analog+Devices/view-part/?ref=eda"
-			(at 204.47 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/LT6233CS6%23TRMPBF/Analog+Devices/view-part/?ref=snap"
-			(at 204.47 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "LT6233CS6#TRMPBF"
-			(at 204.47 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=491320&manufacturer=Analog Devices&part_name=LT6233CS6#TRMPBF&search_term=lt6233cs6#trmpbf"
-			(at 204.47 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 204.47 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "LT6233CS6#TRMPBF"
-			(at 204.47 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -2373,15 +2180,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 209.55 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 299.72 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)

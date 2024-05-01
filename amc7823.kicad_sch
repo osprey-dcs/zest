@@ -2999,15 +2999,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0402"
-			(at 129.54 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "d0b3996b-a27e-4ae1-ba6c-e1d24c57219f")
 		)
@@ -3071,15 +3062,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 210.82 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 0 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3220,15 +3202,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 335.28 335.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "418ce903-a051-4ef9-890b-ac94c38d81fb")
 		)
@@ -3292,15 +3265,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 71.12 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 0 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3762,15 +3726,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 161.29 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "e1379c93-a581-463b-893e-c079088fc0f8")
 		)
@@ -3834,15 +3789,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 217.17 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0402"
-			(at 434.34 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3920,15 +3866,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0402"
-			(at 0 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "bafc0717-27b3-4cd0-9f2e-0b2d21a64880")
 		)
@@ -3989,15 +3926,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 100.33 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 10.16 -10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -1600,15 +1600,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at -15.24 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
 			(project "kdigitizer"
 				(path "/00000000-0000-0000-0000-000000000003"
@@ -1737,15 +1728,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "1206"
-			(at -15.24 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
 			(project "kdigitizer"
 				(path "/00000000-0000-0000-0000-000000000003"
@@ -1803,15 +1785,6 @@
 		)
 		(property "Description" "Mounting Hole without connection"
 			(at 69.85 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at -15.24 283.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1947,15 +1920,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at -15.24 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
 			(project "kdigitizer"
 				(path "/00000000-0000-0000-0000-000000000003"
@@ -2013,15 +1977,6 @@
 		)
 		(property "Description" "Mounting Hole without connection"
 			(at 62.23 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0402"
-			(at -15.24 283.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)

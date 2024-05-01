@@ -2042,15 +2042,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 165.1 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "a5c25aaa-f999-4905-9f45-b4cd70e34aa8")
 		)
@@ -2254,15 +2245,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 172.72 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "3c56ae79-87db-44f7-ad31-0b8e95c7d453")
 		)
@@ -2326,15 +2308,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 111.76 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 0 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)

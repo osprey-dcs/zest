@@ -1333,15 +1333,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 386.08 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "3c49c00c-025c-43fd-aa66-598769089324")
 		)
@@ -1544,15 +1535,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 408.94 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "14725300-b61f-4763-928c-099b77637ea1")
 		)
@@ -1613,15 +1595,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 213.36 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 0 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1787,15 +1760,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 467.36 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "1c0d5552-1417-44b7-b4ef-a68a3fad0ad8")
 		)
@@ -1859,66 +1823,6 @@
 			)
 		)
 		(property "Description" "Connector Header Through Hole 2 position 0.100 (2.54mm)"
-			(at 200.66 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MF" "3M"
-			(at 200.66 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" "None"
-			(at 200.66 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PRICE" "None"
-			(at 200.66 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "961102-6404-AR"
-			(at 200.66 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "AVAILABILITY" "In Stock"
-			(at 200.66 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/961102-6404-AR/?ref=eda"
 			(at 200.66 78.74 0)
 			(effects
 				(font
@@ -2062,15 +1966,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 201.93 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "b517918c-becd-42ab-9357-0428cea4f765")
 		)
@@ -2134,15 +2029,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 227.33 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 454.66 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2218,15 +2104,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 204.47 -41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "41b47c84-414b-4e80-b977-7b072e5a269c")
 		)
@@ -2290,15 +2167,6 @@
 		)
 		(property "Description" "test point"
 			(at 210.82 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 151.13 -123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)

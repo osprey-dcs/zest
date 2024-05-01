@@ -1844,15 +1844,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "1206"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "49f34f4e-69fc-4e4a-8cde-441c10d81ad2")
 		)
@@ -1981,15 +1972,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 179.07 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 276.86 -81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2137,15 +2119,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "1206"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "5b9105ce-ca17-4235-b2f7-e8cd930ae550")
 		)
@@ -2207,15 +2180,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 97.79 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2294,15 +2258,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "68597060-4a5e-491a-a6cd-c296ea4498b0")
 		)
@@ -2367,15 +2322,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 184.15 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2655,15 +2601,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "8b2afac7-1e44-439e-b083-5b851283b306")
 		)
@@ -2735,15 +2672,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "a0168686-2ff5-412d-bd68-174cb0458cc7")
 		)
@@ -2806,15 +2734,6 @@
 		)
 		(property "Description" "Ferrite bead"
 			(at 52.07 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0805"
-			(at -31.75 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2949,15 +2868,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 101.6 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 203.2 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3144,15 +3054,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 204.47 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "1206"
-			(at 408.94 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)

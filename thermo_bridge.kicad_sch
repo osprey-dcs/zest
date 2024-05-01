@@ -332,15 +332,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 184.15 3.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "5946aa8d-3b40-447a-bad8-8854d016dff1")
 		)
@@ -414,15 +405,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 90.17 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 177.8 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -510,15 +492,6 @@
 				(hide yes)
 			)
 		)
-		(property "gfootprint" "0603"
-			(at 185.42 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "7018a1f7-bbe2-42ca-bf0f-079ca14d7958")
 		)
@@ -592,15 +565,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 97.79 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "gfootprint" "0603"
-			(at 191.77 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
