@@ -1142,7 +1142,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "EEF-CD1B220R"
+		(property "Value" "22UF"
 			(at 172.72 93.9799 0)
 			(effects
 				(font
@@ -1169,7 +1169,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Al-Poly"
 			(at 168.91 92.71 0)
 			(effects
 				(font

@@ -376,7 +376,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1aa39bb1-9915-48e3-a878-d1e4b25dc0f4")
 		(property "Reference" "R3301"
 			(at 90.17 81.28 90)
@@ -387,7 +386,7 @@
 			)
 		)
 		(property "Value" "NCP18XH103F03RB"
-			(at 90.17 83.82 90)
+			(at 85.09 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -565,7 +564,7 @@
 			)
 		)
 		(property "Value" "NCP18XH103F03RB"
-			(at 97.79 97.79 90)
+			(at 102.87 97.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)

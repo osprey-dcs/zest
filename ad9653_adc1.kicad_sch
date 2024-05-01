@@ -5775,7 +5775,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "F381A225MMA"
+		(property "Value" "2.2UF"
 			(at 58.42 66.0399 0)
 			(effects
 				(font
@@ -5802,7 +5802,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Tant_poly"
 			(at 54.61 64.77 0)
 			(effects
 				(font
