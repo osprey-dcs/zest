@@ -13392,7 +13392,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "digikey:79X1317@Newark"
+		(property "Vendor" "newark:79X1317"
 			(at 289.56 0 0)
 			(effects
 				(font
@@ -14208,7 +14208,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "digikey:79X1317@Newark"
+		(property "Vendor" "newark:79X1317"
 			(at 142.24 0 0)
 			(effects
 				(font
