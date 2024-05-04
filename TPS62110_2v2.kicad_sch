@@ -2990,6 +2990,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 110.49 107.95 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "baa4277a-0cf7-438c-81cd-1642ecfcbfbd")
+		(property "Reference" "#PWR02907"
+			(at 110.49 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 110.49 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 110.49 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 110.49 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 110.49 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "09b39754-44f6-4629-89e8-d281fa97b40b")
+		)
+		(instances
+			(project "kdigitizer"
+				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000002/5fad0ac0-b30a-4219-89b7-8d138bce3826"
+					(reference "#PWR02907")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "001_symbol:TPS62110RSAR")
 		(at 110.49 107.95 0)
 		(mirror x)

@@ -1524,6 +1524,12 @@
 		(uuid "4c6e0cac-40bc-414d-a24c-fe6bf7356d4e")
 	)
 	(junction
+		(at 52.07 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "570623e5-d68e-4a94-ad74-5e0689ac932b")
+	)
+	(junction
 		(at 153.67 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1540,12 +1546,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "706c4700-6cbe-4d7f-a612-5970ce4d4e58")
-	)
-	(junction
-		(at 52.07 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "70966d06-a28f-4f0d-9f23-1a86b91a1118")
 	)
 	(junction
 		(at 64.77 157.48)
@@ -3090,6 +3090,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 110.49) (xy 57.15 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7850f8ed-05dc-4c44-9575-b26763d5b038")
+	)
+	(wire
+		(pts
 			(xy 128.27 215.9) (xy 172.72 215.9)
 		)
 		(stroke
@@ -3787,16 +3797,6 @@
 			(type default)
 		)
 		(uuid "d780149c-6888-443e-8142-db7c1c80c70b")
-	)
-	(wire
-		(pts
-			(xy 52.07 110.49) (xy 57.15 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d8dca5dd-bec7-4b2c-9132-5cd404ab82b6")
 	)
 	(wire
 		(pts
@@ -6230,7 +6230,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 52.07 114.3 0)
+		(at 52.07 114.3 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6244,7 +6244,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "0.1UF"
@@ -6253,11 +6253,11 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 53.0352 118.11 0)
+			(at 51.1048 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6284,7 +6284,7 @@
 			)
 		)
 		(property "Vendor" "digikey:490-1318-1-ND"
-			(at 0 228.6 0)
+			(at 104.14 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
