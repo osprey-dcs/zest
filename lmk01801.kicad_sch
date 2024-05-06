@@ -8457,15 +8457,15 @@
 	(symbol
 		(lib_id "Device:C")
 		(at 176.53 152.4 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bd3743ca-e891-4710-8473-0518385fa8c1")
 		(property "Reference" "C1012"
-			(at 176.53 144.78 90)
+			(at 176.53 160.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8473,7 +8473,7 @@
 			)
 		)
 		(property "Value" "1000PF"
-			(at 176.53 147.32 90)
+			(at 176.53 157.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8481,7 +8481,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 172.72 153.3652 0)
+			(at 172.72 151.4348 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8508,7 +8508,7 @@
 			)
 		)
 		(property "Vendor" "digikey:490-1451-1-ND"
-			(at 24.13 -24.13 0)
+			(at 24.13 328.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
