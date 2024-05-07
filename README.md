@@ -39,11 +39,11 @@ This will generate the gerber file for the 10 different SN. The generated gerber
 `ls qrsngbr`
 
 ### Generate zip file
-`make zip`
+`make zip SNSTART=10 SNSTOP=20`
 
 This will generate a zip file contains the contents in the fab and the qrsngbr. 
 
 ### Generate tarball file
-`make tarball`
+`make tarball SNSTART=10 SNSTOP=20`
 
 This will generate a .tar.gz file contains the contents in the fab and the qrsngbr. 
