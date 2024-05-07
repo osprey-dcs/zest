@@ -1,7 +1,21 @@
+COMMITNUM = $(shell git log --pretty=oneline --abbrev-commit --abbrev=8|head -1 | awk '{print $$1}')
+DATETIME = $(shell date  +'%Y%m%d%H%M%S')
+GITTIME=$(shell git log -1 --date=iso-strict --pretty=%cd)
+PROJECT=zest
 fab: gerber.py
 	mkdir -p fab
 	python scripts/gerber.py zest.kicad_pcb fab -gerber -drill -bom -xypos
 gerber.py:
 	mkdir -p scripts
 	wget https://gitlab.com/lbl-bids/kicad_library/-/raw/master/scripts/gerber.py -O scripts/gerber.py
+
+tarball: fab
+	echo $(GITTIME)
+	tar --sort=name --mtime=$(GITTIME)  --owner=0 --group=0 --numeric-owner -czf $(PROJECT)_$(DATETIME)_$(COMMITNUM).tar.gz fab qrsngbr
+	md5sum $(PROJECT)_$(DATETIME)_$(COMMITNUM).tar.gz
+zip: fab
+	touch -d $(GITTIME) fab/* qrsngbr/*
+	zip -X -o $(PROJECT)_$(DATETIME)_$(COMMITNUM).zip fab/* qrsngbr/*
+	md5sum $(PROJECT)_$(DATETIME)_$(COMMITNUM).zip
+
 .PHONY: gerber.py fab
