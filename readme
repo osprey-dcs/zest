@@ -1,4 +1,4 @@
-Zest board design
+# Zest board design
 The board is designed in KiCAD 8.0. 
 
 git clone https://gitlab.com/lbl-boards/zest
