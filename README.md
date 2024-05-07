@@ -22,7 +22,7 @@ cd zest
 File->Open Project...
 and nevigate the project file: zest.kicad_pro 
 #### From command line
-kicad zest.kicad_pro
+`kicad zest.kicad_pro`
 
 ### Generate fabrication package
 `make fab`
