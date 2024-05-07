@@ -11,16 +11,16 @@ Larry and Carlos later pushed the design of the Marble board, which uses the sam
 
 The performance was tested on the early batch of the board, and it showed good noise performance. You can find more details in this paper: https://accelconf.web.cern.ch/napac2016/papers/tupoa40.pdf .
 
-The digitizer board is integrated into the LCLS-II LLRF project field control chassis, including the PRC and the RF station (RFS).
+Among other use cases, the digitizer board is integrated into the LCLS-II LLRF project field control chassis, including the PRC and the RF station (RFS).
 
 Around 2019, the team decided to release the board design as open source under the CERN OHL v. 1.2 and gave it a new name: Zest. 
 The design source is hosted at https://github.com/BerkeleyLab/Zest . 
 
-In April 2024, I heard that people wanted to make modifications to the digitizer, but the toolchain is no longer available. Since I was recently involved in board design tasks for another project and had tested different Python KiCAD bindings, especially the pcbnew Python interface, I decided to take this on as another test project. My goal is to bring the digitizer design to the latest open-source KiCAD 8.0 and name it kdigitizer.
+In April 2024, I heard that people wanted to make modifications to the digitizer, but the toolchain is no longer readily available. Since I was recently involved in board design tasks for another project and had tested different Python KiCAD bindings, especially the pcbnew Python interface, I decided to take this on as another test project. My goal is to bring the digitizer design to the latest open-source KiCAD 8.0 and name it Zest 1.2.
 
 The primary objective of this conversion (from gEDA/PADS to KiCAD) is to not make any changes. People should be able to use this design to fabricate the exact same board as the one from the Zest repository and expect the same performance. 
 
 Hopefully, this can serve as a baseline for other modifications of the digitizer board.
 
 Gang Huang
-20240505
+20240506

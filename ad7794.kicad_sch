@@ -1921,7 +1921,7 @@
 			(uuid "cd893ea7-2592-4cf3-a66b-b54bbb617a3a")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-00000000000a"
 					(reference "U1101")
 					(unit 1)
@@ -1988,7 +1988,7 @@
 			(uuid "459c21a7-fbba-4bd7-983e-c25acb7722be")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-00000000000a"
 					(reference "#PWR01103")
 					(unit 1)
@@ -2067,7 +2067,7 @@
 			(uuid "310724a2-c288-477a-8abb-a94be639a12c")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-00000000000a"
 					(reference "R1101")
 					(unit 1)
@@ -2133,7 +2133,7 @@
 			(uuid "d589a7fa-76af-4e8c-8c9a-a1b52c2385d3")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-00000000000a"
 					(reference "#PWR01102")
 					(unit 1)
@@ -2200,7 +2200,7 @@
 			(uuid "f79a60da-2771-47b2-9c9d-7dac78981a8b")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-00000000000a"
 					(reference "#PWR01104")
 					(unit 1)
@@ -2279,7 +2279,7 @@
 			(uuid "7cd345cf-9945-4d7a-bcd1-42854347da02")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-00000000000a"
 					(reference "R1102")
 					(unit 1)
@@ -2358,7 +2358,7 @@
 			(uuid "364f32dd-148b-4bbe-8d18-86462d93d4c7")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-00000000000a"
 					(reference "C1101")
 					(unit 1)
@@ -2424,7 +2424,7 @@
 			(uuid "2fce5f73-29c1-48dc-bf4d-34f369d5779e")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-00000000000a"
 					(reference "#PWR01101")
 					(unit 1)

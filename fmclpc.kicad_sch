@@ -13199,7 +13199,7 @@
 			(uuid "8cb45362-66e1-4aeb-8f08-5cd11d5449b1")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000012"
 					(reference "#PWR01404")
 					(unit 1)
@@ -13264,7 +13264,7 @@
 			(uuid "db502e32-d2a6-40b8-b51a-ad8a1017d995")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000012"
 					(reference "#PWR01402")
 					(unit 1)
@@ -13330,7 +13330,7 @@
 			(uuid "fd23389a-069c-4634-861f-36dd0167e348")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000012"
 					(reference "#PWR01406")
 					(unit 1)
@@ -13882,7 +13882,7 @@
 			(uuid "19275727-d7d2-46d5-b786-3fc8cea71df7")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000012"
 					(reference "J1402")
 					(unit 1)
@@ -13948,7 +13948,7 @@
 			(uuid "faa7b6d2-c738-426d-a92b-55073f2f7b39")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000012"
 					(reference "#PWR01403")
 					(unit 1)
@@ -14014,7 +14014,7 @@
 			(uuid "17d3e620-ebdc-415c-add9-ead66c7d7671")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000012"
 					(reference "#PWR01401")
 					(unit 1)
@@ -14080,7 +14080,7 @@
 			(uuid "deefd1a3-8a85-4ac5-84a1-47e6b027929d")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000012"
 					(reference "TP22")
 					(unit 1)
@@ -14146,7 +14146,7 @@
 			(uuid "f15fa8d5-ac28-41bd-9d18-86d17554e89f")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000012"
 					(reference "#PWR01405")
 					(unit 1)
@@ -14698,7 +14698,7 @@
 			(uuid "58276d1c-115d-4212-b6d8-696ffde4375f")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000012"
 					(reference "J1401")
 					(unit 1)

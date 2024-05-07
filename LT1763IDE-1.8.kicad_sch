@@ -1192,7 +1192,7 @@
 			(uuid "57c723ce-da36-4b5e-a81f-8e9a5754a94a")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000002/0c35330d-b251-450f-a1ea-5c811d7f51a9"
 					(reference "FB3201")
 					(unit 1)
@@ -1303,7 +1303,7 @@
 			(uuid "47292f4c-7783-49ff-afd2-4f4de7f9085b")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000002/0c35330d-b251-450f-a1ea-5c811d7f51a9"
 					(reference "U3201")
 					(unit 1)
@@ -1382,7 +1382,7 @@
 			(uuid "71fc2b46-b8f0-4821-996a-30e5d07caa89")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000002/0c35330d-b251-450f-a1ea-5c811d7f51a9"
 					(reference "C3201")
 					(unit 1)
@@ -1448,7 +1448,7 @@
 			(uuid "4d3c3981-bf23-4c16-a548-238a4d3dbbdb")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000002/0c35330d-b251-450f-a1ea-5c811d7f51a9"
 					(reference "#PWR03202")
 					(unit 1)
@@ -1527,7 +1527,7 @@
 			(uuid "5c2d98e9-60e2-45de-9db2-ce530c89d3fa")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000002/0c35330d-b251-450f-a1ea-5c811d7f51a9"
 					(reference "C3204")
 					(unit 1)
@@ -1593,7 +1593,7 @@
 			(uuid "1c7a9f72-e547-4d87-b1c4-6933b6384bbb")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000002/0c35330d-b251-450f-a1ea-5c811d7f51a9"
 					(reference "#PWR03201")
 					(unit 1)
@@ -1672,7 +1672,7 @@
 			(uuid "9aac99d8-b73f-497b-a59a-9cc9997b9aa8")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000002/0c35330d-b251-450f-a1ea-5c811d7f51a9"
 					(reference "C3202")
 					(unit 1)
@@ -1749,7 +1749,7 @@
 			(uuid "933ede44-cd6e-43c0-b3ea-d7631539b6bb")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000002/0c35330d-b251-450f-a1ea-5c811d7f51a9"
 					(reference "C3203")
 					(unit 1)

@@ -5770,7 +5770,7 @@
 			(uuid "339cceaf-2405-44d5-9537-5a2429a148fa")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "R1504")
 					(unit 1)
@@ -5836,7 +5836,7 @@
 			(uuid "ca136728-9d71-4c43-94f4-c6c0673d5bdd")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "#PWR01504")
 					(unit 1)
@@ -5902,7 +5902,7 @@
 			(uuid "af15a924-487a-4a79-948f-b1a189a82c69")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "#PWR01501")
 					(unit 1)
@@ -5979,7 +5979,7 @@
 			(uuid "80152d66-da13-4034-aca5-052f4204dc0b")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "R1503")
 					(unit 1)
@@ -6062,7 +6062,7 @@
 			(uuid "25a122e4-832c-4af4-adbd-ab69ffbe21ab")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "Q1501")
 					(unit 1)
@@ -6128,7 +6128,7 @@
 			(uuid "06a49fc7-874f-4b8a-a0e9-4c3a987d0ab2")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "#PWR01506")
 					(unit 1)
@@ -6271,7 +6271,7 @@
 			(uuid "e4c3c86b-61c4-405e-a0ec-6c265cf11917")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "J1501")
 					(unit 1)
@@ -6348,7 +6348,7 @@
 			(uuid "f65bb3e3-e34e-49a2-8e5d-9248b5f03eec")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "D1501")
 					(unit 1)
@@ -6425,7 +6425,7 @@
 			(uuid "02af8a6b-73d7-40e2-a8ff-0d2b562e42a3")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "R1501")
 					(unit 1)
@@ -6538,7 +6538,7 @@
 			(uuid "566f3712-4da7-4c5b-ae32-838eafc96209")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "J1503")
 					(unit 1)
@@ -6615,7 +6615,7 @@
 			(uuid "70ab3cd3-f0d8-44df-b7d0-853dc66bbfa7")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "R1502")
 					(unit 1)
@@ -6692,7 +6692,7 @@
 			(uuid "b6fc93b1-43a9-4da8-b9b0-0ed786a525a4")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "D1502")
 					(unit 1)
@@ -6758,7 +6758,7 @@
 			(uuid "f13d5843-e181-440a-8951-d87720573ecb")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "#PWR01503")
 					(unit 1)
@@ -6824,7 +6824,7 @@
 			(uuid "1d31c90a-cbec-46e4-8187-5eceb726d36d")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "#PWR01505")
 					(unit 1)
@@ -6903,7 +6903,7 @@
 			(uuid "a6526cdc-55ef-425e-8c08-984906debec3")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "R1506")
 					(unit 1)
@@ -6971,7 +6971,7 @@
 			(uuid "28015e4b-1740-41e4-9b85-e917dbbe26b4")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "R1507")
 					(unit 1)
@@ -7037,7 +7037,7 @@
 			(uuid "705b6d81-c05a-4ed2-aa1a-5d96fcab2fcd")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "#PWR01502")
 					(unit 1)
@@ -7150,7 +7150,7 @@
 			(uuid "75fa9547-221e-4e9d-890b-7941a19dd8eb")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "J1502")
 					(unit 1)
@@ -7229,7 +7229,7 @@
 			(uuid "70ee198a-e936-4983-9686-1a600fcbfebf")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "R1505")
 					(unit 1)
@@ -7312,7 +7312,7 @@
 			(uuid "c3068d11-269d-43b4-8309-3fe9d015963a")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000011"
 					(reference "Q1502")
 					(unit 1)

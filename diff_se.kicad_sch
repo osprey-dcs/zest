@@ -1098,7 +1098,7 @@
 			(uuid "3452481a-5f82-4cf4-ada0-bc0fc5059125")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-00000000000b/631295dc-b2db-4fa0-9342-d44716b0df98"
 					(reference "R2501")
 					(unit 1)
@@ -1179,7 +1179,7 @@
 			(uuid "8bca21f6-420f-439d-ad94-85a2cc10eb53")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-00000000000b/631295dc-b2db-4fa0-9342-d44716b0df98"
 					(reference "C2504")
 					(unit 1)
@@ -1262,7 +1262,7 @@
 			(uuid "dd6b0219-a6cd-4c4a-ac1c-0e6ddd180869")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-00000000000b/631295dc-b2db-4fa0-9342-d44716b0df98"
 					(reference "L2501")
 					(unit 1)
@@ -1343,7 +1343,7 @@
 			(uuid "167bd633-7394-4df4-9cfb-814b3a8378b3")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-00000000000b/631295dc-b2db-4fa0-9342-d44716b0df98"
 					(reference "C2503")
 					(unit 1)
@@ -1426,7 +1426,7 @@
 			(uuid "cb29e27d-e8e6-41a6-9020-969f521d977b")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-00000000000b/631295dc-b2db-4fa0-9342-d44716b0df98"
 					(reference "C2502")
 					(unit 1)
@@ -1509,7 +1509,7 @@
 			(uuid "acee9e0e-332f-4763-97d9-f2df0cf7c4c8")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-00000000000b/631295dc-b2db-4fa0-9342-d44716b0df98"
 					(reference "C2501")
 					(unit 1)
@@ -1604,7 +1604,7 @@
 			(uuid "6f95adaf-1c9d-45ef-bc80-a488cb400229")
 		)
 		(instances
-			(project "kdigitizer"
+			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-00000000000b/631295dc-b2db-4fa0-9342-d44716b0df98"
 					(reference "XMER2501")
 					(unit 1)
