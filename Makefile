@@ -9,13 +9,17 @@ gerber.py:
 	mkdir -p scripts
 	wget https://gitlab.com/lbl-bids/kicad_library/-/raw/master/scripts/gerber.py -O scripts/gerber.py
 
-tarball: fab
+tarball: fab qrsn
 	echo $(GITTIME)
 	tar --sort=name --mtime=$(GITTIME)  --owner=0 --group=0 --numeric-owner -czf $(PROJECT)_$(DATETIME)_$(COMMITNUM).tar.gz fab qrsngbr
 	md5sum $(PROJECT)_$(DATETIME)_$(COMMITNUM).tar.gz
-zip: fab
+zip: fab qrsn
 	touch -d $(GITTIME) fab/* qrsngbr/*
 	zip -X -o $(PROJECT)_$(DATETIME)_$(COMMITNUM).zip fab/* qrsngbr/*
 	md5sum $(PROJECT)_$(DATETIME)_$(COMMITNUM).zip
+SNSTART=1
+SNSTOP=2
+qrsn: gerber.py
+	python qrsn.py zest -start $(SNSTART) -stop $(SNSTOP)
 
 .PHONY: gerber.py fab
