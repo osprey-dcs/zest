@@ -14,10 +14,10 @@ The other footprints are directly downloaded from different online repos, includ
 I can not include the footprint files because they are not licensed
 for redistribution.
 
-## Reference ID map
+## Reference ID mapping
 
 The reference ID for each component has changed because the KiCad and gEDA manage the hierarchical sheets / subcircuit differently. 
-A map of the v1.2 and v1.1 part can be found in the partsub.json.
+A mapping of the v1.2 and v1.1 part reference ID can be found in the partsub.json.
 
 ## Clone the repo
 ```
