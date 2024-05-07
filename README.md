@@ -28,7 +28,7 @@ and nevigate the project file: zest.kicad_pro
 ### Generate fabrication package
 `make fab`
 
-It will download a script I had in the BIDS repo and use it. I didn't include the whole BIDS as submodule because I don't feel it's necessary, as I am only using this single file here. 
+It will download a script I had in the BIDS repo and use it to generate the gerber, drill, bom and xyposition files. I didn't include the whole BIDS as submodule because I don't feel it's necessary, as I am only using this single file here. 
 
 ### Generate QR code for SN 
 
