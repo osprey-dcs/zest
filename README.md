@@ -17,7 +17,7 @@ for redistribution.
 ## Reference ID mapping
 
 The reference ID for each component has changed because the KiCad and gEDA manage the hierarchical sheets / subcircuit differently. 
-A mapping of the v1.2 and v1.1 part reference ID can be found in the partsub.json.
+A mapping of the v1.2 and v1.1 part reference ID can be found in the [partsub.json](./partsub.json).
 
 ## Clone the repo
 ```
