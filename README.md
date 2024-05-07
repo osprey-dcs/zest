@@ -31,13 +31,8 @@ and nevigate the project file: zest.kicad_pro
 It will download a script I had in the BIDS repo and use it. I didn't include the whole BIDS as submodule because I don't feel it's necessary, as I am only using this single file here. 
 
 ### Generate QR code for SN 
-Make sure the gerber.py already exist in the scripts directory, if not, run 
 
-`make gerber.py`
-
-and it will download from the BIDS repo.
-
-`python qrsn.py zest -start 10 -stop 20`
+`make qrsn SNSTART=10 SNSTOP=20`
 
 This will generate the gerber file for the 10 different SN. The generated gerbers can be found in the directory 
 
