@@ -2,6 +2,8 @@
 The board is designed in KiCAD 8.0. 
 The original Zest board can be found at https://github.com/BerkeleyLab/Zest , which use gEDA and PADS for the schematic and layout design. 
 The v1.2 is purposefully use the exact same traces/via/zone as v1.1.
+The history and credit of the board can be found in the [boardhistoryandcredit](./boardhistoryandcredit)
+
 
 ## Except
 
