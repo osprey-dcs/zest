@@ -12,7 +12,7 @@ kicad zest.kicad_pro
 
 Generate fabrication package
 make fab
-It will download a script I had in the BIDS repo and use it. I didn't include thw whole BIDS as submodule because I don't feel it's necessary, as I am only using this single file here. 
+It will download a script I had in the BIDS repo and use it. I didn't include the whole BIDS as submodule because I don't feel it's necessary, as I am only using this single file here. 
 
 Generate QR code for SN 
 Make sure the gerber.py already exist in the scripts directory, if not, run make gerber.py and it will download from the BIDS repo.
