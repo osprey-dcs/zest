@@ -64,7 +64,6 @@ def qrpcb(board,stringin,x0,y0,quiet_zone=0,stepnm=10*25400,layer='F.Silkscreen'
 
 if __name__=="__main__":
     import argparse
-    import outline
     import git
     import sys
     import os
@@ -84,7 +83,6 @@ if __name__=="__main__":
     
     boardfilename='%s.kicad_pcb'%clargs.projname
     for sn in range(clargs.start,clargs.stop):
-    #    outline.outline(boardfilename)
         gitcommit8=git.Repo('.').head.commit.hexsha[0:8]
         if os.path.isfile(boardfilename):
             board=pcbnew.LoadBoard(boardfilename)
