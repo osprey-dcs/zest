@@ -2,6 +2,10 @@ COMMITNUM = $(shell git log --pretty=oneline --abbrev-commit --abbrev=8|head -1 
 DATETIME = $(shell date  +'%Y%m%d%H%M%S')
 GITTIME=$(shell git log -1 --date=iso-strict --pretty=%cd)
 PROJECT=zest
+
+pdf:
+	kicad-cli sch export pdf $(PROJECT).kicad_sch
+
 fab: gerber.py
 	mkdir -p fab
 	python scripts/gerber.py zest.kicad_pcb fab -gerber -drill -bom -xypos
@@ -20,6 +24,6 @@ zip: fab qrsn
 SNSTART=1
 SNSTOP=2
 qrsn: gerber.py
-	python qrsn.py -proj $(PROJECT)_qrsn -start $(SNSTART) -stop $(SNSTOP)
+	python qrsn.py -proj $(PROJECT)_qrsn -start $(SNSTART) -stop $(SNSTOP) -outputdir qrsngbr
 
 .PHONY: gerber.py fab

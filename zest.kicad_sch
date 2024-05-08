@@ -1601,10 +1601,9 @@
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "070bdf3c-72cd-40bf-af3d-bbee91940554")
 		(property "Reference" "H102"
-			(at 48.26 140.9699 0)
+			(at 43.18 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1613,7 +1612,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 48.26 143.5099 0)
+			(at 43.18 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1668,10 +1667,9 @@
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2cc1ef7b-d441-4e71-8e2a-2d148f4da04f")
 		(property "Reference" "H101"
-			(at 40.64 140.9699 0)
+			(at 35.56 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1680,7 +1678,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 40.64 143.5099 0)
+			(at 35.56 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1735,10 +1733,9 @@
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "491dc945-e928-47af-a0d9-698a2a3999a4")
 		(property "Reference" "H107"
-			(at 87.63 140.9699 0)
+			(at 82.55 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1747,7 +1744,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 87.63 143.5099 0)
+			(at 82.55 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1802,10 +1799,9 @@
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4938146d-f37d-4d15-b8b1-ce183111778e")
 		(property "Reference" "H105"
-			(at 72.39 140.9699 0)
+			(at 67.31 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1814,7 +1810,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 72.39 143.5099 0)
+			(at 67.31 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1869,10 +1865,9 @@
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "68aaa7a2-d280-4ba8-aafa-43b06d6d7ab1")
 		(property "Reference" "H106"
-			(at 80.01 140.9699 0)
+			(at 74.93 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1881,7 +1876,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 80.01 143.5099 0)
+			(at 74.93 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1936,10 +1931,9 @@
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "820ece43-fb47-497d-a077-da583e251131")
 		(property "Reference" "H103"
-			(at 57.15 140.9699 0)
+			(at 52.07 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1948,7 +1942,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 57.15 143.5099 0)
+			(at 52.07 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2003,10 +1997,9 @@
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a23d8263-36bc-445c-9a82-71d27b209199")
 		(property "Reference" "H104"
-			(at 64.77 140.9699 0)
+			(at 59.69 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2015,7 +2008,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 64.77 143.5099 0)
+			(at 59.69 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)

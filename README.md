@@ -32,6 +32,9 @@ and navigate to the project file: zest.kicad_pro
 #### From command line
 `kicad zest.kicad_pro`
 
+### Generate schematic pdf
+`make pdf`
+
 ### Generate fabrication package
 `make fab`
 
