@@ -20,6 +20,6 @@ zip: fab qrsn
 SNSTART=1
 SNSTOP=2
 qrsn: gerber.py
-	python qrsn.py zest -start $(SNSTART) -stop $(SNSTOP)
+	python qrsn.py -proj $(PROJECT)_qrsn -start $(SNSTART) -stop $(SNSTOP)
 
 .PHONY: gerber.py fab
