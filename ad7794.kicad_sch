@@ -1760,7 +1760,7 @@
 		)
 		(uuid "d63540c8-8181-43a5-bced-049a47182997")
 	)
-	(hierarchical_label "AD7794_SPI_CLK"
+	(hierarchical_label "{AD7794_SPI_CLK}"
 		(shape input)
 		(at 248.92 95.25 0)
 		(fields_autoplaced yes)

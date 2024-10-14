@@ -3811,7 +3811,7 @@
 		)
 		(uuid "ef905aa4-c753-4826-9b2a-da0074ee40e0")
 	)
-	(hierarchical_label "ADC"
+	(hierarchical_label "{ADC}"
 		(shape input)
 		(at 115.57 142.24 180)
 		(fields_autoplaced yes)

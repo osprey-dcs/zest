@@ -4983,7 +4983,7 @@
 		)
 		(uuid "36f83d3e-1f7b-4425-bf3a-ec458c2696cf")
 	)
-	(hierarchical_label "DAC"
+	(hierarchical_label "{DAC}"
 		(shape input)
 		(at 121.92 111.76 180)
 		(fields_autoplaced yes)
