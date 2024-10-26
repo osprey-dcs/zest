@@ -12,7 +12,7 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
+			(property "Reference" "U2801"
 				(at 22.86 10.16 0)
 				(effects
 					(font
@@ -20,7 +20,7 @@
 					)
 				)
 			)
-			(property "Value" "LTC6655CHLS8-2.5-PBF"
+			(property "Value" "LTC6655CHLS8-2.5#PBF"
 				(at 22.86 7.62 0)
 				(effects
 					(font
@@ -28,7 +28,7 @@
 					)
 				)
 			)
-			(property "Footprint" "LCC-8_LS8_LIT"
+			(property "Footprint" "Package_LCC:Analog_LCC-8_5x5mm_P1.27mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -50,6 +50,15 @@
 			)
 			(property "Description" ""
 				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Vendor" "digikey:LTC6655CHLS8-2.5#PBF-ND"
+				(at -109.22 -83.82 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -222,7 +231,27 @@
 						)
 					)
 				)
-				(pin output line
+				(pin power_in line
+					(at 45.72 0 180)
+					(length 7.62)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "LTC6655CHLS8-2.5-PBF_1_1"
+				(pin unspecified line
 					(at 45.72 -5.08 180)
 					(length 7.62)
 					(name "VOUT_S"
@@ -240,7 +269,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin power_out line
 					(at 45.72 -2.54 180)
 					(length 7.62)
 					(name "VOUT_F"
@@ -251,24 +280,6 @@
 						)
 					)
 					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 45.72 0 180)
-					(length 7.62)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -914,7 +925,7 @@
 		(uuid "6e0f1951-267a-4b02-9a67-93b6a603f304")
 	)
 	(hierarchical_label "VOUT"
-		(shape input)
+		(shape output)
 		(at 177.8 88.9 0)
 		(fields_autoplaced yes)
 		(effects

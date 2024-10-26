@@ -2085,7 +2085,7 @@
 				(justify left top)
 			)
 		)
-		(pin "ADC" input
+		(pin "{ADC}" output
 			(at 81.28 74.93 0)
 			(effects
 				(font
@@ -2183,7 +2183,7 @@
 				(justify left top)
 			)
 		)
-		(pin "ADC" input
+		(pin "{ADC}" input
 			(at 81.28 109.22 0)
 			(effects
 				(font
@@ -2468,7 +2468,7 @@
 			)
 			(uuid "1a79e897-2512-44ec-b63c-8e6eeff333d9")
 		)
-		(pin "AD7794_SPI_CLK" input
+		(pin "{AD7794_SPI_CLK}" input
 			(at 186.69 113.03 180)
 			(effects
 				(font
@@ -2516,7 +2516,7 @@
 				(justify left top)
 			)
 		)
-		(pin "DAC" input
+		(pin "{DAC}" input
 			(at 106.68 74.93 180)
 			(effects
 				(font
@@ -2976,7 +2976,7 @@
 			)
 			(uuid "a6289d40-653f-408e-840c-14fbcdc6eb14")
 		)
-		(pin "{DAC}" input
+		(pin "{DAC}" output
 			(at 104.14 74.93 0)
 			(effects
 				(font
