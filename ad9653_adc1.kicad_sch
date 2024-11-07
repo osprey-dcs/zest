@@ -2154,7 +2154,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 100.33) (xy 205.74 100.33)
+			(xy 204.47 102.87) (xy 205.74 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2204,13 +2204,13 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 100.33) (xy 213.36 102.87)
+			(xy 204.47 97.79) (xy 199.39 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0644a62e-d8a1-4a43-9260-e0147d955365")
+		(uuid "06616fcd-2aab-48c2-a068-536e9d95818d")
 	)
 	(wire
 		(pts
@@ -2231,16 +2231,6 @@
 			(type default)
 		)
 		(uuid "0dab7d3b-9bf3-49bd-b0d8-5ce09ae20d89")
-	)
-	(wire
-		(pts
-			(xy 213.36 97.79) (xy 213.36 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "108414ea-fbba-4649-a3c8-c0d53827e711")
 	)
 	(wire
 		(pts
@@ -2371,6 +2361,16 @@
 			(type default)
 		)
 		(uuid "2d3e6651-d2ef-4aff-8f87-12167cfb0bfa")
+	)
+	(wire
+		(pts
+			(xy 204.47 100.33) (xy 199.39 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d8bb856-275c-4f69-89fa-0ecf91b26c8b")
 	)
 	(wire
 		(pts
@@ -2624,6 +2624,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 95.25) (xy 204.47 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c87346a-da69-407e-80e8-e62c02d79317")
+	)
+	(wire
+		(pts
 			(xy 30.48 118.11) (xy 30.48 120.65)
 		)
 		(stroke
@@ -2674,7 +2684,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 97.79) (xy 205.74 97.79)
+			(xy 204.47 95.25) (xy 205.74 95.25)
 		)
 		(stroke
 			(width 0)
@@ -2981,6 +2991,16 @@
 			(type default)
 		)
 		(uuid "b30f79e2-20ed-45ad-8a74-8ebc8b8a78c1")
+	)
+	(wire
+		(pts
+			(xy 204.47 102.87) (xy 204.47 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b339d423-8e36-4abd-ad25-6cc7c42e5844")
 	)
 	(wire
 		(pts
@@ -5905,7 +5925,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 209.55 100.33 270)
+		(at 209.55 102.87 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5914,7 +5934,7 @@
 		(dnp no)
 		(uuid "afd0192d-8070-40de-8026-6431a4b05204")
 		(property "Reference" "C712"
-			(at 209.55 96.52 90)
+			(at 213.36 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5922,7 +5942,7 @@
 			)
 		)
 		(property "Value" "10000PF"
-			(at 209.55 95.25 90)
+			(at 215.138 104.648 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5930,7 +5950,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 205.74 99.3648 0)
+			(at 205.74 101.9048 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5939,7 +5959,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 209.55 100.33 0)
+			(at 209.55 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5948,7 +5968,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 209.55 100.33 0)
+			(at 209.55 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5957,7 +5977,7 @@
 			)
 		)
 		(property "Vendor" "digikey:445-2664-1-ND"
-			(at 109.22 309.88 0)
+			(at 109.22 312.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6353,7 +6373,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 209.55 97.79 270)
+		(at 209.55 95.25 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6361,7 +6381,7 @@
 		(dnp no)
 		(uuid "e89f088a-2b56-4029-a01d-0ca2ece0b2cf")
 		(property "Reference" "C711"
-			(at 209.55 101.6 90)
+			(at 213.614 96.774 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6369,7 +6389,7 @@
 			)
 		)
 		(property "Value" "10000PF"
-			(at 209.55 102.87 90)
+			(at 215.138 93.726 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6377,7 +6397,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 205.74 98.7552 0)
+			(at 205.74 96.2152 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6386,7 +6406,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 209.55 97.79 0)
+			(at 209.55 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6395,7 +6415,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 209.55 97.79 0)
+			(at 209.55 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6404,7 +6424,7 @@
 			)
 		)
 		(property "Vendor" "digikey:445-2664-1-ND"
-			(at 111.76 -111.76 0)
+			(at 111.76 -114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
