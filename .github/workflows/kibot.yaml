@@ -11,6 +11,7 @@ jobs:
     - uses: INTI-CMNB/KiBot@v2_k8
       with:
         dir: output
+        schema: zest.kicad_sch
         config: .github/kibot-fab.yaml
     - name: Full output
       uses: actions/upload-artifact@v4
@@ -46,6 +47,7 @@ jobs:
     - uses: INTI-CMNB/KiBot@v2_k8
       with:
         dir: diff
+        schema: zest.kicad_sch
         config: .github/kibot-diff.yaml
     - name: Upload Diff
       id: usdiff
@@ -71,6 +73,7 @@ jobs:
     - uses: INTI-CMNB/KiBot@v2_k8
       with:
         dir: diff
+        schema: zest.kicad_sch
         config: .github/kibot-diff.yaml
     - name: Upload Diff
       id: prdiff
