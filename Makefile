@@ -9,6 +9,7 @@ pdf:
 
 fab: scripts/gerber.py
 	mkdir -p fab
+	cp License fab
 	$(PYTHON) scripts/gerber.py zest.kicad_pcb fab -gerber -drill -bom -xypos
 
 scripts/gerber.py:
