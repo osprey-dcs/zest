@@ -289,16 +289,15 @@
 				)
 			)
 		)
-		(symbol "Device:C"
+		(symbol "Device:C_Small"
 			(pin_numbers hide)
 			(pin_names
-				(offset 0.254)
-			)
+				(offset 0.254) hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "C"
-				(at 0.635 2.54 0)
+				(at 0.254 1.778 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -306,8 +305,8 @@
 					(justify left)
 				)
 			)
-			(property "Value" "C"
-				(at 0.635 -2.54 0)
+			(property "Value" "C_Small"
+				(at 0.254 -2.032 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -316,7 +315,7 @@
 				)
 			)
 			(property "Footprint" ""
-				(at 0.9652 -3.81 0)
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -333,7 +332,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Unpolarized capacitor"
+			(property "Description" "Unpolarized capacitor, small symbol"
 				(at 0 0 0)
 				(effects
 					(font
@@ -342,7 +341,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "cap capacitor"
+			(property "ki_keywords" "capacitor cap"
 				(at 0 0 0)
 				(effects
 					(font
@@ -360,13 +359,13 @@
 					(hide yes)
 				)
 			)
-			(symbol "C_0_1"
+			(symbol "C_Small_0_1"
 				(polyline
 					(pts
-						(xy -2.032 -0.762) (xy 2.032 -0.762)
+						(xy -1.524 -0.508) (xy 1.524 -0.508)
 					)
 					(stroke
-						(width 0.508)
+						(width 0.3302)
 						(type default)
 					)
 					(fill
@@ -375,10 +374,10 @@
 				)
 				(polyline
 					(pts
-						(xy -2.032 0.762) (xy 2.032 0.762)
+						(xy -1.524 0.508) (xy 1.524 0.508)
 					)
 					(stroke
-						(width 0.508)
+						(width 0.3048)
 						(type default)
 					)
 					(fill
@@ -386,10 +385,10 @@
 					)
 				)
 			)
-			(symbol "C_1_1"
+			(symbol "C_Small_1_1"
 				(pin passive line
-					(at 0 3.81 270)
-					(length 2.794)
+					(at 0 2.54 270)
+					(length 2.032)
 					(name "~"
 						(effects
 							(font
@@ -406,8 +405,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -3.81 90)
-					(length 2.794)
+					(at 0 -2.54 90)
+					(length 2.032)
 					(name "~"
 						(effects
 							(font
@@ -681,12 +680,6 @@
 		(uuid "55dd3d2a-f489-447a-887e-720fcb21bd69")
 	)
 	(junction
-		(at 168.91 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "81449562-bf5c-42ff-92a0-19b664ad592a")
-	)
-	(junction
 		(at 157.48 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -705,6 +698,12 @@
 		(uuid "c2dcc5c3-74fe-424c-ae5e-83204b5c378c")
 	)
 	(junction
+		(at 168.91 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ce4b1620-42e3-4ed2-bdf3-1ea01a468a7d")
+	)
+	(junction
 		(at 77.47 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -712,13 +711,23 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 81.28) (xy 77.47 85.09)
+			(xy 77.47 81.28) (xy 77.47 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "024aaffb-689a-4ad3-8197-27184d27aa2c")
+	)
+	(wire
+		(pts
+			(xy 77.47 91.44) (xy 77.47 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ccdf33f-1924-4e70-96d6-c3e8a30c55c4")
 	)
 	(wire
 		(pts
@@ -739,6 +748,16 @@
 			(type default)
 		)
 		(uuid "1d15f21a-904a-447b-a2a1-44e6e8c7c20e")
+	)
+	(wire
+		(pts
+			(xy 168.91 95.25) (xy 168.91 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1eb1dcce-5c35-474d-8cee-97aa6ab5da1c")
 	)
 	(wire
 		(pts
@@ -808,7 +827,17 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "8d51efce-433a-475c-a740-5b84c300fed7")
+		(uuid "8d90938e-0b70-4078-8da5-83dd7c8ff8ba")
+	)
+	(wire
+		(pts
+			(xy 90.17 91.44) (xy 90.17 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9310b7ed-d51e-4ea6-ab47-2f14d9e410c1")
 	)
 	(wire
 		(pts
@@ -822,13 +851,23 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 81.28) (xy 90.17 85.09)
+			(xy 90.17 81.28) (xy 90.17 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "9df32284-84e6-4cd6-b131-7321bb772136")
+	)
+	(wire
+		(pts
+			(xy 168.91 90.17) (xy 168.91 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7535dd7-3ef8-45e0-8aee-595ac9454fcc")
 	)
 	(wire
 		(pts
@@ -1135,7 +1174,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
+		(lib_id "Device:C_Small")
 		(at 168.91 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1574,7 +1613,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
+		(lib_id "Device:C_Small")
 		(at 77.47 88.9 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1671,7 +1710,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
+		(lib_id "Device:C_Small")
 		(at 90.17 88.9 180)
 		(unit 1)
 		(exclude_from_sim no)

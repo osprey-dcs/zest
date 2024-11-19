@@ -242,16 +242,15 @@
 				)
 			)
 		)
-		(symbol "Device:C"
+		(symbol "Device:C_Small"
 			(pin_numbers hide)
 			(pin_names
-				(offset 0.254)
-			)
+				(offset 0.254) hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "C"
-				(at 0.635 2.54 0)
+				(at 0.254 1.778 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -259,8 +258,8 @@
 					(justify left)
 				)
 			)
-			(property "Value" "C"
-				(at 0.635 -2.54 0)
+			(property "Value" "C_Small"
+				(at 0.254 -2.032 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -269,7 +268,7 @@
 				)
 			)
 			(property "Footprint" ""
-				(at 0.9652 -3.81 0)
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -286,7 +285,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Unpolarized capacitor"
+			(property "Description" "Unpolarized capacitor, small symbol"
 				(at 0 0 0)
 				(effects
 					(font
@@ -295,7 +294,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "cap capacitor"
+			(property "ki_keywords" "capacitor cap"
 				(at 0 0 0)
 				(effects
 					(font
@@ -313,13 +312,13 @@
 					(hide yes)
 				)
 			)
-			(symbol "C_0_1"
+			(symbol "C_Small_0_1"
 				(polyline
 					(pts
-						(xy -2.032 -0.762) (xy 2.032 -0.762)
+						(xy -1.524 -0.508) (xy 1.524 -0.508)
 					)
 					(stroke
-						(width 0.508)
+						(width 0.3302)
 						(type default)
 					)
 					(fill
@@ -328,10 +327,10 @@
 				)
 				(polyline
 					(pts
-						(xy -2.032 0.762) (xy 2.032 0.762)
+						(xy -1.524 0.508) (xy 1.524 0.508)
 					)
 					(stroke
-						(width 0.508)
+						(width 0.3048)
 						(type default)
 					)
 					(fill
@@ -339,10 +338,10 @@
 					)
 				)
 			)
-			(symbol "C_1_1"
+			(symbol "C_Small_1_1"
 				(pin passive line
-					(at 0 3.81 270)
-					(length 2.794)
+					(at 0 2.54 270)
+					(length 2.032)
 					(name "~"
 						(effects
 							(font
@@ -359,8 +358,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -3.81 90)
-					(length 2.794)
+					(at 0 -2.54 90)
+					(length 2.032)
 					(name "~"
 						(effects
 							(font
@@ -839,16 +838,16 @@
 		)
 	)
 	(junction
-		(at 100.33 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "29271e1e-630c-48b0-a224-0c9f88a92590")
-	)
-	(junction
 		(at 113.03 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6d9d6e49-1bb5-41af-b244-490e34b2835c")
+		(uuid "128b0569-1904-4d46-aa10-337d734f09d7")
+	)
+	(junction
+		(at 100.33 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "714f0210-3d28-4658-a3b0-4aacc170d4a7")
 	)
 	(junction
 		(at 113.03 62.23)
@@ -876,7 +875,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 78.74) (xy 177.8 80.01)
+			(xy 177.8 78.74) (xy 177.8 81.28)
 		)
 		(stroke
 			(width 0)
@@ -886,7 +885,37 @@
 	)
 	(wire
 		(pts
+			(xy 100.33 68.58) (xy 100.33 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "016d0a2d-8e64-4c2a-8a30-c9a29959321c")
+	)
+	(wire
+		(pts
+			(xy 177.8 86.36) (xy 177.8 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31588c8e-ef76-48c8-bf1d-2bf187cd7f0a")
+	)
+	(wire
+		(pts
 			(xy 113.03 81.28) (xy 113.03 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "346fe42f-5320-4958-840f-efabe15ec488")
+	)
+	(wire
+		(pts
+			(xy 113.03 62.23) (xy 113.03 81.28)
 		)
 		(stroke
 			(width 0)
@@ -966,6 +995,16 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 86.36) (xy 191.77 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a165ce2-a3d2-45d6-a5ee-cd3cec4f51d6")
+	)
+	(wire
+		(pts
 			(xy 167.64 93.98) (xy 167.64 81.28)
 		)
 		(stroke
@@ -973,6 +1012,16 @@
 			(type default)
 		)
 		(uuid "8566144b-9f03-4580-9fd0-201445d1bc73")
+	)
+	(wire
+		(pts
+			(xy 100.33 62.23) (xy 100.33 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a60cd11c-308b-4396-b991-7c9711a1c8d1")
 	)
 	(wire
 		(pts
@@ -996,23 +1045,33 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 62.23) (xy 113.03 81.28)
+			(xy 113.03 81.28) (xy 114.3 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c92a7884-8155-435b-aca8-7d18ab184247")
+		(uuid "e231ea36-0f73-4c2f-b72b-f905e8b029fe")
 	)
 	(wire
 		(pts
-			(xy 191.77 78.74) (xy 191.77 80.01)
+			(xy 191.77 78.74) (xy 191.77 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "eab33b85-78f0-41d9-9506-9bb8c3cad512")
+	)
+	(wire
+		(pts
+			(xy 119.38 81.28) (xy 120.65 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb24a97b-04b8-4a7d-910f-29aef1727395")
 	)
 	(wire
 		(pts
@@ -1061,7 +1120,7 @@
 		(uuid "ad95deb0-da35-4274-928e-ac75ab129dbc")
 	)
 	(symbol
-		(lib_id "Device:C")
+		(lib_id "Device:C_Small")
 		(at 191.77 83.82 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1079,7 +1138,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10000PF"
+		(property "Value" "10nF"
 			(at 195.58 85.0899 0)
 			(effects
 				(font
@@ -1106,7 +1165,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10000PF 25V C0G 0603"
+		(property "Description" "CAP CER 10nF 25V C0G 0603"
 			(at 191.77 83.82 0)
 			(effects
 				(font
@@ -1158,7 +1217,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
+		(lib_id "Device:C_Small")
 		(at 177.8 83.82 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1176,7 +1235,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10000PF"
+		(property "Value" "10nF"
 			(at 181.61 85.0899 0)
 			(effects
 				(font
@@ -1203,7 +1262,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10000PF 25V C0G 0603"
+		(property "Description" "CAP CER 10nF 25V C0G 0603"
 			(at 177.8 83.82 0)
 			(effects
 				(font
@@ -1453,7 +1512,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
+		(lib_id "Device:C_Small")
 		(at 100.33 66.04 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1471,7 +1530,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10000PF"
+		(property "Value" "10nF"
 			(at 104.14 67.3099 0)
 			(effects
 				(font
@@ -1498,7 +1557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10000PF 25V C0G 0603"
+		(property "Description" "CAP CER 10nF 25V C0G 0603"
 			(at 100.33 66.04 0)
 			(effects
 				(font
@@ -1915,7 +1974,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
+		(lib_id "Device:C_Small")
 		(at 116.84 81.28 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1932,7 +1991,7 @@
 				)
 			)
 		)
-		(property "Value" "10000PF"
+		(property "Value" "10nF"
 			(at 116.84 76.2 90)
 			(effects
 				(font
@@ -1958,7 +2017,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10000PF 25V C0G 0603"
+		(property "Description" "CAP CER 10nF 25V C0G 0603"
 			(at 116.84 81.28 0)
 			(effects
 				(font

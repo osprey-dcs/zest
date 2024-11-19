@@ -242,16 +242,15 @@
 				)
 			)
 		)
-		(symbol "Device:C"
+		(symbol "Device:C_Small"
 			(pin_numbers hide)
 			(pin_names
-				(offset 0.254)
-			)
+				(offset 0.254) hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "C"
-				(at 0.635 2.54 0)
+				(at 0.254 1.778 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -259,8 +258,8 @@
 					(justify left)
 				)
 			)
-			(property "Value" "C"
-				(at 0.635 -2.54 0)
+			(property "Value" "C_Small"
+				(at 0.254 -2.032 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -269,7 +268,7 @@
 				)
 			)
 			(property "Footprint" ""
-				(at 0.9652 -3.81 0)
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -286,7 +285,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Unpolarized capacitor"
+			(property "Description" "Unpolarized capacitor, small symbol"
 				(at 0 0 0)
 				(effects
 					(font
@@ -295,7 +294,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "cap capacitor"
+			(property "ki_keywords" "capacitor cap"
 				(at 0 0 0)
 				(effects
 					(font
@@ -313,13 +312,13 @@
 					(hide yes)
 				)
 			)
-			(symbol "C_0_1"
+			(symbol "C_Small_0_1"
 				(polyline
 					(pts
-						(xy -2.032 -0.762) (xy 2.032 -0.762)
+						(xy -1.524 -0.508) (xy 1.524 -0.508)
 					)
 					(stroke
-						(width 0.508)
+						(width 0.3302)
 						(type default)
 					)
 					(fill
@@ -328,10 +327,10 @@
 				)
 				(polyline
 					(pts
-						(xy -2.032 0.762) (xy 2.032 0.762)
+						(xy -1.524 0.508) (xy 1.524 0.508)
 					)
 					(stroke
-						(width 0.508)
+						(width 0.3048)
 						(type default)
 					)
 					(fill
@@ -339,10 +338,10 @@
 					)
 				)
 			)
-			(symbol "C_1_1"
+			(symbol "C_Small_1_1"
 				(pin passive line
-					(at 0 3.81 270)
-					(length 2.794)
+					(at 0 2.54 270)
+					(length 2.032)
 					(name "~"
 						(effects
 							(font
@@ -359,8 +358,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -3.81 90)
-					(length 2.794)
+					(at 0 -2.54 90)
+					(length 2.032)
 					(name "~"
 						(effects
 							(font
@@ -658,6 +657,12 @@
 		)
 	)
 	(junction
+		(at 90.17 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1c9dd72c-b899-4f3c-b5d7-ad3cccb64ce9")
+	)
+	(junction
 		(at 101.6 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -668,12 +673,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3c91eacf-e55a-4ea1-a637-e4cda2781fe1")
-	)
-	(junction
-		(at 90.17 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9c112a74-dd1b-49da-b273-15ecbbaa58da")
 	)
 	(junction
 		(at 74.93 95.25)
@@ -705,7 +704,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "022978e8-f010-4f6c-a792-2101e2dfe992")
+		(uuid "11ee8d58-58b4-4095-a9ff-32f017976739")
 	)
 	(wire
 		(pts
@@ -719,7 +718,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 73.66) (xy 74.93 82.55)
+			(xy 74.93 73.66) (xy 74.93 83.82)
 		)
 		(stroke
 			(width 0)
@@ -779,7 +778,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 90.17) (xy 74.93 95.25)
+			(xy 74.93 88.9) (xy 74.93 95.25)
 		)
 		(stroke
 			(width 0)
@@ -789,7 +788,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 83.82) (xy 90.17 87.63)
+			(xy 90.17 83.82) (xy 90.17 88.9)
 		)
 		(stroke
 			(width 0)
@@ -839,7 +838,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 83.82) (xy 220.98 83.82)
+			(xy 207.01 83.82) (xy 220.98 83.82)
 		)
 		(stroke
 			(width 0)
@@ -849,13 +848,23 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 83.82) (xy 200.66 83.82)
+			(xy 194.31 83.82) (xy 201.93 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "b86291a7-d74a-452c-ab02-442af0bdc64d")
+	)
+	(wire
+		(pts
+			(xy 90.17 93.98) (xy 90.17 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc6f19dd-697f-4b37-8e11-3853573c85e1")
 	)
 	(wire
 		(pts
@@ -889,7 +898,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 88.9) (xy 220.98 88.9)
+			(xy 207.01 88.9) (xy 220.98 88.9)
 		)
 		(stroke
 			(width 0)
@@ -899,7 +908,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 88.9) (xy 200.66 88.9)
+			(xy 194.31 88.9) (xy 201.93 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1129,7 +1138,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
+		(lib_id "Device:C_Small")
 		(at 204.47 88.9 270)
 		(mirror x)
 		(unit 1)
@@ -1146,7 +1155,7 @@
 				)
 			)
 		)
-		(property "Value" "1000PF"
+		(property "Value" "1nF"
 			(at 204.47 83.82 90)
 			(effects
 				(font
@@ -1329,7 +1338,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
+		(lib_id "Device:C_Small")
 		(at 204.47 83.82 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1346,7 +1355,7 @@
 				)
 			)
 		)
-		(property "Value" "1000PF"
+		(property "Value" "1nF"
 			(at 204.47 78.74 90)
 			(effects
 				(font
@@ -1428,7 +1437,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
+		(lib_id "Device:C_Small")
 		(at 90.17 91.44 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1529,7 +1538,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
+		(lib_id "Device:C_Small")
 		(at 74.93 86.36 180)
 		(unit 1)
 		(exclude_from_sim no)
