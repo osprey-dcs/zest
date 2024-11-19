@@ -4309,7 +4309,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 209.55 93.98 0)
 			(effects
 				(font
@@ -4320,6 +4320,24 @@
 		)
 		(property "Vendor" "digikey:445-2664-1-ND"
 			(at 115.57 -115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 209.55 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C1608C0G1E103J080AA"
+			(at 209.55 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4387,7 +4405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN SMA JACK STR 50 OHM PCB"
 			(at 256.54 83.82 0)
 			(effects
 				(font
@@ -4398,6 +4416,24 @@
 		)
 		(property "Vendor" "digikey:J500-ND"
 			(at 0 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Cinch"
+			(at 256.54 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "142-0701-201 "
+			(at 256.54 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4608,7 +4644,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 219.71 69.85 0)
 			(effects
 				(font
@@ -4619,6 +4655,24 @@
 		)
 		(property "Vendor" "digikey:445-2664-1-ND"
 			(at 0 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 219.71 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C1608C0G1E103J080AA"
+			(at 219.71 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4753,7 +4807,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 10K OHM 0.5% 1/10W 0603"
 			(at 76.2 134.62 0)
 			(effects
 				(font
@@ -4764,6 +4818,24 @@
 		)
 		(property "Vendor" "digikey:MCT0603-10K-MDCT-ND"
 			(at 0 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay"
+			(at 76.2 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "MCT0603MD1002DP500 "
+			(at 76.2 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4900,7 +4972,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10UF 10V X5R 0603"
 			(at 54.61 43.18 0)
 			(effects
 				(font
@@ -4911,6 +4983,24 @@
 		)
 		(property "Vendor" "digikey:445-6853-1-ND"
 			(at 0 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 54.61 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C1608X5R1A106M080AC"
+			(at 54.61 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5045,7 +5135,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Tant_poly"
+		(property "Description" "CAP TANT POLY 2.2UF 10V 0603"
 			(at 54.61 60.96 0)
 			(effects
 				(font
@@ -5056,6 +5146,24 @@
 		)
 		(property "Vendor" "digikey:478-8725-1-ND"
 			(at 0 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kyocera AVX"
+			(at 54.61 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "F381A225MMA"
+			(at 54.61 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5125,7 +5233,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN SMA JACK STR 50 OHM PCB"
 			(at 45.72 114.3 0)
 			(effects
 				(font
@@ -5136,6 +5244,24 @@
 		)
 		(property "Vendor" "digikey:J500-ND"
 			(at 91.44 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Cinch"
+			(at 45.72 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "142-0701-201 "
+			(at 45.72 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5213,7 +5339,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 10V X5R 0402"
 			(at 60.96 43.18 0)
 			(effects
 				(font
@@ -5224,6 +5350,24 @@
 		)
 		(property "Vendor" "digikey:490-1318-1-ND"
 			(at 0 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 60.96 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R61A104KA01D"
+			(at 60.96 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5292,7 +5436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 10V X5R 0402"
 			(at 74.93 43.18 0)
 			(effects
 				(font
@@ -5303,6 +5447,24 @@
 		)
 		(property "Vendor" "digikey:490-1318-1-ND"
 			(at 0 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 74.93 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R61A104KA01D"
+			(at 74.93 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5438,7 +5600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN SMA JACK STR 50 OHM PCB"
 			(at 45.72 101.6 0)
 			(effects
 				(font
@@ -5449,6 +5611,24 @@
 		)
 		(property "Vendor" "digikey:J500-ND"
 			(at 91.44 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Cinch"
+			(at 45.72 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "142-0701-201 "
+			(at 45.72 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5526,7 +5706,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 48.26 60.96 0)
 			(effects
 				(font
@@ -5537,6 +5717,24 @@
 		)
 		(property "Vendor" "digikey:445-2664-1-ND"
 			(at 0 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 48.26 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C1608C0G1E103J080AA"
+			(at 48.26 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5606,7 +5804,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN SMA JACK STR 50 OHM PCB"
 			(at 45.72 83.82 0)
 			(effects
 				(font
@@ -5617,6 +5815,24 @@
 		)
 		(property "Vendor" "digikey:J500-ND"
 			(at 91.44 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Cinch"
+			(at 45.72 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "142-0701-201 "
+			(at 45.72 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5694,7 +5910,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10UF 10V X5R 0603"
 			(at 46.99 27.94 0)
 			(effects
 				(font
@@ -5705,6 +5921,24 @@
 		)
 		(property "Vendor" "digikey:445-6853-1-ND"
 			(at 0 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 46.99 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C1608X5R1A106M080AC"
+			(at 46.99 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5773,7 +6007,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
+			(at 207.01 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 207.01 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
 			(at 207.01 69.85 0)
 			(effects
 				(font
@@ -5911,7 +6163,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 10V X5R 0402"
 			(at 67.31 43.18 0)
 			(effects
 				(font
@@ -5922,6 +6174,24 @@
 		)
 		(property "Vendor" "digikey:490-1318-1-ND"
 			(at 0 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 67.31 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R61A104KA01D"
+			(at 67.31 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6058,7 +6328,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 10V X5R 0402"
 			(at 53.34 27.94 0)
 			(effects
 				(font
@@ -6069,6 +6339,24 @@
 		)
 		(property "Vendor" "digikey:490-1318-1-ND"
 			(at 0 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 53.34 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R61A104KA01D"
+			(at 53.34 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6203,7 +6491,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 10V X5R 0402"
 			(at 46.99 43.18 0)
 			(effects
 				(font
@@ -6214,6 +6502,24 @@
 		)
 		(property "Vendor" "digikey:490-1318-1-ND"
 			(at 0 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 46.99 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R61A104KA01D"
+			(at 46.99 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6282,7 +6588,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC ADC 16BIT PIPELINED 48LFCSP"
 			(at 199.39 83.82 0)
 			(effects
 				(font
@@ -6293,6 +6599,24 @@
 		)
 		(property "Vendor" "digikey:AD9653BCPZ-125-ND"
 			(at 398.78 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Analog Devices"
+			(at 199.39 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "AD9653BCPZ-125 "
+			(at 199.39 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6500,7 +6824,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 209.55 96.52 0)
 			(effects
 				(font
@@ -6511,6 +6835,24 @@
 		)
 		(property "Vendor" "digikey:445-2664-1-ND"
 			(at 113.03 306.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 209.55 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C1608C0G1E103J080AA"
+			(at 209.55 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6618,7 +6960,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100R"
 			(at 222.25 96.5199 0)
 			(effects
 				(font
@@ -6645,7 +6987,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 100 OHM 1% 1/10W 0603"
 			(at 219.71 95.25 0)
 			(effects
 				(font
@@ -6656,6 +6998,24 @@
 		)
 		(property "Vendor" "digikey:311-100HRCT-ND"
 			(at 0 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 219.71 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-07100RL "
+			(at 219.71 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6758,6 +7118,13 @@
 			)
 			(uuid "c5131fe2-081d-4b20-babd-acc134c4e999")
 		)
+		(instances
+			(project "zest"
+				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000000"
+					(page "23")
+				)
+			)
+		)
 	)
 	(sheet
 		(at 45.72 96.52)
@@ -6838,6 +7205,13 @@
 				(justify left)
 			)
 			(uuid "e8065123-d7e1-4de0-8400-77afc92ab471")
+		)
+		(instances
+			(project "zest"
+				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000000"
+					(page "22")
+				)
+			)
 		)
 	)
 	(sheet
@@ -6920,6 +7294,13 @@
 			)
 			(uuid "23c138f7-84ee-476a-ac0c-9ee9b6c4e8c0")
 		)
+		(instances
+			(project "zest"
+				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000000"
+					(page "21")
+				)
+			)
+		)
 	)
 	(sheet
 		(at 241.3 78.74)
@@ -7000,6 +7381,13 @@
 				(justify right)
 			)
 			(uuid "fb376d94-28d6-4dcc-a7b1-37bb86edcede")
+		)
+		(instances
+			(project "zest"
+				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000000"
+					(page "24")
+				)
+			)
 		)
 	)
 )

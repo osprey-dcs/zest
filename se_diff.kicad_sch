@@ -1097,7 +1097,7 @@
 				)
 			)
 		)
-		(property "Value" "4.99"
+		(property "Value" "4.99R"
 			(at 227.33 87.63 90)
 			(effects
 				(font
@@ -1123,7 +1123,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 4.99 OHM 1% 1/10W 0603"
 			(at 227.33 83.82 0)
 			(effects
 				(font
@@ -1134,6 +1134,24 @@
 		)
 		(property "Vendor" "digikey:311-4.99HRCT-ND"
 			(at 311.15 -143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 227.33 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-074R99L "
+			(at 227.33 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1239,6 +1257,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 217.17 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 217.17 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d41fd43f-76cd-47e5-b674-cdf0ea55e8a9")
 		)
@@ -1329,7 +1365,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1:4 CORE & WIRE TRANSFORMER, 10"
 			(at 173.99 76.2 0)
 			(effects
 				(font
@@ -1340,6 +1376,24 @@
 		)
 		(property "Vendor" "digikey:TCM4-19+"
 			(at 347.98 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Mini-Circuits "
+			(at 173.99 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "TCM4-19+ "
+			(at 173.99 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1446,7 +1500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 93.98 81.28 0)
 			(effects
 				(font
@@ -1457,6 +1511,24 @@
 		)
 		(property "Vendor" "digikey:445-2664-1-ND"
 			(at 175.26 -12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 93.98 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C1608C0G1E103J080AA"
+			(at 93.98 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1550,7 +1622,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 93.98 76.2 0)
 			(effects
 				(font
@@ -1561,6 +1633,24 @@
 		)
 		(property "Vendor" "digikey:445-2664-1-ND"
 			(at 170.18 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 93.98 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C1608C0G1E103J080AA"
+			(at 93.98 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1630,7 +1720,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "200"
+		(property "Value" "200R"
 			(at 198.12 80.0099 0)
 			(effects
 				(font
@@ -1657,7 +1747,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 200 OHM 0.5% 1/16W 0603"
 			(at 195.58 78.74 0)
 			(effects
 				(font
@@ -1668,6 +1758,24 @@
 		)
 		(property "Vendor" "digikey:RR08P200DCT-ND"
 			(at 0 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Susumu "
+			(at 195.58 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RR0816P-201-D "
+			(at 195.58 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1735,7 +1843,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0R"
 			(at 185.42 69.85 90)
 			(effects
 				(font
@@ -1761,7 +1869,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 0 OHM JUMPER 1/10W 0603"
 			(at 185.42 73.66 0)
 			(effects
 				(font
@@ -1772,6 +1880,24 @@
 		)
 		(property "Vendor" "digikey:P0.0GCT-ND"
 			(at 259.08 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 185.42 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "ERJ-3GEY0R00V "
+			(at 185.42 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1840,7 +1966,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0R"
 			(at 185.42 87.63 90)
 			(effects
 				(font
@@ -1866,7 +1992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 0 OHM JUMPER 1/10W 0603"
 			(at 185.42 83.82 0)
 			(effects
 				(font
@@ -1877,6 +2003,24 @@
 		)
 		(property "Vendor" "digikey:P0.0GCT-ND"
 			(at 269.24 -101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 185.42 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "ERJ-3GEY0R00V "
+			(at 185.42 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1973,7 +2117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 25PF 50V C0G/NP0 0603"
 			(at 207.01 78.74 0)
 			(effects
 				(font
@@ -1984,6 +2128,24 @@
 		)
 		(property "Vendor" "digikey:1276-2244-1-ND"
 			(at 0 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 207.01 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL10C250JB8NNNC "
+			(at 207.01 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2080,7 +2242,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 179.07 97.79 0)
 			(effects
 				(font
@@ -2091,6 +2253,24 @@
 		)
 		(property "Vendor" "digikey:445-2664-1-ND"
 			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 179.07 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C1608C0G1E103J080AA"
+			(at 179.07 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2253,7 +2433,7 @@
 				)
 			)
 		)
-		(property "Value" "4.99"
+		(property "Value" "4.99R"
 			(at 227.33 77.47 90)
 			(effects
 				(font
@@ -2279,7 +2459,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 4.99 OHM 1% 1/10W 0603"
 			(at 227.33 73.66 0)
 			(effects
 				(font
@@ -2290,6 +2470,24 @@
 		)
 		(property "Vendor" "digikey:311-4.99HRCT-ND"
 			(at 300.99 -153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 227.33 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-074R99L "
+			(at 227.33 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2358,7 +2556,7 @@
 				)
 			)
 		)
-		(property "Value" "200"
+		(property "Value" "200R"
 			(at 204.47 95.25 90)
 			(effects
 				(font
@@ -2384,7 +2582,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 200 OHM 0.5% 1/16W 0603"
 			(at 204.47 91.44 0)
 			(effects
 				(font
@@ -2395,6 +2593,24 @@
 		)
 		(property "Vendor" "digikey:RR08P200DCT-ND"
 			(at 295.91 -113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Susumu "
+			(at 204.47 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RR0816P-201-D "
+			(at 204.47 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)

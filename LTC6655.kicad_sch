@@ -1180,7 +1180,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Al-Poly"
+		(property "Description" "CAP ALUM POLY 22UF 20% 12.5V SMD"
 			(at 168.91 92.71 0)
 			(effects
 				(font
@@ -1191,6 +1191,24 @@
 		)
 		(property "Vendor" "digikey:PCE3168CT-ND"
 			(at 0 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 168.91 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "EEF-CD1B220R "
+			(at 168.91 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1323,7 +1341,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ferrite bead"
+		(property "Description" "FERRITE BEAD 600 OHM 0805 1LN"
 			(at 64.77 81.28 0)
 			(effects
 				(font
@@ -1334,6 +1352,24 @@
 		)
 		(property "Vendor" "digikey:732-1620-1-ND"
 			(at -16.51 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Würth"
+			(at 64.77 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "742792040"
+			(at 64.77 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1402,7 +1438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC VREF SERIES 0.05% 8CLCC"
 			(at 109.22 83.82 0)
 			(effects
 				(font
@@ -1413,6 +1449,24 @@
 		)
 		(property "Vendor" "digikey:LTC6655CHLS8-2.5#PBF-ND"
 			(at 0 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Analog Devices"
+			(at 109.22 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "LTC6655CHLS8-2.5#PBF "
+			(at 109.22 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1565,7 +1619,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 1UF 25V X5R 0603"
 			(at 77.47 88.9 0)
 			(effects
 				(font
@@ -1576,6 +1630,24 @@
 		)
 		(property "Vendor" "digikey:490-3897-1-ND"
 			(at 154.94 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 77.47 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM188R61E105KA12D"
+			(at 77.47 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1644,7 +1716,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 47UF 10V X5R 1206"
 			(at 90.17 88.9 0)
 			(effects
 				(font
@@ -1655,6 +1727,24 @@
 		)
 		(property "Vendor" "digikey:490-5528-1-ND"
 			(at 180.34 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 90.17 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM31CR61A476ME15L "
+			(at 90.17 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)

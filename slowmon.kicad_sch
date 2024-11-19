@@ -3260,7 +3260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "LED GREEN CLEAR CHIP SMD"
 			(at 163.83 64.77 0)
 			(effects
 				(font
@@ -3271,6 +3271,24 @@
 		)
 		(property "Vendor" "digikey:754-1116-1-ND"
 			(at 228.6 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kingbright "
+			(at 163.83 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "APT1608CGCK "
+			(at 163.83 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3338,7 +3356,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN HEADER SMD 20POS 1.27MM"
 			(at 205.74 92.71 0)
 			(effects
 				(font
@@ -3349,6 +3367,24 @@
 		)
 		(property "Vendor" "digikey:609-3698-1-ND"
 			(at 0 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Amphenol"
+			(at 205.74 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "20021121-00020C4LF "
+			(at 205.74 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3471,7 +3507,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 22K OHM 1% 1/10W 0603"
 			(at 184.15 57.15 0)
 			(effects
 				(font
@@ -3482,6 +3518,24 @@
 		)
 		(property "Vendor" "digikey:311-22.0KHRCT-ND"
 			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 184.15 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-0722KL "
+			(at 184.15 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3550,7 +3604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 22K OHM 1% 1/10W 0603"
 			(at 176.53 67.31 0)
 			(effects
 				(font
@@ -3561,6 +3615,24 @@
 		)
 		(property "Vendor" "digikey:311-22.0KHRCT-ND"
 			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 176.53 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-0722KL "
+			(at 176.53 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3696,7 +3768,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 4.75K OHM 1% 1/10W 0603"
 			(at 53.34 35.56 0)
 			(effects
 				(font
@@ -3707,6 +3779,24 @@
 		)
 		(property "Vendor" "digikey:311-4.75KHRCT-ND"
 			(at 106.68 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 53.34 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-074K75L "
+			(at 53.34 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3776,7 +3866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 22K OHM 1% 1/10W 0603"
 			(at 53.34 88.9 0)
 			(effects
 				(font
@@ -3787,6 +3877,24 @@
 		)
 		(property "Vendor" "digikey:311-22.0KHRCT-ND"
 			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 53.34 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-0722KL "
+			(at 53.34 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3855,7 +3963,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 22K OHM 1% 1/10W 0603"
 			(at 180.34 62.23 0)
 			(effects
 				(font
@@ -3866,6 +3974,24 @@
 		)
 		(property "Vendor" "digikey:311-22.0KHRCT-ND"
 			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 180.34 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-0722KL "
+			(at 180.34 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3934,7 +4060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 150PF 50V C0G/NP0 0603"
 			(at 74.93 116.84 0)
 			(effects
 				(font
@@ -3945,6 +4071,24 @@
 		)
 		(property "Vendor" "digikey:1276-1280-1-ND"
 			(at 0 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 74.93 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL10C151JB8NNNC "
+			(at 74.93 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4013,7 +4157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 150PF 50V C0G/NP0 0603"
 			(at 86.36 116.84 0)
 			(effects
 				(font
@@ -4024,6 +4168,24 @@
 		)
 		(property "Vendor" "digikey:1276-1280-1-ND"
 			(at 0 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 86.36 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL10C151JB8NNNC "
+			(at 86.36 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4092,7 +4254,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 150PF 50V C0G/NP0 0603"
 			(at 92.71 111.76 0)
 			(effects
 				(font
@@ -4103,6 +4265,24 @@
 		)
 		(property "Vendor" "digikey:1276-1280-1-ND"
 			(at 0 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 92.71 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL10C151JB8NNNC "
+			(at 92.71 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4305,7 +4485,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 220PF 50V C0G/NP0 0402"
 			(at 53.34 52.07 0)
 			(effects
 				(font
@@ -4316,6 +4496,24 @@
 		)
 		(property "Vendor" "digikey:490-1293-1-ND"
 			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 53.34 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM1555C1H221JA01D"
+			(at 53.34 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4516,7 +4714,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 150PF 50V C0G/NP0 0603"
 			(at 80.01 110.49 0)
 			(effects
 				(font
@@ -4527,6 +4725,24 @@
 		)
 		(property "Vendor" "digikey:1276-1280-1-ND"
 			(at 0 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 80.01 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL10C151JB8NNNC "
+			(at 80.01 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4635,7 +4851,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "150R"
 			(at 166.37 73.6599 0)
 			(effects
 				(font
@@ -4662,7 +4878,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 150 OHM 1% 1/10W 0603"
 			(at 163.83 72.39 0)
 			(effects
 				(font
@@ -4673,6 +4889,24 @@
 		)
 		(property "Vendor" "digikey:311-150HRCT-ND"
 			(at 0 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 163.83 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-07150RL "
+			(at 163.83 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4741,7 +4975,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 22K OHM 1% 1/10W 0603"
 			(at 189.23 53.34 0)
 			(effects
 				(font
@@ -4752,6 +4986,24 @@
 		)
 		(property "Vendor" "digikey:311-22.0KHRCT-ND"
 			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 189.23 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-0722KL "
+			(at 189.23 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4888,7 +5140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 4.75K OHM 1% 1/10W 0603"
 			(at 53.34 96.52 0)
 			(effects
 				(font
@@ -4899,6 +5151,24 @@
 		)
 		(property "Vendor" "digikey:311-4.75KHRCT-ND"
 			(at 106.68 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 53.34 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-074K75L "
+			(at 53.34 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4967,7 +5237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 22K OHM 1% 1/10W 0603"
 			(at 170.18 69.85 0)
 			(effects
 				(font
@@ -4978,6 +5248,24 @@
 		)
 		(property "Vendor" "digikey:311-22.0KHRCT-ND"
 			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 170.18 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-0722KL "
+			(at 170.18 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5053,6 +5341,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 69.85 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 69.85 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7cf744b8-242c-4d73-8d15-e52642f76f37")
 		)
@@ -5114,7 +5420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 150PF 50V C0G/NP0 0603"
 			(at 100.33 116.84 0)
 			(effects
 				(font
@@ -5125,6 +5431,24 @@
 		)
 		(property "Vendor" "digikey:1276-1280-1-ND"
 			(at 0 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 100.33 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL10C151JB8NNNC "
+			(at 100.33 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5192,7 +5516,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN HEADER SMD 20POS 1.27MM"
 			(at 116.84 92.71 0)
 			(effects
 				(font
@@ -5203,6 +5527,24 @@
 		)
 		(property "Vendor" "digikey:609-3698-1-ND"
 			(at 0 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Amphenol"
+			(at 116.84 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "20021121-00020C4LF "
+			(at 116.84 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5326,7 +5668,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 4.75K OHM 1% 1/10W 0603"
 			(at 53.34 27.94 0)
 			(effects
 				(font
@@ -5337,6 +5679,24 @@
 		)
 		(property "Vendor" "digikey:311-4.75KHRCT-ND"
 			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 53.34 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-074K75L "
+			(at 53.34 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -1830,7 +1830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC ADC 24BIT SIGMA-DELTA 24TSSOP"
 			(at 147.32 77.47 0)
 			(effects
 				(font
@@ -1841,6 +1841,24 @@
 		)
 		(property "Vendor" "digikey:AD7794BRUZ-ND"
 			(at 0 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Analog Devices"
+			(at 147.32 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "AD7794BRUZ "
+			(at 147.32 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2015,7 +2033,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0R"
 			(at 85.09 73.6599 0)
 			(effects
 				(font
@@ -2042,7 +2060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 0 OHM JUMPER 1/10W 0603"
 			(at 82.55 72.39 0)
 			(effects
 				(font
@@ -2053,6 +2071,24 @@
 		)
 		(property "Vendor" "digikey:P0.0GCT-ND"
 			(at 165.1 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 82.55 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "ERJ-3GEY0R00V "
+			(at 82.55 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2227,7 +2263,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0R"
 			(at 88.9 133.3499 0)
 			(effects
 				(font
@@ -2254,7 +2290,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 0 OHM JUMPER 1/10W 0603"
 			(at 86.36 132.08 0)
 			(effects
 				(font
@@ -2265,6 +2301,24 @@
 		)
 		(property "Vendor" "digikey:P0.0GCT-ND"
 			(at 172.72 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 86.36 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "ERJ-3GEY0R00V "
+			(at 86.36 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2333,7 +2387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 1UF 25V X5R 0603"
 			(at 111.76 66.04 0)
 			(effects
 				(font
@@ -2344,6 +2398,24 @@
 		)
 		(property "Vendor" "digikey:490-3897-1-ND"
 			(at 0 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 111.76 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM188R61E105KA12D"
+			(at 111.76 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2502,6 +2574,13 @@
 			)
 			(uuid "06aebbb3-4118-4498-a5b0-ef09c63c17bf")
 		)
+		(instances
+			(project "zest"
+				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-00000000000a"
+					(page "36")
+				)
+			)
+		)
 	)
 	(sheet
 		(at 88.9 80.01)
@@ -2572,6 +2651,13 @@
 				(justify left)
 			)
 			(uuid "489acef8-d249-4d93-b23f-9f134e1b1872")
+		)
+		(instances
+			(project "zest"
+				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-00000000000a"
+					(page "33")
+				)
+			)
 		)
 	)
 	(sheet
@@ -2644,6 +2730,13 @@
 			)
 			(uuid "5da0c146-cc2a-4d2a-9d68-ec73003e7077")
 		)
+		(instances
+			(project "zest"
+				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-00000000000a"
+					(page "34")
+				)
+			)
+		)
 	)
 	(sheet
 		(at 88.9 100.33)
@@ -2714,6 +2807,13 @@
 				(justify left)
 			)
 			(uuid "045c0d54-ffe4-4276-81f2-63ae0050f139")
+		)
+		(instances
+			(project "zest"
+				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-00000000000a"
+					(page "35")
+				)
+			)
 		)
 	)
 )

@@ -5292,7 +5292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC TRANSLATION TXRX 3.6V 16TSSOP"
 			(at 237.49 110.49 0)
 			(effects
 				(font
@@ -5303,6 +5303,24 @@
 		)
 		(property "Vendor" "digikey:296-18056-1-ND"
 			(at 0 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments "
+			(at 237.49 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "SN74AVC4T245PWR "
+			(at 237.49 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5477,7 +5495,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 4.75K OHM 1% 1/10W 0603"
 			(at 234.95 170.18 0)
 			(effects
 				(font
@@ -5488,6 +5506,24 @@
 		)
 		(property "Vendor" "digikey:311-4.75KHRCT-ND"
 			(at 64.77 -64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 234.95 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-074K75L "
+			(at 234.95 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5622,7 +5658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 10V X5R 0402"
 			(at 124.46 40.64 0)
 			(effects
 				(font
@@ -5633,6 +5669,24 @@
 		)
 		(property "Vendor" "digikey:490-1318-1-ND"
 			(at 0 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 124.46 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R61A104KA01D"
+			(at 124.46 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5897,7 +5951,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 4.75K OHM 1% 1/10W 0603"
 			(at 60.96 132.08 0)
 			(effects
 				(font
@@ -5908,6 +5962,24 @@
 		)
 		(property "Vendor" "digikey:311-4.75KHRCT-ND"
 			(at 193.04 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 60.96 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-074K75L "
+			(at 60.96 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6051,6 +6123,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 170.18 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 170.18 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6a9131d0-0367-449a-a085-d1d7ac9c7f0f")
 		)
@@ -6110,6 +6200,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 313.69 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 313.69 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
 			(at 313.69 182.88 0)
 			(effects
 				(font
@@ -6185,6 +6293,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 161.29 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 161.29 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "77c08b9e-db83-4a40-b20d-ee6ae89be1d7")
 		)
@@ -6244,6 +6370,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 179.07 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 179.07 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
 			(at 179.07 66.04 0)
 			(effects
 				(font
@@ -6442,7 +6586,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 10V X5R 0402"
 			(at 52.07 114.3 0)
 			(effects
 				(font
@@ -6453,6 +6597,24 @@
 		)
 		(property "Vendor" "digikey:490-1318-1-ND"
 			(at 104.14 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 52.07 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R61A104KA01D"
+			(at 52.07 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6521,7 +6683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 10V X5R 0402"
 			(at 49.53 40.64 0)
 			(effects
 				(font
@@ -6532,6 +6694,24 @@
 		)
 		(property "Vendor" "digikey:490-1318-1-ND"
 			(at 99.06 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 49.53 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R61A104KA01D"
+			(at 49.53 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6600,7 +6780,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 10V X5R 0402"
 			(at 127 114.3 0)
 			(effects
 				(font
@@ -6611,6 +6791,24 @@
 		)
 		(property "Vendor" "digikey:490-1318-1-ND"
 			(at 0 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 127 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R61A104KA01D"
+			(at 127 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6688,6 +6886,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 308.61 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 308.61 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c4d26135-d71a-4791-b841-ec02ca7c2e9f")
 		)
@@ -6746,7 +6962,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 10V X5R 0402"
 			(at 224.79 95.25 0)
 			(effects
 				(font
@@ -6757,6 +6973,24 @@
 		)
 		(property "Vendor" "digikey:490-1318-1-ND"
 			(at 0 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 224.79 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R61A104KA01D"
+			(at 224.79 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6823,7 +7057,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 4.75K OHM 1% 1/10W 0603"
 			(at 234.95 172.72 0)
 			(effects
 				(font
@@ -6834,6 +7068,24 @@
 		)
 		(property "Vendor" "digikey:311-4.75KHRCT-ND"
 			(at 62.23 -62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 234.95 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-074K75L "
+			(at 234.95 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6968,7 +7220,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 10V X5R 0402"
 			(at 300.99 152.4 0)
 			(effects
 				(font
@@ -6979,6 +7231,24 @@
 		)
 		(property "Vendor" "digikey:490-1318-1-ND"
 			(at 601.98 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 300.99 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R61A104KA01D"
+			(at 300.99 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7112,7 +7382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 10V X5R 0402"
 			(at 226.06 152.4 0)
 			(effects
 				(font
@@ -7123,6 +7393,24 @@
 		)
 		(property "Vendor" "digikey:490-1318-1-ND"
 			(at 0 304.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 226.06 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R61A104KA01D"
+			(at 226.06 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7321,7 +7609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 4.75K OHM 1% 1/10W 0603"
 			(at 58.42 58.42 0)
 			(effects
 				(font
@@ -7332,6 +7620,24 @@
 		)
 		(property "Vendor" "digikey:311-4.75KHRCT-ND"
 			(at 116.84 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 58.42 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-074K75L "
+			(at 58.42 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7409,6 +7715,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 147.32 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 147.32 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d112ddce-3465-4384-849d-d9a91e481a0c")
 		)
@@ -7467,7 +7791,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC TRANSLATION TXRX 5.5V 24TSSOP"
 			(at 62.23 55.88 0)
 			(effects
 				(font
@@ -7478,6 +7802,24 @@
 		)
 		(property "Vendor" "digikey:296-18593-1-ND"
 			(at 0 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments "
+			(at 62.23 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "SN74LVC8T245PWR "
+			(at 62.23 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7621,6 +7963,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 156.21 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 156.21 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "80f428e3-e866-4a5b-a52f-abfe50945b5e")
 		)
@@ -7744,7 +8104,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 4.75K OHM 1% 1/10W 0603"
 			(at 233.68 115.57 0)
 			(effects
 				(font
@@ -7755,6 +8115,24 @@
 		)
 		(property "Vendor" "digikey:311-4.75KHRCT-ND"
 			(at 118.11 -118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 233.68 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-074K75L "
+			(at 233.68 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7823,7 +8201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 10V X5R 0402"
 			(at 54.61 195.58 0)
 			(effects
 				(font
@@ -7834,6 +8212,24 @@
 		)
 		(property "Vendor" "digikey:490-1318-1-ND"
 			(at 109.22 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 54.61 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R61A104KA01D"
+			(at 54.61 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7911,6 +8307,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 147.32 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 147.32 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0087fcb9-d356-4453-a96d-8c032498d6c7")
 		)
@@ -7978,6 +8392,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 173.99 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 173.99 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eb891738-f3fd-4b71-8bae-147bd4c4825e")
 		)
@@ -8036,7 +8468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 10V X5R 0402"
 			(at 299.72 95.25 0)
 			(effects
 				(font
@@ -8047,6 +8479,24 @@
 		)
 		(property "Vendor" "digikey:490-1318-1-ND"
 			(at 599.44 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 299.72 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R61A104KA01D"
+			(at 299.72 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8179,7 +8629,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 4.75K OHM 1% 1/10W 0603"
 			(at 63.5 213.36 0)
 			(effects
 				(font
@@ -8190,6 +8640,24 @@
 		)
 		(property "Vendor" "digikey:311-4.75KHRCT-ND"
 			(at 276.86 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 63.5 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-074K75L "
+			(at 63.5 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8259,6 +8727,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 341.63 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 341.63 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
 			(at 341.63 175.26 0)
 			(effects
 				(font
@@ -8391,6 +8877,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 168.91 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 168.91 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
 			(at 168.91 137.16 0)
 			(effects
 				(font
@@ -8532,6 +9036,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 332.74 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 332.74 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2c30b643-c39a-41f3-801b-ea33eb13be7a")
 		)
@@ -8590,7 +9112,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC TRANSLATION TXRX 3.6V 16TSSOP"
 			(at 238.76 167.64 0)
 			(effects
 				(font
@@ -8601,6 +9123,24 @@
 		)
 		(property "Vendor" "digikey:296-18056-1-ND"
 			(at 0 335.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments "
+			(at 238.76 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "SN74AVC4T245PWR "
+			(at 238.76 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8776,7 +9316,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC TRANSLATION TXRX 5.5V 24TSSOP"
 			(at 67.31 210.82 0)
 			(effects
 				(font
@@ -8787,6 +9327,24 @@
 		)
 		(property "Vendor" "digikey:296-18593-1-ND"
 			(at 0 421.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments "
+			(at 67.31 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "SN74LVC8T245PWR "
+			(at 67.31 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8922,6 +9480,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 323.85 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 323.85 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
 			(at 323.85 180.34 0)
 			(effects
 				(font
@@ -9128,6 +9704,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 162.56 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 162.56 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d2c9f307-aee4-425f-aa1a-441cad7b3658")
 		)
@@ -9186,7 +9780,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC TRANSLATION TXRX 5.5V 24TSSOP"
 			(at 64.77 129.54 0)
 			(effects
 				(font
@@ -9197,6 +9791,24 @@
 		)
 		(property "Vendor" "digikey:296-18593-1-ND"
 			(at 0 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments "
+			(at 64.77 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "SN74LVC8T245PWR "
+			(at 64.77 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9339,6 +9951,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 153.67 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 153.67 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3c5befac-d9bf-42d7-a4f6-1efcbe667060")
 		)
@@ -9398,6 +10028,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 153.67 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 153.67 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
 			(at 153.67 220.98 0)
 			(effects
 				(font
@@ -9596,7 +10244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 10V X5R 0402"
 			(at 129.54 195.58 0)
 			(effects
 				(font
@@ -9607,6 +10255,24 @@
 		)
 		(property "Vendor" "digikey:490-1318-1-ND"
 			(at 0 391.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 129.54 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R61A104KA01D"
+			(at 129.54 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -1142,7 +1142,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ferrite bead"
+		(property "Description" "FERRITE BEAD 600 OHM 0805 1LN"
 			(at 104.14 74.93 0)
 			(effects
 				(font
@@ -1153,6 +1153,24 @@
 		)
 		(property "Vendor" "digikey:732-1620-1-ND"
 			(at 179.07 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Würth"
+			(at 104.14 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "742792040"
+			(at 104.14 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1220,7 +1238,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC REG LINEAR 1.8V 500MA 12DFN"
 			(at 153.67 87.63 0)
 			(effects
 				(font
@@ -1231,6 +1249,24 @@
 		)
 		(property "Vendor" "digikey:LT1763IDE-1.8#PBF-ND"
 			(at 0 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Analog Devices"
+			(at 153.67 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "LT1763IDE-1.8#PBF "
+			(at 153.67 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1332,7 +1368,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 47UF 10V X5R 1206"
 			(at 111.76 82.55 0)
 			(effects
 				(font
@@ -1343,6 +1379,24 @@
 		)
 		(property "Vendor" "digikey:490-5528-1-ND"
 			(at 223.52 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 111.76 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM31CR61A476ME15L "
+			(at 111.76 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1543,7 +1597,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10UF 10V X5R 0603"
 			(at 180.34 82.55 0)
 			(effects
 				(font
@@ -1554,6 +1608,24 @@
 		)
 		(property "Vendor" "digikey:445-6853-1-ND"
 			(at 0 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 180.34 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C1608X5R1A106M080AC"
+			(at 180.34 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1688,7 +1760,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 1UF 25V X5R 0603"
 			(at 116.84 91.44 0)
 			(effects
 				(font
@@ -1699,6 +1771,24 @@
 		)
 		(property "Vendor" "digikey:490-3897-1-ND"
 			(at 233.68 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 116.84 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM188R61E105KA12D"
+			(at 116.84 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1765,7 +1855,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 129.54 82.55 0)
 			(effects
 				(font
@@ -1776,6 +1866,24 @@
 		)
 		(property "Vendor" "digikey:445-2664-1-ND"
 			(at 212.09 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 129.54 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C1608C0G1E103J080AA"
+			(at 129.54 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)

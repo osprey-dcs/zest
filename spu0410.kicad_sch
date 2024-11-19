@@ -1211,7 +1211,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0R"
 			(at 215.9 67.31 90)
 			(effects
 				(font
@@ -1237,7 +1237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 0 OHM JUMPER 1/10W 0603"
 			(at 215.9 71.12 0)
 			(effects
 				(font
@@ -1248,6 +1248,24 @@
 		)
 		(property "Vendor" "digikey:P0.0GCT-ND"
 			(at 144.78 -144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 215.9 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "ERJ-3GEY0R00V "
+			(at 215.9 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1314,7 +1332,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 220K OHM 1% 1/10W 0603"
 			(at 176.53 54.61 0)
 			(effects
 				(font
@@ -1325,6 +1343,24 @@
 		)
 		(property "Vendor" "digikey:311-220KHRCT-ND"
 			(at 121.92 -121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 176.53 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-07220KL "
+			(at 176.53 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1391,7 +1427,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 1UF 25V X5R 0603"
 			(at 209.55 97.79 0)
 			(effects
 				(font
@@ -1402,6 +1438,24 @@
 		)
 		(property "Vendor" "digikey:490-3897-1-ND"
 			(at 307.34 -111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 209.55 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM188R61E105KA12D"
+			(at 209.55 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1600,7 +1654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 4.75K OHM 1% 1/10W 0603"
 			(at 195.58 90.17 0)
 			(effects
 				(font
@@ -1611,6 +1665,24 @@
 		)
 		(property "Vendor" "digikey:311-4.75KHRCT-ND"
 			(at 285.75 285.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 195.58 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-074K75L "
+			(at 195.58 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1677,7 +1749,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 1UF 25V X5R 0603"
 			(at 118.11 76.2 0)
 			(effects
 				(font
@@ -1688,6 +1760,24 @@
 		)
 		(property "Vendor" "digikey:490-3897-1-ND"
 			(at 41.91 -41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 118.11 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM188R61E105KA12D"
+			(at 118.11 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1765,6 +1855,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 207.01 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 207.01 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d286399b-e89d-42ef-afd4-966890a981d2")
 		)
@@ -1821,7 +1929,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 4.75K OHM 1% 1/10W 0603"
 			(at 125.73 76.2 0)
 			(effects
 				(font
@@ -1832,6 +1940,24 @@
 		)
 		(property "Vendor" "digikey:311-4.75KHRCT-ND"
 			(at 49.53 -49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 125.73 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-074K75L "
+			(at 125.73 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1966,7 +2092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC OPAMP GP 1 CIRCUIT TSOT23-6"
 			(at 204.47 71.12 0)
 			(effects
 				(font
@@ -1977,6 +2103,24 @@
 		)
 		(property "Vendor" "digikey:LT6233CS6#TRMPBFCT-ND"
 			(at 408.94 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Analog Devices"
+			(at 204.47 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "LT6233CS6#TRMPBF "
+			(at 204.47 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2057,7 +2201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "MIC MEMS ANALOG OMNI -42DB"
 			(at 73.66 76.2 0)
 			(effects
 				(font
@@ -2068,6 +2212,24 @@
 		)
 		(property "Vendor" "digikey:423-1138-1-ND"
 			(at 0 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Knowles "
+			(at 73.66 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "SPU0410HR5H-PB "
+			(at 73.66 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2140,7 +2302,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 4.75K OHM 1% 1/10W 0603"
 			(at 209.55 90.17 0)
 			(effects
 				(font
@@ -2151,6 +2313,24 @@
 		)
 		(property "Vendor" "digikey:311-4.75KHRCT-ND"
 			(at 299.72 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 209.55 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-074K75L "
+			(at 209.55 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)

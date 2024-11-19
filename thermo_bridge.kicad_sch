@@ -323,7 +323,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 10K OHM 0.5% 1/10W 0603"
 			(at 90.17 93.98 0)
 			(effects
 				(font
@@ -334,6 +334,24 @@
 		)
 		(property "Vendor" "digikey:MCT0603-10K-MDCT-ND"
 			(at 184.15 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay"
+			(at 90.17 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "MCT0603MD1002DP500 "
+			(at 90.17 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -411,7 +429,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "THERMISTOR NTC 10KOHM 3380K 0603"
 			(at 90.17 87.63 0)
 			(effects
 				(font
@@ -422,6 +440,24 @@
 		)
 		(property "Vendor" "digikey:490-4800-1-ND"
 			(at 177.8 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 90.17 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "NCP18XH103F03RB "
+			(at 90.17 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -500,7 +536,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 10K OHM 0.5% 1/10W 0603"
 			(at 97.79 87.63 0)
 			(effects
 				(font
@@ -511,6 +547,24 @@
 		)
 		(property "Vendor" "digikey:MCT0603-10K-MDCT-ND"
 			(at 185.42 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay"
+			(at 97.79 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "MCT0603MD1002DP500 "
+			(at 97.79 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -589,7 +643,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "THERMISTOR NTC 10KOHM 3380K 0603"
 			(at 97.79 93.98 0)
 			(effects
 				(font
@@ -600,6 +654,24 @@
 		)
 		(property "Vendor" "digikey:490-4800-1-ND"
 			(at 191.77 -3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 97.79 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "NCP18XH103F03RB "
+			(at 97.79 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)

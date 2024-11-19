@@ -1106,7 +1106,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 191.77 83.82 0)
 			(effects
 				(font
@@ -1117,6 +1117,24 @@
 		)
 		(property "Vendor" "digikey:445-2664-1-ND"
 			(at 383.54 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 191.77 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C1608C0G1E103J080AA"
+			(at 191.77 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1185,7 +1203,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 177.8 83.82 0)
 			(effects
 				(font
@@ -1196,6 +1214,24 @@
 		)
 		(property "Vendor" "digikey:445-2664-1-ND"
 			(at 355.6 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 177.8 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C1608C0G1E103J080AA"
+			(at 177.8 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1462,7 +1498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 100.33 66.04 0)
 			(effects
 				(font
@@ -1473,6 +1509,24 @@
 		)
 		(property "Vendor" "digikey:445-2664-1-ND"
 			(at 200.66 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 100.33 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C1608C0G1E103J080AA"
+			(at 100.33 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1513,7 +1567,7 @@
 				)
 			)
 		)
-		(property "Value" "221"
+		(property "Value" "221R"
 			(at 184.15 74.93 90)
 			(effects
 				(font
@@ -1539,7 +1593,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 221 OHM 1% 1/10W 0603"
 			(at 184.15 78.74 0)
 			(effects
 				(font
@@ -1550,6 +1604,24 @@
 		)
 		(property "Vendor" "digikey:311-221HRCT-ND"
 			(at 262.89 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO "
+			(at 184.15 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0603FR-07221RL "
+			(at 184.15 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1682,7 +1754,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ferrite bead"
+		(property "Description" "FERRITE BEAD 120 OHM 0603 1LN"
 			(at 96.52 62.23 0)
 			(effects
 				(font
@@ -1693,6 +1765,24 @@
 		)
 		(property "Vendor" "digikey:490-1011-1-ND"
 			(at 34.29 -34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 96.52 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "BLM18AG121SN1D "
+			(at 96.52 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1761,7 +1851,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC RF DETECT 50MHZ-6GHZ SC70-6"
 			(at 120.65 78.74 0)
 			(effects
 				(font
@@ -1772,6 +1862,24 @@
 		)
 		(property "Vendor" "digikey:ADL5501AKSZ-R7CT-ND"
 			(at 0 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Analog Devices"
+			(at 120.65 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "ADL5501AKSZ-R7 "
+			(at 120.65 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1850,7 +1958,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 116.84 81.28 0)
 			(effects
 				(font
@@ -1861,6 +1969,24 @@
 		)
 		(property "Vendor" "digikey:445-2664-1-ND"
 			(at 35.56 -35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 116.84 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C1608C0G1E103J080AA"
+			(at 116.84 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
