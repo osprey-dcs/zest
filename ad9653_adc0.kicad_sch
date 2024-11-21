@@ -4213,17 +4213,6 @@
 		)
 		(uuid "8f6d867b-7d02-443e-9099-8e34d8fee9da")
 	)
-	(label "{ADC0}"
-		(at 290.83 143.51 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "93cea09a-d322-42b9-a688-19d450131a70")
-	)
 	(label "ADC0_D1C_P"
 		(at 270.51 153.67 0)
 		(fields_autoplaced yes)
@@ -4368,7 +4357,7 @@
 		)
 		(uuid "07eead5f-8717-49c0-9e0e-e91b13f9646d")
 	)
-	(hierarchical_label "{ADC}"
+	(hierarchical_label "{ADC0}"
 		(shape output)
 		(at 298.45 140.97 0)
 		(fields_autoplaced yes)

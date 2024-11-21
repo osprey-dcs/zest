@@ -2211,7 +2211,7 @@
 				(justify left top)
 			)
 		)
-		(pin "{ADC}" output
+		(pin "{ADC0}" output
 			(at 81.28 74.93 0)
 			(effects
 				(font
@@ -2309,7 +2309,7 @@
 				(justify left top)
 			)
 		)
-		(pin "{ADC}" input
+		(pin "{ADC1}" input
 			(at 81.28 109.22 0)
 			(effects
 				(font

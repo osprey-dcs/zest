@@ -6369,7 +6369,7 @@
 				)
 			)
 		)
-		(property "Value" "APT1608CGCK"
+		(property "Value" "Green LED"
 			(at 80.01 58.42 0)
 			(effects
 				(font
@@ -6785,7 +6785,7 @@
 				)
 			)
 		)
-		(property "Value" "APT1608CGCK"
+		(property "Value" "Green LED"
 			(at 104.14 58.42 0)
 			(effects
 				(font

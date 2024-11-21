@@ -1144,6 +1144,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 96.52) (xy 205.74 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "176cab70-ad74-488c-aab4-f27075a74ecb")
+	)
+	(wire
+		(pts
 			(xy 148.59 105.41) (xy 148.59 106.68)
 		)
 		(stroke
@@ -1364,7 +1374,17 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 114.3) (xy 205.74 114.3)
+			(xy 209.55 106.68) (xy 205.74 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a40e8698-b4c3-4259-9a88-3f48c623f88b")
+	)
+	(wire
+		(pts
+			(xy 177.8 114.3) (xy 209.55 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1476,7 +1496,7 @@
 	)
 	(hierarchical_label "DIFF-"
 		(shape input)
-		(at 205.74 96.52 0)
+		(at 209.55 96.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1500,7 +1520,7 @@
 	)
 	(hierarchical_label "CM"
 		(shape input)
-		(at 205.74 114.3 0)
+		(at 209.55 114.3 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1512,7 +1532,7 @@
 	)
 	(hierarchical_label "DIFF+"
 		(shape input)
-		(at 205.74 106.68 0)
+		(at 209.55 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font

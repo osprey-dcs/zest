@@ -4114,17 +4114,6 @@
 		)
 		(uuid "2d1653eb-10e6-446b-8d29-7b1d7830c52b")
 	)
-	(label "{ADC1}"
-		(at 285.75 151.13 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "347c1f14-948e-41e9-badf-97e83f3f9f49")
-	)
 	(label "ADC1_FCO_P"
 		(at 262.89 180.34 0)
 		(fields_autoplaced yes)
@@ -4404,7 +4393,7 @@
 		)
 		(uuid "cb9f043c-eea3-4599-847c-316b1c1fe1ad")
 	)
-	(hierarchical_label "{ADC}"
+	(hierarchical_label "{ADC1}"
 		(shape output)
 		(at 293.37 148.59 0)
 		(fields_autoplaced yes)
