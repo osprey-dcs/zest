@@ -9110,7 +9110,7 @@
 				)
 			)
 			(circle
-				(center 1.27 -3.81)
+				(center 2.54 -4.318)
 				(radius 0.635)
 				(stroke
 					(width 0)
@@ -9217,7 +9217,7 @@
 				)
 			)
 			(circle
-				(center 8.89 -3.81)
+				(center 7.62 -4.318)
 				(radius 0.635)
 				(stroke
 					(width 0)
@@ -9294,24 +9294,6 @@
 					)
 				)
 				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at 2.54 -7.62 0)
-				(length 2.54) hide
-				(name "~"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "5"
 					(effects
 						(font
 							(size 1.27 1.27)

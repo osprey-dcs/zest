@@ -178,7 +178,10 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.127,
+        0.1778,
+        0.3048
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -210,6 +213,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.508,
+          "drill": 0.254
         }
       ],
       "zones_allow_external_fillets": false
@@ -483,7 +490,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Documentation/PCB prints/",
       "pos_files": "fab",
       "specctra_dsn": "",
       "step": "",
@@ -605,7 +612,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "zest",
+    "plot_directory": "Documentation/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
