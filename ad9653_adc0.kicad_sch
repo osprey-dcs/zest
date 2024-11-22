@@ -1639,7 +1639,7 @@
 		)
 	)
 	(junction
-		(at 119.38 106.68)
+		(at 106.68 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0e8aec0e-8ca9-45d0-9640-4d4fc8a582ff")
@@ -1741,7 +1741,7 @@
 		(uuid "8ff71ae8-dd3b-4f70-b9e5-de75e75c65a2")
 	)
 	(junction
-		(at 118.11 85.09)
+		(at 105.41 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "953d2e93-b704-4d3b-a463-839cb0993795")
@@ -1777,7 +1777,7 @@
 		(uuid "b9067473-d089-4f4e-be9e-5ea29704013e")
 	)
 	(junction
-		(at 119.38 130.81)
+		(at 106.68 130.81)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b9cfde58-599a-4153-a8fe-674f3a9f4196")
@@ -1819,7 +1819,7 @@
 		(uuid "df0d8700-aa20-487d-b2e7-d76a449a4583")
 	)
 	(junction
-		(at 119.38 152.4)
+		(at 106.68 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e1a1dcb1-6cfa-4fe0-97a4-608421b89c47")
@@ -2087,7 +2087,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 132.08) (xy 119.38 130.81)
+			(xy 106.68 132.08) (xy 106.68 130.81)
 		)
 		(stroke
 			(width 0)
@@ -2127,7 +2127,17 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 85.09) (xy 133.35 85.09)
+			(xy 120.65 77.47) (xy 125.73 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01f8cd46-2f77-4523-8db2-be4d6931799a")
+	)
+	(wire
+		(pts
+			(xy 105.41 85.09) (xy 133.35 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2145,16 +2155,6 @@
 		)
 		(uuid "03ac651b-212b-434e-92f1-600fefcce840")
 	)
-	(wire
-		(pts
-			(xy 124.46 123.19) (xy 127 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "07e95c2c-c595-4c5f-be6c-1bef8ace82f0")
-	)
 	(bus
 		(pts
 			(xy 290.83 160.02) (xy 290.83 157.48)
@@ -2167,7 +2167,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 82.55) (xy 118.11 85.09)
+			(xy 105.41 82.55) (xy 105.41 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2214,6 +2214,16 @@
 			(type default)
 		)
 		(uuid "11049b35-f8fa-41f3-bf38-0f914301ab84")
+	)
+	(wire
+		(pts
+			(xy 110.49 77.47) (xy 115.57 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13a8ce9d-d92c-4659-93a9-b247854415e9")
 	)
 	(bus
 		(pts
@@ -2417,6 +2427,16 @@
 	)
 	(wire
 		(pts
+			(xy 111.76 123.19) (xy 116.84 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c33dbcf-0ae2-4426-88eb-4d163126ab47")
+	)
+	(wire
+		(pts
 			(xy 148.59 106.68) (xy 189.23 106.68)
 		)
 		(stroke
@@ -2454,16 +2474,6 @@
 			(type default)
 		)
 		(uuid "3040cee5-67e5-4c3a-9499-c2b93e9263e0")
-	)
-	(wire
-		(pts
-			(xy 123.19 77.47) (xy 125.73 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "30d2b9f5-6b99-42c1-a3f4-c5aa62ea49ec")
 	)
 	(wire
 		(pts
@@ -2507,7 +2517,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 87.63) (xy 118.11 85.09)
+			(xy 105.41 87.63) (xy 105.41 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2647,7 +2657,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 106.68) (xy 133.35 106.68)
+			(xy 106.68 106.68) (xy 133.35 106.68)
 		)
 		(stroke
 			(width 0)
@@ -2687,7 +2697,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 130.81) (xy 134.62 130.81)
+			(xy 106.68 130.81) (xy 134.62 130.81)
 		)
 		(stroke
 			(width 0)
@@ -2815,6 +2825,16 @@
 		)
 		(uuid "5d8f625f-5870-4569-918f-b1cd2f0d374f")
 	)
+	(wire
+		(pts
+			(xy 121.92 123.19) (xy 127 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5dac0100-09eb-4784-ad48-3d933c263fed")
+	)
 	(bus
 		(pts
 			(xy 128.27 185.42) (xy 128.27 181.61)
@@ -2854,16 +2874,6 @@
 			(type default)
 		)
 		(uuid "66fb1be0-f81c-4908-85ab-55d8970cb158")
-	)
-	(wire
-		(pts
-			(xy 124.46 101.6) (xy 127 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67009ad8-e7e4-4cb6-9014-5d9c727c63cf")
 	)
 	(wire
 		(pts
@@ -3047,6 +3057,16 @@
 	)
 	(wire
 		(pts
+			(xy 111.76 101.6) (xy 116.84 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81c5492e-3d81-4009-8e5d-c75f06df6ef8")
+	)
+	(wire
+		(pts
 			(xy 196.85 172.72) (xy 198.12 172.72)
 		)
 		(stroke
@@ -3197,7 +3217,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 152.4) (xy 119.38 152.4)
+			(xy 134.62 152.4) (xy 106.68 152.4)
 		)
 		(stroke
 			(width 0)
@@ -3207,13 +3227,23 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 149.86) (xy 119.38 152.4)
+			(xy 106.68 149.86) (xy 106.68 152.4)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "9ff61872-04bc-4eff-bee4-41b96bbc65bd")
+	)
+	(wire
+		(pts
+			(xy 121.92 144.78) (xy 127 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1aa8463-3968-4489-835a-d45b168c7f7e")
 	)
 	(wire
 		(pts
@@ -3427,6 +3457,16 @@
 	)
 	(wire
 		(pts
+			(xy 121.92 101.6) (xy 127 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6b0d535-1a02-46f0-851a-b82d0a7d26b1")
+	)
+	(wire
+		(pts
 			(xy 149.86 130.81) (xy 171.45 130.81)
 		)
 		(stroke
@@ -3617,7 +3657,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 109.22) (xy 119.38 106.68)
+			(xy 106.68 109.22) (xy 106.68 106.68)
 		)
 		(stroke
 			(width 0)
@@ -3827,23 +3867,13 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 128.27) (xy 119.38 130.81)
+			(xy 106.68 128.27) (xy 106.68 130.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "e76401ed-9800-4665-b961-74df98e4bcbc")
-	)
-	(wire
-		(pts
-			(xy 124.46 144.78) (xy 127 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e86e4e84-cbaf-4327-bbf7-c847ce537d55")
 	)
 	(wire
 		(pts
@@ -3947,7 +3977,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 154.94) (xy 119.38 152.4)
+			(xy 106.68 154.94) (xy 106.68 152.4)
 		)
 		(stroke
 			(width 0)
@@ -3974,6 +4004,16 @@
 			(type default)
 		)
 		(uuid "f70a2c89-a34d-4558-9e9b-ec2e7d375ab1")
+	)
+	(wire
+		(pts
+			(xy 111.76 144.78) (xy 116.84 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8488dbc-a17e-49a4-aa32-1a373fdc1a31")
 	)
 	(wire
 		(pts
@@ -4485,6 +4525,103 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 118.11 77.47 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "04ccadca-d883-424d-8dd2-334047506921")
+		(property "Reference" "C1"
+			(at 116.586 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10nF"
+			(at 116.586 74.422 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 114.3 76.5048 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 118.11 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CAP CER 10nF 25V C0G 0603"
+			(at 118.11 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:445-2664-1-ND"
+			(at 20.32 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 118.11 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C1608C0G1E103J080AA"
+			(at 118.11 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6b3c66d7-4f1f-4723-9b4a-687b016aadf7")
+		)
+		(pin "1"
+			(uuid "de01b072-20b0-4807-aff1-07708354874b")
+		)
+		(instances
+			(project "zest"
+				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000000"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 143.51 205.74 0)
 		(unit 1)
@@ -4551,6 +4688,103 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 119.38 101.6 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "08f57142-1e80-4bce-bb03-dd91fab86da9")
+		(property "Reference" "C2"
+			(at 117.856 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10nF"
+			(at 117.856 98.552 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 115.57 100.6348 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 119.38 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CAP CER 10nF 25V C0G 0603"
+			(at 119.38 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:445-2664-1-ND"
+			(at 21.59 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 119.38 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C1608C0G1E103J080AA"
+			(at 119.38 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "38ab3aab-78a8-41f2-8434-0563a54945b2")
+		)
+		(pin "1"
+			(uuid "2e7fa7e3-47ad-40bc-9dc6-76b644e79d8f")
+		)
+		(instances
+			(project "zest"
+				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000000"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 246.38 115.57 180)
 		(unit 1)
@@ -4611,6 +4845,103 @@
 			(project "zest"
 				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000000"
 					(reference "#PWR0210")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 119.38 144.78 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0ade775a-58b4-40a7-9c6a-8ce4c565ce4b")
+		(property "Reference" "C4"
+			(at 117.856 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10nF"
+			(at 117.856 141.732 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 115.57 143.8148 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 119.38 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CAP CER 10nF 25V C0G 0603"
+			(at 119.38 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:445-2664-1-ND"
+			(at 21.59 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 119.38 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C1608C0G1E103J080AA"
+			(at 119.38 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "98405b6b-425a-4862-a69a-e79baba3521d")
+		)
+		(pin "1"
+			(uuid "ae63b51f-5359-4c62-a0ef-c4c8591c4bf4")
+		)
+		(instances
+			(project "zest"
+				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000000"
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -4779,7 +5110,7 @@
 	)
 	(symbol
 		(lib_id "Zest_Custom:SMA_Coaxial")
-		(at 119.38 144.78 0)
+		(at 106.68 144.78 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4788,7 +5119,7 @@
 		(dnp no)
 		(uuid "2260d552-c2c7-4e42-8e15-61fd55c4de07")
 		(property "Reference" "J204"
-			(at 119.634 139.446 0)
+			(at 106.934 139.446 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4796,7 +5127,7 @@
 			)
 		)
 		(property "Value" "142-0701-201"
-			(at 119.38 141.732 0)
+			(at 106.68 141.732 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4804,7 +5135,7 @@
 			)
 		)
 		(property "Footprint" "CONN_142-0701-201_CIN"
-			(at 119.38 144.78 0)
+			(at 106.68 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4814,7 +5145,7 @@
 			)
 		)
 		(property "Datasheet" "142-0701-201"
-			(at 119.38 144.78 0)
+			(at 106.68 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4824,7 +5155,7 @@
 			)
 		)
 		(property "Description" "CONN SMA JACK STR 50 OHM PCB"
-			(at 119.38 144.78 0)
+			(at 106.68 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4833,7 +5164,7 @@
 			)
 		)
 		(property "Vendor" "digikey:J500-ND"
-			(at 375.92 228.6 0)
+			(at 363.22 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4842,7 +5173,7 @@
 			)
 		)
 		(property "Manufacturer" "Cinch"
-			(at 119.38 144.78 0)
+			(at 106.68 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4851,7 +5182,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "142-0701-201 "
-			(at 119.38 144.78 0)
+			(at 106.68 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4885,7 +5216,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 119.38 109.22 0)
+		(at 106.68 109.22 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4894,7 +5225,7 @@
 		(dnp no)
 		(uuid "246b01ea-bab9-42a6-bc67-a20911dbae65")
 		(property "Reference" "#PWR0202"
-			(at 119.38 115.57 0)
+			(at 106.68 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4903,7 +5234,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 120.142 112.268 0)
+			(at 107.442 112.268 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4912,7 +5243,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 109.22 0)
+			(at 106.68 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4921,7 +5252,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 109.22 0)
+			(at 106.68 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4930,7 +5261,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 119.38 109.22 0)
+			(at 106.68 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5209,7 +5540,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 119.38 154.94 0)
+		(at 106.68 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5217,7 +5548,7 @@
 		(dnp no)
 		(uuid "392ef2d4-5abb-48a9-a79d-ed05d68ac9cf")
 		(property "Reference" "#PWR0213"
-			(at 119.38 161.29 0)
+			(at 106.68 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5226,7 +5557,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 120.396 157.734 0)
+			(at 107.696 157.734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5235,7 +5566,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 154.94 0)
+			(at 106.68 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5244,7 +5575,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 154.94 0)
+			(at 106.68 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5253,7 +5584,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 119.38 154.94 0)
+			(at 106.68 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5438,6 +5769,103 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
+		(at 119.38 123.19 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "42976b85-0c6a-4cb6-a946-a8fdd5d65cb1")
+		(property "Reference" "C3"
+			(at 117.856 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10nF"
+			(at 117.856 120.142 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 115.57 122.2248 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 119.38 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CAP CER 10nF 25V C0G 0603"
+			(at 119.38 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "digikey:445-2664-1-ND"
+			(at 21.59 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 119.38 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C1608C0G1E103J080AA"
+			(at 119.38 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "78962ed2-bf22-4312-b4fc-3095e562fc45")
+		)
+		(pin "1"
+			(uuid "218e88a2-395c-4561-a0ac-94d2d6eb779e")
+		)
+		(instances
+			(project "zest"
+				(path "/00000000-0000-0000-0000-000000000003/00000000-0000-0000-0000-000000000000"
+					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
 		(at 132.08 201.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5534,7 +5962,7 @@
 	)
 	(symbol
 		(lib_id "Zest_Custom:SMA_Coaxial")
-		(at 118.11 77.47 0)
+		(at 105.41 77.47 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5543,7 +5971,7 @@
 		(dnp no)
 		(uuid "466fb95e-d0b7-423f-ae76-351cb2af4f11")
 		(property "Reference" "J203"
-			(at 118.11 70.612 0)
+			(at 105.41 70.612 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -5551,7 +5979,7 @@
 			)
 		)
 		(property "Value" "142-0701-201"
-			(at 118.11 73.152 0)
+			(at 105.41 73.152 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -5559,7 +5987,7 @@
 			)
 		)
 		(property "Footprint" "CONN_142-0701-201_CIN"
-			(at 118.11 77.47 0)
+			(at 105.41 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5569,7 +5997,7 @@
 			)
 		)
 		(property "Datasheet" "142-0701-201"
-			(at 118.11 77.47 0)
+			(at 105.41 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5579,7 +6007,7 @@
 			)
 		)
 		(property "Description" "CONN SMA JACK STR 50 OHM PCB"
-			(at 118.11 77.47 0)
+			(at 105.41 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5588,7 +6016,7 @@
 			)
 		)
 		(property "Vendor" "digikey:J500-ND"
-			(at 163.83 191.77 0)
+			(at 151.13 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5597,7 +6025,7 @@
 			)
 		)
 		(property "Manufacturer" "Cinch"
-			(at 118.11 77.47 0)
+			(at 105.41 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5606,7 +6034,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "142-0701-201 "
-			(at 118.11 77.47 0)
+			(at 105.41 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5834,7 +6262,7 @@
 	)
 	(symbol
 		(lib_id "Zest_Custom:SMA_Coaxial")
-		(at 119.38 101.6 0)
+		(at 106.68 101.6 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5843,7 +6271,7 @@
 		(dnp no)
 		(uuid "67dec8be-47b2-44fd-80be-c675bc6d3aa6")
 		(property "Reference" "J202"
-			(at 119.38 94.996 0)
+			(at 106.68 94.996 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -5851,7 +6279,7 @@
 			)
 		)
 		(property "Value" "142-0701-201"
-			(at 119.38 97.536 0)
+			(at 106.68 97.536 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -5859,7 +6287,7 @@
 			)
 		)
 		(property "Footprint" "CONN_142-0701-201_CIN"
-			(at 119.38 101.6 0)
+			(at 106.68 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5869,7 +6297,7 @@
 			)
 		)
 		(property "Datasheet" "142-0701-201"
-			(at 119.38 101.6 0)
+			(at 106.68 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5879,7 +6307,7 @@
 			)
 		)
 		(property "Description" "CONN SMA JACK STR 50 OHM PCB"
-			(at 119.38 101.6 0)
+			(at 106.68 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5888,7 +6316,7 @@
 			)
 		)
 		(property "Vendor" "digikey:J500-ND"
-			(at 165.1 203.2 0)
+			(at 152.4 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5897,7 +6325,7 @@
 			)
 		)
 		(property "Manufacturer" "Cinch"
-			(at 119.38 101.6 0)
+			(at 106.68 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5906,7 +6334,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "142-0701-201 "
-			(at 119.38 101.6 0)
+			(at 106.68 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6102,7 +6530,7 @@
 	)
 	(symbol
 		(lib_id "Zest_Custom:SMA_Coaxial")
-		(at 119.38 123.19 0)
+		(at 106.68 123.19 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6111,7 +6539,7 @@
 		(dnp no)
 		(uuid "890e4def-0664-4d19-9b35-d5e21d693129")
 		(property "Reference" "J201"
-			(at 119.38 116.84 0)
+			(at 106.68 116.84 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -6119,7 +6547,7 @@
 			)
 		)
 		(property "Value" "142-0701-201"
-			(at 119.38 119.38 0)
+			(at 106.68 119.38 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -6127,7 +6555,7 @@
 			)
 		)
 		(property "Footprint" "CONN_142-0701-201_CIN"
-			(at 119.38 123.19 0)
+			(at 106.68 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6137,7 +6565,7 @@
 			)
 		)
 		(property "Datasheet" "142-0701-201"
-			(at 119.38 123.19 0)
+			(at 106.68 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6147,7 +6575,7 @@
 			)
 		)
 		(property "Description" "CONN SMA JACK STR 50 OHM PCB"
-			(at 119.38 123.19 0)
+			(at 106.68 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6156,7 +6584,7 @@
 			)
 		)
 		(property "Vendor" "digikey:J500-ND"
-			(at 165.1 207.01 0)
+			(at 152.4 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6165,7 +6593,7 @@
 			)
 		)
 		(property "Manufacturer" "Cinch"
-			(at 119.38 123.19 0)
+			(at 106.68 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6174,7 +6602,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "142-0701-201 "
-			(at 119.38 123.19 0)
+			(at 106.68 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6392,7 +6820,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 118.11 87.63 0)
+		(at 105.41 87.63 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6401,7 +6829,7 @@
 		(dnp no)
 		(uuid "94d3617a-2aa1-42a7-864e-463bdce56921")
 		(property "Reference" "#PWR0203"
-			(at 118.11 93.98 0)
+			(at 105.41 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6410,7 +6838,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 118.618 90.678 0)
+			(at 105.918 90.678 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6419,7 +6847,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 118.11 87.63 0)
+			(at 105.41 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6428,7 +6856,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 118.11 87.63 0)
+			(at 105.41 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6437,7 +6865,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 118.11 87.63 0)
+			(at 105.41 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6556,7 +6984,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 119.38 132.08 0)
+		(at 106.68 132.08 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6565,7 +6993,7 @@
 		(dnp no)
 		(uuid "ab238f1a-04fc-454e-a510-3a0bd68a196d")
 		(property "Reference" "#PWR0201"
-			(at 119.38 138.43 0)
+			(at 106.68 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6574,7 +7002,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 120.142 135.128 0)
+			(at 107.442 135.128 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6583,7 +7011,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 132.08 0)
+			(at 106.68 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6592,7 +7020,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 132.08 0)
+			(at 106.68 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6601,7 +7029,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 119.38 132.08 0)
+			(at 106.68 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
