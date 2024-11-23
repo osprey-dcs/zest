@@ -7897,7 +7897,7 @@
 				)
 			)
 		)
-		(property "Value" "142-0701-201"
+		(property "Value" "SMA"
 			(at 228.6 144.78 0)
 			(effects
 				(font
@@ -9971,7 +9971,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "142-0701-201"
+		(property "Value" "SMA"
 			(at 26.67 110.7831 0)
 			(effects
 				(font

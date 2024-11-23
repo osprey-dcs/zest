@@ -59,10 +59,14 @@
         }
       ],
       "drc_exclusions": [
+        "copper_edge_clearance|246781450|86949020|395ae4de-f61e-4894-a6a9-601b8f4ed76e|ed300fae-448b-4a04-8758-7a26ea5db561",
         "courtyards_overlap|248178740|150604531|2a209a0d-9822-463a-9a4d-509bd40024e4|ce7f1529-0324-4142-87a6-ec51dbfbe7e7",
         "courtyards_overlap|248188547|220600197|4b273c7e-af8b-4a02-8fa6-9cee72f39d1d|783ceb1b-96fa-4a6a-8b44-b2fe411a401c",
         "silk_edge_clearance|215931194|45188880|a028daaa-e125-4a08-a0fb-94914c2966a3|69404360-477f-40d4-aba5-81907f3637a8",
         "silk_edge_clearance|231196594|45188880|a028daaa-e125-4a08-a0fb-94914c2966a3|b066d5a8-0bd8-44c1-bbe1-69a2fd3424c8",
+        "silk_over_copper|215654082|53563396|c49314cf-a83b-4c42-9b50-3061b2226bdc|00000000-0000-0000-0000-000000000000",
+        "silk_overlap|210121500|49530000|cab4dd12-1876-4f3c-a037-823b7275c277|594eb112-3a54-46c0-997d-4b35413e30fe",
+        "silk_overlap|210121500|49530000|cab4dd12-1876-4f3c-a037-823b7275c277|b4a77c74-c582-4609-947a-57a133a6e071",
         "track_dangling|234208450|56878980|519fe761-5376-4ac5-8b23-efdeda43a4a0|00000000-0000-0000-0000-000000000000",
         "track_dangling|234335450|47163480|4f0e6032-dd56-45d1-be9d-6354417640f9|00000000-0000-0000-0000-000000000000",
         "track_dangling|234335450|52433980|35fb1671-9d2e-4154-9d74-e41544830ce1|00000000-0000-0000-0000-000000000000",
@@ -84,11 +88,15 @@
         "via_dangling|195981450|177147980|78fc0727-8d58-4c6d-83cb-ea2e7263f8c1|00000000-0000-0000-0000-000000000000",
         "via_dangling|195981450|178163980|47d8f9d8-e306-4025-9424-8f40be0c1d9c|00000000-0000-0000-0000-000000000000",
         "via_dangling|196966915|187062941|79b54dc3-3837-4627-ae3e-cd7c47e1ff7c|00000000-0000-0000-0000-000000000000",
+        "via_dangling|203053318|144271998|a5b86b2a-68bc-4b52-b126-d0bc9e2f3ebe|00000000-0000-0000-0000-000000000000",
         "via_dangling|205760450|190355980|a603372e-a2be-41b4-b3f1-f512e0519e40|00000000-0000-0000-0000-000000000000",
         "via_dangling|227477450|182481980|868e0f03-8610-41f2-bd8a-6376104a54dd|00000000-0000-0000-0000-000000000000",
+        "via_dangling|231501318|56514998|7ff6079d-8812-4766-afa2-0c4a2bb1c536|00000000-0000-0000-0000-000000000000",
         "via_dangling|232938450|104376980|39249ab6-0c26-4a6a-8a85-a38dfa42898b|00000000-0000-0000-0000-000000000000",
         "via_dangling|232938450|105646980|671a4aff-43ac-46be-85f0-eaee158c3bff|00000000-0000-0000-0000-000000000000",
         "via_dangling|240177450|177020980|d5b61e74-3e71-4c6c-b09b-19a137795461|00000000-0000-0000-0000-000000000000",
+        "via_dangling|249916318|178410106|e79bcf68-df00-4102-808a-251a2578719c|00000000-0000-0000-0000-000000000000",
+        "via_dangling|249916318|179680106|ca78a89e-1752-43c8-8179-6767a0e23f0b|00000000-0000-0000-0000-000000000000",
         "via_dangling|255417450|157462980|99c1fa43-476b-4a8b-b5b4-d3c46cdfe9c0|00000000-0000-0000-0000-000000000000",
         "via_dangling|255417450|159240980|334cac5c-7b3d-4481-9cab-dcfe82d1eabd|00000000-0000-0000-0000-000000000000"
       ],
@@ -149,8 +157,8 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.0,
-        "min_connection": 0.0,
+        "min_clearance": 0.127,
+        "min_connection": 0.127,
         "min_copper_edge_clearance": 0.5,
         "min_hole_clearance": 0.2032,
         "min_hole_to_hole": 0.25,
@@ -161,7 +169,7 @@
         "min_text_height": 0.381,
         "min_text_thickness": 0.0508,
         "min_through_hole_diameter": 0.2032,
-        "min_track_width": 0.0,
+        "min_track_width": 0.127,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.0,
@@ -214,7 +222,8 @@
         0.0,
         0.127,
         0.1778,
-        0.3048
+        0.3048,
+        0.9144
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -523,7 +532,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Documentation/PCB prints/",
+      "plot": "Fabrication/",
       "pos_files": "fab",
       "specctra_dsn": "",
       "step": "",
@@ -534,7 +543,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "",
+    "bom_export_filename": "Fabrication\\Bom\\zest.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",

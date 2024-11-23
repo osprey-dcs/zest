@@ -4570,7 +4570,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10nF 25V C0G 0603"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 118.11 77.47 0)
 			(effects
 				(font
@@ -4733,7 +4733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10nF 25V C0G 0603"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 119.38 101.6 0)
 			(effects
 				(font
@@ -4896,7 +4896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10nF 25V C0G 0603"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 119.38 144.78 0)
 			(effects
 				(font
@@ -5126,7 +5126,7 @@
 				)
 			)
 		)
-		(property "Value" "142-0701-201"
+		(property "Value" "SMA"
 			(at 106.68 141.732 0)
 			(effects
 				(font
@@ -5391,7 +5391,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10nF 25V C0G 0603"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 168.91 158.75 0)
 			(effects
 				(font
@@ -5813,7 +5813,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10nF 25V C0G 0603"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 119.38 123.19 0)
 			(effects
 				(font
@@ -5978,7 +5978,7 @@
 				)
 			)
 		)
-		(property "Value" "142-0701-201"
+		(property "Value" "SMA"
 			(at 105.41 73.152 0)
 			(effects
 				(font
@@ -6278,7 +6278,7 @@
 				)
 			)
 		)
-		(property "Value" "142-0701-201"
+		(property "Value" "SMA"
 			(at 106.68 97.536 0)
 			(effects
 				(font
@@ -6546,7 +6546,7 @@
 				)
 			)
 		)
-		(property "Value" "142-0701-201"
+		(property "Value" "SMA"
 			(at 106.68 119.38 0)
 			(effects
 				(font

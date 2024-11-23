@@ -13381,7 +13381,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ASP-134604-01"
 			(at 143.51 134.62 0)
 			(effects
 				(font
@@ -13390,7 +13390,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "newark:79X1317"
+		(property "Vendor" "digikey:612-ASP-134604-01CT-ND"
 			(at -1.27 1.27 0)
 			(effects
 				(font
@@ -13399,7 +13399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samtec"
 			(at 143.51 134.62 0)
 			(effects
 				(font
@@ -13408,7 +13408,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "ASP-134604-01"
 			(at 143.51 134.62 0)
 			(effects
 				(font
@@ -13951,7 +13951,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ASP-134604-01"
 			(at 69.85 36.83 0)
 			(effects
 				(font
@@ -13960,7 +13960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "newark:79X1317"
+		(property "Vendor" "digikey:612-ASP-134604-01CT-ND"
 			(at -1.27 -102.87 0)
 			(effects
 				(font
@@ -13969,7 +13969,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samtec"
 			(at 69.85 36.83 0)
 			(effects
 				(font
@@ -13978,7 +13978,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "ASP-134604-01"
 			(at 69.85 36.83 0)
 			(effects
 				(font
@@ -14587,7 +14587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ASP-134604-01"
 			(at 146.05 30.48 0)
 			(effects
 				(font
@@ -14596,7 +14596,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "newark:79X1317"
+		(property "Vendor" "digikey:612-ASP-134604-01CT-ND"
 			(at 290.83 -102.87 0)
 			(effects
 				(font
@@ -14605,7 +14605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samtec"
 			(at 146.05 30.48 0)
 			(effects
 				(font
@@ -14614,7 +14614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "ASP-134604-01"
 			(at 146.05 30.48 0)
 			(effects
 				(font
@@ -15307,7 +15307,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ASP-134604-01"
 			(at 72.39 36.83 0)
 			(effects
 				(font
@@ -15316,7 +15316,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "newark:79X1317"
+		(property "Vendor" "digikey:612-ASP-134604-01CT-ND"
 			(at 143.51 -102.87 0)
 			(effects
 				(font
@@ -15325,7 +15325,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samtec"
 			(at 72.39 36.83 0)
 			(effects
 				(font
@@ -15334,7 +15334,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "ASP-134604-01"
 			(at 72.39 36.83 0)
 			(effects
 				(font
@@ -15877,7 +15877,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ASP-134604-01"
 			(at 72.39 140.97 0)
 			(effects
 				(font
@@ -15886,7 +15886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "newark:79X1317"
+		(property "Vendor" "digikey:612-ASP-134604-01CT-ND"
 			(at 143.51 1.27 0)
 			(effects
 				(font
@@ -15895,7 +15895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samtec"
 			(at 72.39 140.97 0)
 			(effects
 				(font
@@ -15904,7 +15904,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "ASP-134604-01"
 			(at 72.39 140.97 0)
 			(effects
 				(font
@@ -16447,7 +16447,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ASP-134604-01"
 			(at 143.51 30.48 0)
 			(effects
 				(font
@@ -16456,7 +16456,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "newark:79X1317"
+		(property "Vendor" "digikey:612-ASP-134604-01CT-ND"
 			(at -1.27 -102.87 0)
 			(effects
 				(font
@@ -16465,7 +16465,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samtec"
 			(at 143.51 30.48 0)
 			(effects
 				(font
@@ -16474,7 +16474,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "ASP-134604-01"
 			(at 143.51 30.48 0)
 			(effects
 				(font
@@ -17083,7 +17083,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ASP-134604-01"
 			(at 146.05 134.62 0)
 			(effects
 				(font
@@ -17092,7 +17092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "newark:79X1317"
+		(property "Vendor" "digikey:612-ASP-134604-01CT-ND"
 			(at 290.83 1.27 0)
 			(effects
 				(font
@@ -17101,7 +17101,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samtec"
 			(at 146.05 134.62 0)
 			(effects
 				(font
@@ -17110,7 +17110,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "ASP-134604-01"
 			(at 146.05 134.62 0)
 			(effects
 				(font
@@ -17653,7 +17653,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ASP-134604-01"
 			(at 69.85 140.97 0)
 			(effects
 				(font
@@ -17662,7 +17662,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "newark:79X1317"
+		(property "Vendor" "digikey:612-ASP-134604-01CT-ND"
 			(at -1.27 1.27 0)
 			(effects
 				(font
@@ -17671,7 +17671,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samtec"
 			(at 69.85 140.97 0)
 			(effects
 				(font
@@ -17680,7 +17680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "ASP-134604-01"
 			(at 69.85 140.97 0)
 			(effects
 				(font

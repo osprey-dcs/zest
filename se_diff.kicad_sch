@@ -1280,7 +1280,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 4.99 OHM 1% 1/10W 0603"
+		(property "Description" "RES SMD 0 OHM JUMPER 1/10W 0603"
 			(at 149.86 48.26 0)
 			(effects
 				(font
@@ -1289,7 +1289,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "digikey:311-4.99HRCT-ND"
+		(property "Vendor" "digikey:P0.0GCT-ND"
 			(at 233.68 275.59 0)
 			(effects
 				(font
@@ -1298,7 +1298,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO "
+		(property "Manufacturer" "Panasonic"
 			(at 149.86 48.26 0)
 			(effects
 				(font
@@ -1307,7 +1307,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "RC0603FR-074R99L "
+		(property "Manufacturer Part Number" "ERJ-3GEY0R00V "
 			(at 149.86 48.26 0)
 			(effects
 				(font
@@ -1367,7 +1367,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "35bf8ad4-e6a4-4320-a107-282de12e0ff3")
 		(property "Reference" "L2301"
 			(at 135.89 52.5781 0)
@@ -1710,7 +1710,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "87afab31-8eb2-4829-abd6-5b83283c11bf")
 		(property "Reference" "C2302"
 			(at 129.54 63.754 0)
@@ -1832,7 +1832,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8b171462-b195-43d2-a9ab-a6b8d688c67c")
 		(property "Reference" "C2301"
 			(at 129.54 41.148 0)
@@ -1993,7 +1993,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES SMD 200 OHM 0.5% 1/16W 0603"
+		(property "Description" "RES 49.9 OHM 0.1% 0.21W 0603"
 			(at 72.39 53.34 0)
 			(effects
 				(font
@@ -2002,7 +2002,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "digikey:RR08P200DCT-ND"
+		(property "Vendor" "digikey:541-2031-1-ND"
 			(at -123.19 -25.4 0)
 			(effects
 				(font
@@ -2011,7 +2011,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Susumu "
+		(property "Manufacturer" "Vishay Dale"
 			(at 72.39 53.34 0)
 			(effects
 				(font
@@ -2020,7 +2020,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "RR0816P-201-D "
+		(property "Manufacturer Part Number" "TNPW060349R9BEEA"
 			(at 72.39 53.34 0)
 			(effects
 				(font
@@ -2116,7 +2116,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES SMD 0 OHM JUMPER 1/10W 0603"
+		(property "Description" "RES SMD 33 OHM 0.5% 1/16W 0603"
 			(at 111.76 58.42 0)
 			(effects
 				(font
@@ -2125,7 +2125,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "digikey:P0.0GCT-ND"
+		(property "Vendor" "digikey:RR08Q33DCT-ND"
 			(at 185.42 -127 0)
 			(effects
 				(font
@@ -2134,7 +2134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "Susumu"
 			(at 111.76 58.42 0)
 			(effects
 				(font
@@ -2143,7 +2143,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "ERJ-3GEY0R00V "
+		(property "Manufacturer Part Number" "RR0816Q-330-D"
 			(at 111.76 58.42 0)
 			(effects
 				(font
@@ -2238,7 +2238,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES SMD 0 OHM JUMPER 1/10W 0603"
+		(property "Description" "RES SMD 33 OHM 0.5% 1/16W 0603"
 			(at 111.76 48.26 0)
 			(effects
 				(font
@@ -2247,7 +2247,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "digikey:P0.0GCT-ND"
+		(property "Vendor" "digikey:RR08Q33DCT-ND"
 			(at 195.58 233.68 0)
 			(effects
 				(font
@@ -2256,7 +2256,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "Susumu"
 			(at 111.76 48.26 0)
 			(effects
 				(font
@@ -2265,7 +2265,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "ERJ-3GEY0R00V "
+		(property "Manufacturer Part Number" "RR0816Q-330-D"
 			(at 111.76 48.26 0)
 			(effects
 				(font
@@ -2581,7 +2581,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10nF 25V C0G 0603"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 101.6 85.09 0)
 			(effects
 				(font
@@ -2796,7 +2796,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 4.99 OHM 1% 1/10W 0603"
+		(property "Description" "RES SMD 0 OHM JUMPER 1/10W 0603"
 			(at 149.86 58.42 0)
 			(effects
 				(font
@@ -2805,7 +2805,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "digikey:311-4.99HRCT-ND"
+		(property "Vendor" "digikey:P0.0GCT-ND"
 			(at 223.52 285.75 0)
 			(effects
 				(font
@@ -2814,7 +2814,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO "
+		(property "Manufacturer" "Panasonic"
 			(at 149.86 58.42 0)
 			(effects
 				(font
@@ -2823,7 +2823,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "RC0603FR-074R99L "
+		(property "Manufacturer Part Number" "ERJ-3GEY0R00V "
 			(at 149.86 58.42 0)
 			(effects
 				(font

@@ -1670,7 +1670,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10nF 25V C0G 0603"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 129.54 82.55 0)
 			(effects
 				(font

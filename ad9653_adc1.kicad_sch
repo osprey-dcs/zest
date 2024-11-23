@@ -4542,7 +4542,7 @@
 				)
 			)
 		)
-		(property "Value" "142-0701-201"
+		(property "Value" "SMA"
 			(at 101.6 149.098 0)
 			(effects
 				(font
@@ -4714,7 +4714,7 @@
 				)
 			)
 		)
-		(property "Value" "142-0701-201"
+		(property "Value" "SMA"
 			(at 101.6 127.254 0)
 			(effects
 				(font
@@ -5195,7 +5195,7 @@
 				)
 			)
 		)
-		(property "Value" "142-0701-201"
+		(property "Value" "SMA"
 			(at 101.6 105.156 0)
 			(effects
 				(font
@@ -5328,7 +5328,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10nF 25V C0G 0603"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 163.83 166.37 0)
 			(effects
 				(font
@@ -5397,7 +5397,7 @@
 				)
 			)
 		)
-		(property "Value" "142-0701-201"
+		(property "Value" "SMA"
 			(at 101.6 81.28 0)
 			(effects
 				(font
@@ -6552,7 +6552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10nF 25V C0G 0603"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 160.02 186.69 0)
 			(effects
 				(font
@@ -6649,7 +6649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10nF 25V C0G 0603"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 114.3 152.4 0)
 			(effects
 				(font
@@ -6976,7 +6976,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10nF 25V C0G 0603"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 114.3 130.81 0)
 			(effects
 				(font
@@ -7301,7 +7301,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10nF 25V C0G 0603"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 114.3 85.09 0)
 			(effects
 				(font
@@ -7491,7 +7491,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10nF 25V C0G 0603"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 160.02 194.31 0)
 			(effects
 				(font
@@ -7587,7 +7587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10nF 25V C0G 0603"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 138.43 209.55 0)
 			(effects
 				(font
@@ -7750,7 +7750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10nF 25V C0G 0603"
+		(property "Description" "CAP CER 10000PF 25V C0G 0603"
 			(at 114.3 109.22 0)
 			(effects
 				(font
