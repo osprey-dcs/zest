@@ -6738,7 +6738,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "91903bcf-184a-40ee-bec6-8b6b6a5fd116")
 		(property "Reference" "C210"
 			(at 158.242 157.48 0)

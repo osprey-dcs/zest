@@ -1203,7 +1203,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a7d73953-d450-44eb-8ae7-2ac940df5021")
 		(property "Reference" "L2501"
@@ -1304,7 +1304,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c93f757d-fd5a-48fb-a651-ad7666dc013e")
 		(property "Reference" "C2502"
 			(at 78.232 73.66 0)
@@ -1570,7 +1570,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "TC4-6+"
+		(property "Manufacturer Part Number" "TC4-6T+"
 			(at 123.19 60.96 0)
 			(effects
 				(font
