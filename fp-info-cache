@@ -1,4 +1,4 @@
-23846558548419567
+23844806843471134
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64693,27 +64693,6 @@ Yellow 5381 Series LED
 0
 2
 2
-Mica_footprints
-Logo_2X
-
-
-0
-0
-0
-Mica_footprints
-SAMTEC_ASP-134604-01
-
-
-0
-160
-160
-Mica_footprints
-WE-PD_7345
-<b> WE-PD SMD Power Inductor<br></b><br>Size: 7345, SMT, 2pins<br>LxWxH=7.3x7.3x4.5mm
-
-0
-2
-2
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -96760,6 +96739,20 @@ Varistor VF
 0
 2
 2
+Zest_Custom_Footprints
+Logo_2X
+
+
+0
+0
+0
+Zest_Custom_Footprints
+ORNL_logo
+
+
+0
+0
+0
 Zest_Custom_Footprints
 SAMTEC_ASP-134604-01
 

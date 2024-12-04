@@ -5543,7 +5543,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e6b4ac49-f0e0-448f-b28c-78ffbcf147ef")
 		(property "Reference" "R805"
 			(at 95.504 28.702 90)
