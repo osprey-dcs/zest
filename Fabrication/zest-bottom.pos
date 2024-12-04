@@ -1,0 +1,8 @@
+### Footprint positions - created on 2024-12-04T09:42:07-0800 ###
+### Printed by KiCad version 8.0.5
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                       Package                PosX       PosY       Rot  Side
+REF**     ORNL_logo                 ORNL_logo          173.8046  -145.7703   90.0000  bottom
+REF**     Logo_Open_Hardware_Small  Logo_2X            161.6710  -146.1770   90.0000  bottom
+## End

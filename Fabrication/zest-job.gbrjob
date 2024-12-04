@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "8.0.5"
     },
-    "CreationDate": "2024-11-23T04:47:03-08:00"
+    "CreationDate": "2024-12-04T09:42:51-08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -18,8 +18,9 @@
       "Y": 181.8109
     },
     "LayerNumber": 8,
-    "BoardThickness": 1.6,
-    "Finish": "None"
+    "BoardThickness": 1.4974,
+    "Finish": "ENIG",
+    "ImpedanceControlled": true
   },
   "DesignRules": [
     {
@@ -111,11 +112,22 @@
       "Path": "zest-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
+    },
+    {
+      "Path": "zest-F_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "zest-B_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Bot",
+      "FilePolarity": "Positive"
     }
   ],
   "MaterialStackup": [
     {
       "Type": "Legend",
+      "Color": "Green",
       "Name": "Top Silk Screen"
     },
     {
@@ -129,91 +141,112 @@
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
+      "Thickness": 0.017,
       "Name": "F.Cu"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.1857,
+      "Color": "R109G116B75",
+      "Thickness": 0.1118,
       "Material": "FR4",
+      "DielectricConstant": "4.5",
+      "LossTangent": "0.02",
       "Name": "F.Cu/In1.Cu",
       "Notes": "Type: dielectric layer 1 (from F.Cu to In1.Cu)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
+      "Thickness": 0.0348,
       "Name": "In1.Cu"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.1857,
+      "Color": "R109G116B75",
+      "Thickness": 0.2032,
       "Material": "FR4",
+      "DielectricConstant": "4.5",
+      "LossTangent": "0.02",
       "Name": "In1.Cu/In2.Cu",
       "Notes": "Type: dielectric layer 2 (from In1.Cu to In2.Cu)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
+      "Thickness": 0.017,
       "Name": "In2.Cu"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.1857,
+      "Color": "R109G116B75",
+      "Thickness": 0.2184,
       "Material": "FR4",
+      "DielectricConstant": "4.5",
+      "LossTangent": "0.02",
       "Name": "In2.Cu/In3.Cu",
       "Notes": "Type: dielectric layer 3 (from In2.Cu to In3.Cu)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
+      "Thickness": 0.0348,
       "Name": "In3.Cu"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.1857,
+      "Color": "R109G116B75",
+      "Thickness": 0.2032,
       "Material": "FR4",
+      "DielectricConstant": "4.5",
+      "LossTangent": "0.02",
       "Name": "In3.Cu/In4.Cu",
       "Notes": "Type: dielectric layer 4 (from In3.Cu to In4.Cu)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
+      "Thickness": 0.017,
       "Name": "In4.Cu"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.1857,
+      "Color": "R109G116B75",
+      "Thickness": 0.2184,
       "Material": "FR4",
+      "DielectricConstant": "4.5",
+      "LossTangent": "0.02",
       "Name": "In4.Cu/In5.Cu",
       "Notes": "Type: dielectric layer 5 (from In4.Cu to In5.Cu)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
+      "Thickness": 0.0348,
       "Name": "In5.Cu"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.1857,
+      "Color": "R109G116B75",
+      "Thickness": 0.2032,
       "Material": "FR4",
+      "DielectricConstant": "4.5",
+      "LossTangent": "0.02",
       "Name": "In5.Cu/In6.Cu",
       "Notes": "Type: dielectric layer 6 (from In5.Cu to In6.Cu)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
+      "Thickness": 0.0348,
       "Name": "In6.Cu"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.1857,
+      "Color": "R109G116B75",
+      "Thickness": 0.1118,
       "Material": "FR4",
+      "DielectricConstant": "4.5",
+      "LossTangent": "0.02",
       "Name": "In6.Cu/B.Cu",
       "Notes": "Type: dielectric layer 7 (from In6.Cu to B.Cu)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
+      "Thickness": 0.017,
       "Name": "B.Cu"
     },
     {
@@ -227,6 +260,7 @@
     },
     {
       "Type": "Legend",
+      "Color": "Green",
       "Name": "Bottom Silk Screen"
     }
   ]
