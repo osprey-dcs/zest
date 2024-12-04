@@ -2429,7 +2429,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "25PF"
+		(property "Value" "5PF"
 			(at 126.492 54.6099 0)
 			(effects
 				(font
@@ -2456,7 +2456,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 25PF 50V C0G/NP0 0603"
+		(property "Description" "CAP CER 5PF 50V C0G/NP0 0603"
 			(at 124.46 53.34 0)
 			(effects
 				(font
@@ -2465,7 +2465,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "digikey:1276-2244-1-ND"
+		(property "Vendor" "digikey:399-17323-1-ND"
 			(at -82.55 -25.4 0)
 			(effects
 				(font
@@ -2474,7 +2474,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Samsung"
+		(property "Manufacturer" "Kemet"
 			(at 124.46 53.34 0)
 			(effects
 				(font
@@ -2483,7 +2483,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CL10C250JB8NNNC "
+		(property "Manufacturer Part Number" "CBR06C509A5GAC"
 			(at 124.46 53.34 0)
 			(effects
 				(font

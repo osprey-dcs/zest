@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "8.0.5"
     },
-    "CreationDate": "2024-12-04T09:42:51-08:00"
+    "CreationDate": "2024-12-04T11:28:10-08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "zest",
       "GUID": "7a657374-2e6b-4696-9361-645f70636258",
-      "Revision": "rev?"
+      "Revision": "v1.2m"
     },
     "Size": {
       "X": 110.0506,
